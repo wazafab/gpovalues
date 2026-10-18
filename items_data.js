@@ -8,8 +8,8 @@ window.GPO_ITEMS = [
     "tier": "Exclusive",
     "subTier": "Standard",
     "rankInTier": 1,
-    "value": 2504940,
-    "lcValue": 10735.61,
+    "value": 2494920,
+    "lcValue": 10692.67,
     "demand": "Medium",
     "trend": "Stable",
     "category": "accessories",
@@ -32,11 +32,11 @@ window.GPO_ITEMS = [
         "tier_pressure_alert": null
       },
       "24h": {
-        "demand_count": 1,
-        "supply_count": 0,
-        "pressure_ratio": 2.0,
-        "predicted_change_pct": 5.5,
-        "trend": "Rising",
+        "demand_count": 21,
+        "supply_count": 25,
+        "pressure_ratio": 0.85,
+        "predicted_change_pct": -0.8,
+        "trend": "Stable",
         "tier_pressure_alert": null
       },
       "7d": {
@@ -106,8 +106,8 @@ window.GPO_ITEMS = [
     "tier": "Exclusive",
     "subTier": "Standard",
     "rankInTier": 3,
-    "value": 1508940,
-    "lcValue": 6466.98,
+    "value": 1502904,
+    "lcValue": 6441.11,
     "demand": "Low",
     "trend": "Rising",
     "category": "accessories",
@@ -130,10 +130,10 @@ window.GPO_ITEMS = [
         "tier_pressure_alert": null
       },
       "24h": {
-        "demand_count": 0,
-        "supply_count": 0,
-        "pressure_ratio": 1.0,
-        "predicted_change_pct": 0.0,
+        "demand_count": 3,
+        "supply_count": 4,
+        "pressure_ratio": 0.8,
+        "predicted_change_pct": -1.1,
         "trend": "Stable",
         "tier_pressure_alert": null
       },
@@ -155,8 +155,8 @@ window.GPO_ITEMS = [
     "tier": "Tier SS",
     "subTier": "High",
     "rankInTier": 1,
-    "value": 720440,
-    "lcValue": 3087.64,
+    "value": 717558,
+    "lcValue": 3075.29,
     "demand": "Low",
     "trend": "Rising",
     "category": "accessories",
@@ -179,8 +179,8 @@ window.GPO_ITEMS = [
         "tier_pressure_alert": null
       },
       "24h": {
-        "demand_count": 0,
-        "supply_count": 0,
+        "demand_count": 3,
+        "supply_count": 3,
         "pressure_ratio": 1.0,
         "predicted_change_pct": 0.0,
         "trend": "Stable",
@@ -253,8 +253,8 @@ window.GPO_ITEMS = [
     "tier": "Tier SS",
     "subTier": "High",
     "rankInTier": 3,
-    "value": 571040,
-    "lcValue": 2447.35,
+    "value": 568756,
+    "lcValue": 2437.56,
     "demand": "Medium",
     "trend": "Falling",
     "category": "weapons",
@@ -277,10 +277,10 @@ window.GPO_ITEMS = [
         "tier_pressure_alert": null
       },
       "24h": {
-        "demand_count": 0,
-        "supply_count": 2,
-        "pressure_ratio": 0.33,
-        "predicted_change_pct": -3.7,
+        "demand_count": 25,
+        "supply_count": 46,
+        "pressure_ratio": 0.55,
+        "predicted_change_pct": -2.5,
         "trend": "Falling",
         "tier_pressure_alert": null
       },
@@ -302,8 +302,8 @@ window.GPO_ITEMS = [
     "tier": "Tier SS",
     "subTier": "High",
     "rankInTier": 4,
-    "value": 496340,
-    "lcValue": 2127.2,
+    "value": 494355,
+    "lcValue": 2118.69,
     "demand": "Medium",
     "trend": "Falling",
     "category": "outfits",
@@ -326,10 +326,10 @@ window.GPO_ITEMS = [
         "tier_pressure_alert": null
       },
       "24h": {
-        "demand_count": 1,
-        "supply_count": 3,
-        "pressure_ratio": 0.5,
-        "predicted_change_pct": -2.8,
+        "demand_count": 11,
+        "supply_count": 31,
+        "pressure_ratio": 0.38,
+        "predicted_change_pct": -3.4,
         "trend": "Falling",
         "tier_pressure_alert": null
       },
@@ -351,8 +351,8 @@ window.GPO_ITEMS = [
     "tier": "Tier SS",
     "subTier": "Mid",
     "rankInTier": 5,
-    "value": 391467,
-    "lcValue": 1677.74,
+    "value": 392678,
+    "lcValue": 1682.93,
     "demand": "Medium",
     "trend": "Rising",
     "category": "weapons",
@@ -375,10 +375,10 @@ window.GPO_ITEMS = [
         "tier_pressure_alert": null
       },
       "24h": {
-        "demand_count": 3,
-        "supply_count": 2,
-        "pressure_ratio": 1.33,
-        "predicted_change_pct": 1.8,
+        "demand_count": 61,
+        "supply_count": 47,
+        "pressure_ratio": 1.29,
+        "predicted_change_pct": 1.6,
         "trend": "Rising",
         "tier_pressure_alert": null
       },
@@ -400,8 +400,8 @@ window.GPO_ITEMS = [
     "tier": "Tier SS",
     "subTier": "Mid",
     "rankInTier": 6,
-    "value": 338640,
-    "lcValue": 1451.34,
+    "value": 337285,
+    "lcValue": 1445.53,
     "demand": "Medium",
     "trend": "Stable",
     "category": "weapons",
@@ -424,11 +424,11 @@ window.GPO_ITEMS = [
         "tier_pressure_alert": null
       },
       "24h": {
-        "demand_count": 1,
-        "supply_count": 2,
-        "pressure_ratio": 0.67,
-        "predicted_change_pct": -1.8,
-        "trend": "Falling",
+        "demand_count": 56,
+        "supply_count": 54,
+        "pressure_ratio": 1.04,
+        "predicted_change_pct": 0.2,
+        "trend": "Stable",
         "tier_pressure_alert": null
       },
       "7d": {
@@ -449,8 +449,8 @@ window.GPO_ITEMS = [
     "tier": "Tier SS",
     "subTier": "Mid",
     "rankInTier": 7,
-    "value": 288840,
-    "lcValue": 1237.9,
+    "value": 287685,
+    "lcValue": 1232.95,
     "demand": "Medium",
     "trend": "Falling",
     "category": "weapons",
@@ -473,11 +473,11 @@ window.GPO_ITEMS = [
         "tier_pressure_alert": null
       },
       "24h": {
-        "demand_count": 2,
-        "supply_count": 0,
-        "pressure_ratio": 3.0,
-        "predicted_change_pct": 11.0,
-        "trend": "Rising",
+        "demand_count": 24,
+        "supply_count": 36,
+        "pressure_ratio": 0.68,
+        "predicted_change_pct": -1.8,
+        "trend": "Falling",
         "tier_pressure_alert": null
       },
       "7d": {
@@ -498,8 +498,8 @@ window.GPO_ITEMS = [
     "tier": "Tier S",
     "subTier": "High",
     "rankInTier": 1,
-    "value": 148926,
-    "lcValue": 638.26,
+    "value": 149522,
+    "lcValue": 640.82,
     "demand": "High",
     "trend": "Stable",
     "category": "weapons",
@@ -522,11 +522,11 @@ window.GPO_ITEMS = [
         "tier_pressure_alert": null
       },
       "24h": {
-        "demand_count": 9,
-        "supply_count": 6,
-        "pressure_ratio": 1.43,
-        "predicted_change_pct": 2.4,
-        "trend": "Rising",
+        "demand_count": 152,
+        "supply_count": 162,
+        "pressure_ratio": 0.94,
+        "predicted_change_pct": -0.3,
+        "trend": "Stable",
         "tier_pressure_alert": null
       },
       "7d": {
@@ -547,8 +547,8 @@ window.GPO_ITEMS = [
     "tier": "Tier S",
     "subTier": "High",
     "rankInTier": 2,
-    "value": 137214,
-    "lcValue": 588.07,
+    "value": 137699,
+    "lcValue": 590.15,
     "demand": "Low",
     "trend": "Falling",
     "category": "weapons",
@@ -571,11 +571,11 @@ window.GPO_ITEMS = [
         "tier_pressure_alert": null
       },
       "24h": {
-        "demand_count": 0,
-        "supply_count": 0,
-        "pressure_ratio": 1.0,
-        "predicted_change_pct": 0.0,
-        "trend": "Stable",
+        "demand_count": 8,
+        "supply_count": 23,
+        "pressure_ratio": 0.38,
+        "predicted_change_pct": -3.4,
+        "trend": "Falling",
         "tier_pressure_alert": null
       },
       "7d": {
@@ -596,8 +596,8 @@ window.GPO_ITEMS = [
     "tier": "Very Unstable",
     "subTier": "Standard",
     "rankInTier": 1,
-    "value": 124810,
-    "lcValue": 534.91,
+    "value": 124311,
+    "lcValue": 532.77,
     "demand": "Low",
     "trend": "Stable",
     "category": "accessories",
@@ -620,8 +620,8 @@ window.GPO_ITEMS = [
         "tier_pressure_alert": null
       },
       "24h": {
-        "demand_count": 0,
-        "supply_count": 0,
+        "demand_count": 5,
+        "supply_count": 5,
         "pressure_ratio": 1.0,
         "predicted_change_pct": 0.0,
         "trend": "Stable",
@@ -645,8 +645,8 @@ window.GPO_ITEMS = [
     "tier": "Tier S",
     "subTier": "High",
     "rankInTier": 3,
-    "value": 123810,
-    "lcValue": 530.62,
+    "value": 123311,
+    "lcValue": 528.48,
     "demand": "High",
     "trend": "Falling",
     "category": "misc",
@@ -669,10 +669,10 @@ window.GPO_ITEMS = [
         "tier_pressure_alert": null
       },
       "24h": {
-        "demand_count": 4,
-        "supply_count": 15,
-        "pressure_ratio": 0.31,
-        "predicted_change_pct": -3.8,
+        "demand_count": 145,
+        "supply_count": 227,
+        "pressure_ratio": 0.64,
+        "predicted_change_pct": -2.0,
         "trend": "Falling",
         "tier_pressure_alert": null
       },
@@ -694,8 +694,8 @@ window.GPO_ITEMS = [
     "tier": "Very Unstable",
     "subTier": "Standard",
     "rankInTier": 2,
-    "value": 112880,
-    "lcValue": 483.78,
+    "value": 112428,
+    "lcValue": 481.84,
     "demand": "Low",
     "trend": "Stable",
     "category": "accessories",
@@ -718,10 +718,10 @@ window.GPO_ITEMS = [
         "tier_pressure_alert": null
       },
       "24h": {
-        "demand_count": 1,
-        "supply_count": 0,
-        "pressure_ratio": 2.0,
-        "predicted_change_pct": 5.5,
+        "demand_count": 4,
+        "supply_count": 3,
+        "pressure_ratio": 1.25,
+        "predicted_change_pct": 1.4,
         "trend": "Rising",
         "tier_pressure_alert": null
       },
@@ -743,8 +743,8 @@ window.GPO_ITEMS = [
     "tier": "Tier S",
     "subTier": "High",
     "rankInTier": 4,
-    "value": 111880,
-    "lcValue": 479.49,
+    "value": 111428,
+    "lcValue": 477.56,
     "demand": "Medium",
     "trend": "Falling",
     "category": "misc",
@@ -767,11 +767,11 @@ window.GPO_ITEMS = [
         "tier_pressure_alert": null
       },
       "24h": {
-        "demand_count": 2,
-        "supply_count": 1,
-        "pressure_ratio": 1.5,
-        "predicted_change_pct": 2.8,
-        "trend": "Rising",
+        "demand_count": 65,
+        "supply_count": 124,
+        "pressure_ratio": 0.53,
+        "predicted_change_pct": -2.6,
+        "trend": "Falling",
         "tier_pressure_alert": null
       },
       "7d": {
@@ -816,11 +816,11 @@ window.GPO_ITEMS = [
         "tier_pressure_alert": null
       },
       "24h": {
-        "demand_count": 0,
+        "demand_count": 1,
         "supply_count": 0,
-        "pressure_ratio": 1.0,
-        "predicted_change_pct": 0.0,
-        "trend": "Stable",
+        "pressure_ratio": 2.0,
+        "predicted_change_pct": 5.5,
+        "trend": "Rising",
         "tier_pressure_alert": null
       },
       "7d": {
@@ -841,8 +841,8 @@ window.GPO_ITEMS = [
     "tier": "Tier S",
     "subTier": "High",
     "rankInTier": 5,
-    "value": 100667,
-    "lcValue": 431.44,
+    "value": 100264,
+    "lcValue": 429.71,
     "demand": "High",
     "trend": "Stable",
     "category": "weapons",
@@ -865,11 +865,11 @@ window.GPO_ITEMS = [
         "tier_pressure_alert": null
       },
       "24h": {
-        "demand_count": 16,
-        "supply_count": 23,
-        "pressure_ratio": 0.71,
-        "predicted_change_pct": -1.6,
-        "trend": "Falling",
+        "demand_count": 352,
+        "supply_count": 363,
+        "pressure_ratio": 0.97,
+        "predicted_change_pct": -0.2,
+        "trend": "Stable",
         "tier_pressure_alert": null
       },
       "7d": {
@@ -964,10 +964,10 @@ window.GPO_ITEMS = [
       },
       "24h": {
         "demand_count": 0,
-        "supply_count": 0,
-        "pressure_ratio": 1.0,
-        "predicted_change_pct": 0.0,
-        "trend": "Stable",
+        "supply_count": 3,
+        "pressure_ratio": 0.25,
+        "predicted_change_pct": -4.1,
+        "trend": "Falling",
         "tier_pressure_alert": null
       },
       "7d": {
@@ -988,8 +988,8 @@ window.GPO_ITEMS = [
     "tier": "Tier S",
     "subTier": "High",
     "rankInTier": 6,
-    "value": 75300,
-    "lcValue": 322.72,
+    "value": 75601,
+    "lcValue": 324.01,
     "demand": "Medium",
     "trend": "Falling",
     "category": "weapons",
@@ -1012,10 +1012,10 @@ window.GPO_ITEMS = [
         "tier_pressure_alert": null
       },
       "24h": {
-        "demand_count": 1,
-        "supply_count": 4,
-        "pressure_ratio": 0.4,
-        "predicted_change_pct": -3.3,
+        "demand_count": 24,
+        "supply_count": 123,
+        "pressure_ratio": 0.2,
+        "predicted_change_pct": -4.4,
         "trend": "Falling",
         "tier_pressure_alert": null
       },
@@ -1086,8 +1086,8 @@ window.GPO_ITEMS = [
     "tier": "Tier S",
     "subTier": "Mid",
     "rankInTier": 7,
-    "value": 62750,
-    "lcValue": 268.93,
+    "value": 63001,
+    "lcValue": 270.01,
     "demand": "High",
     "trend": "Stable",
     "category": "accessories",
@@ -1110,11 +1110,11 @@ window.GPO_ITEMS = [
         "tier_pressure_alert": null
       },
       "24h": {
-        "demand_count": 10,
-        "supply_count": 16,
-        "pressure_ratio": 0.65,
-        "predicted_change_pct": -1.9,
-        "trend": "Falling",
+        "demand_count": 280,
+        "supply_count": 267,
+        "pressure_ratio": 1.05,
+        "predicted_change_pct": 0.3,
+        "trend": "Stable",
         "tier_pressure_alert": null
       },
       "7d": {
@@ -1135,8 +1135,8 @@ window.GPO_ITEMS = [
     "tier": "Tier S",
     "subTier": "Mid",
     "rankInTier": 8,
-    "value": 58566,
-    "lcValue": 251.0,
+    "value": 58800,
+    "lcValue": 252.0,
     "demand": "High",
     "trend": "Falling",
     "category": "misc",
@@ -1159,10 +1159,10 @@ window.GPO_ITEMS = [
         "tier_pressure_alert": null
       },
       "24h": {
-        "demand_count": 4,
-        "supply_count": 17,
-        "pressure_ratio": 0.28,
-        "predicted_change_pct": -4.0,
+        "demand_count": 140,
+        "supply_count": 318,
+        "pressure_ratio": 0.44,
+        "predicted_change_pct": -3.1,
         "trend": "Falling",
         "tier_pressure_alert": null
       },
@@ -1184,8 +1184,8 @@ window.GPO_ITEMS = [
     "tier": "Very Unstable",
     "subTier": "Standard",
     "rankInTier": 7,
-    "value": 54780,
-    "lcValue": 234.77,
+    "value": 54581,
+    "lcValue": 233.92,
     "demand": "Medium",
     "trend": "Falling",
     "category": "accessories",
@@ -1208,11 +1208,11 @@ window.GPO_ITEMS = [
         "tier_pressure_alert": null
       },
       "24h": {
-        "demand_count": 2,
-        "supply_count": 1,
-        "pressure_ratio": 1.5,
-        "predicted_change_pct": 2.8,
-        "trend": "Rising",
+        "demand_count": 19,
+        "supply_count": 21,
+        "pressure_ratio": 0.91,
+        "predicted_change_pct": -0.5,
+        "trend": "Stable",
         "tier_pressure_alert": null
       },
       "7d": {
@@ -1233,8 +1233,8 @@ window.GPO_ITEMS = [
     "tier": "Tier S",
     "subTier": "Mid",
     "rankInTier": 9,
-    "value": 54384,
-    "lcValue": 233.08,
+    "value": 54417,
+    "lcValue": 233.22,
     "demand": "Low",
     "trend": "Falling",
     "category": "accessories",
@@ -1257,10 +1257,10 @@ window.GPO_ITEMS = [
         "tier_pressure_alert": null
       },
       "24h": {
-        "demand_count": 0,
-        "supply_count": 1,
-        "pressure_ratio": 0.5,
-        "predicted_change_pct": -2.8,
+        "demand_count": 9,
+        "supply_count": 44,
+        "pressure_ratio": 0.22,
+        "predicted_change_pct": -4.3,
         "trend": "Falling",
         "tier_pressure_alert": null
       },
@@ -1282,8 +1282,8 @@ window.GPO_ITEMS = [
     "tier": "Tier S",
     "subTier": "Mid",
     "rankInTier": 10,
-    "value": 50200,
-    "lcValue": 215.15,
+    "value": 50401,
+    "lcValue": 216.01,
     "demand": "Low",
     "trend": "Falling",
     "category": "weapons",
@@ -1306,11 +1306,11 @@ window.GPO_ITEMS = [
         "tier_pressure_alert": null
       },
       "24h": {
-        "demand_count": 2,
-        "supply_count": 2,
-        "pressure_ratio": 1.0,
-        "predicted_change_pct": 0.0,
-        "trend": "Stable",
+        "demand_count": 10,
+        "supply_count": 25,
+        "pressure_ratio": 0.42,
+        "predicted_change_pct": -3.2,
+        "trend": "Falling",
         "tier_pressure_alert": null
       },
       "7d": {
@@ -1331,8 +1331,8 @@ window.GPO_ITEMS = [
     "tier": "Tier S",
     "subTier": "Mid",
     "rankInTier": 11,
-    "value": 45650,
-    "lcValue": 195.65,
+    "value": 45467,
+    "lcValue": 194.86,
     "demand": "High",
     "trend": "Falling",
     "category": "outfits",
@@ -1355,10 +1355,10 @@ window.GPO_ITEMS = [
         "tier_pressure_alert": null
       },
       "24h": {
-        "demand_count": 5,
-        "supply_count": 15,
-        "pressure_ratio": 0.38,
-        "predicted_change_pct": -3.4,
+        "demand_count": 134,
+        "supply_count": 297,
+        "pressure_ratio": 0.45,
+        "predicted_change_pct": -3.0,
         "trend": "Falling",
         "tier_pressure_alert": null
       },
@@ -1429,8 +1429,8 @@ window.GPO_ITEMS = [
     "tier": "Tier S",
     "subTier": "Low",
     "rankInTier": 12,
-    "value": 37350,
-    "lcValue": 160.07,
+    "value": 37201,
+    "lcValue": 159.44,
     "demand": "Medium",
     "trend": "Falling",
     "category": "accessories",
@@ -1453,10 +1453,10 @@ window.GPO_ITEMS = [
         "tier_pressure_alert": null
       },
       "24h": {
-        "demand_count": 2,
-        "supply_count": 12,
-        "pressure_ratio": 0.23,
-        "predicted_change_pct": -4.2,
+        "demand_count": 71,
+        "supply_count": 247,
+        "pressure_ratio": 0.29,
+        "predicted_change_pct": -3.9,
         "trend": "Falling",
         "tier_pressure_alert": null
       },
@@ -1478,8 +1478,8 @@ window.GPO_ITEMS = [
     "tier": "Tier S",
     "subTier": "Low",
     "rankInTier": 13,
-    "value": 35559,
-    "lcValue": 152.4,
+    "value": 35689,
+    "lcValue": 152.96,
     "demand": "Medium",
     "trend": "Falling",
     "category": "accessories",
@@ -1502,10 +1502,10 @@ window.GPO_ITEMS = [
         "tier_pressure_alert": null
       },
       "24h": {
-        "demand_count": 1,
-        "supply_count": 2,
-        "pressure_ratio": 0.67,
-        "predicted_change_pct": -1.8,
+        "demand_count": 12,
+        "supply_count": 57,
+        "pressure_ratio": 0.22,
+        "predicted_change_pct": -4.3,
         "trend": "Falling",
         "tier_pressure_alert": null
       },
@@ -1527,8 +1527,8 @@ window.GPO_ITEMS = [
     "tier": "Tier S",
     "subTier": "Low",
     "rankInTier": 14,
-    "value": 33200,
-    "lcValue": 142.29,
+    "value": 33067,
+    "lcValue": 141.72,
     "demand": "Very High",
     "trend": "Rising",
     "category": "misc",
@@ -1551,11 +1551,11 @@ window.GPO_ITEMS = [
         "tier_pressure_alert": null
       },
       "24h": {
-        "demand_count": 154,
-        "supply_count": 62,
-        "pressure_ratio": 2.46,
-        "predicted_change_pct": 8.0,
-        "trend": "Overpaid",
+        "demand_count": 2929,
+        "supply_count": 1876,
+        "pressure_ratio": 1.56,
+        "predicted_change_pct": 3.1,
+        "trend": "Rising",
         "tier_pressure_alert": null
       },
       "7d": {
@@ -1625,8 +1625,8 @@ window.GPO_ITEMS = [
     "tier": "Tier S",
     "subTier": "Low",
     "rankInTier": 15,
-    "value": 31375,
-    "lcValue": 134.47,
+    "value": 31500,
+    "lcValue": 135.0,
     "demand": "Medium",
     "trend": "Falling",
     "category": "misc",
@@ -1649,10 +1649,10 @@ window.GPO_ITEMS = [
         "tier_pressure_alert": null
       },
       "24h": {
-        "demand_count": 5,
-        "supply_count": 19,
-        "pressure_ratio": 0.3,
-        "predicted_change_pct": -3.8,
+        "demand_count": 77,
+        "supply_count": 521,
+        "pressure_ratio": 0.15,
+        "predicted_change_pct": -4.7,
         "trend": "Falling",
         "tier_pressure_alert": null
       },
@@ -1723,8 +1723,8 @@ window.GPO_ITEMS = [
     "tier": "Tier S",
     "subTier": "Low",
     "rankInTier": 17,
-    "value": 26975,
-    "lcValue": 115.61,
+    "value": 26867,
+    "lcValue": 115.15,
     "demand": "High",
     "trend": "Falling",
     "category": "misc",
@@ -1747,10 +1747,10 @@ window.GPO_ITEMS = [
         "tier_pressure_alert": null
       },
       "24h": {
-        "demand_count": 6,
-        "supply_count": 24,
-        "pressure_ratio": 0.28,
-        "predicted_change_pct": -4.0,
+        "demand_count": 151,
+        "supply_count": 686,
+        "pressure_ratio": 0.22,
+        "predicted_change_pct": -4.3,
         "trend": "Falling",
         "tier_pressure_alert": null
       },
@@ -1772,8 +1772,8 @@ window.GPO_ITEMS = [
     "tier": "Tier S",
     "subTier": "Low",
     "rankInTier": 18,
-    "value": 24900,
-    "lcValue": 106.72,
+    "value": 24800,
+    "lcValue": 106.29,
     "demand": "Medium",
     "trend": "Falling",
     "category": "misc",
@@ -1796,8 +1796,8 @@ window.GPO_ITEMS = [
         "tier_pressure_alert": null
       },
       "24h": {
-        "demand_count": 5,
-        "supply_count": 40,
+        "demand_count": 122,
+        "supply_count": 831,
         "pressure_ratio": 0.15,
         "predicted_change_pct": -4.7,
         "trend": "Falling",
@@ -1821,8 +1821,8 @@ window.GPO_ITEMS = [
     "tier": "Tier A+",
     "subTier": "High",
     "rankInTier": 1,
-    "value": 21580,
-    "lcValue": 92.49,
+    "value": 21494,
+    "lcValue": 92.12,
     "demand": "Medium",
     "trend": "Falling",
     "category": "misc",
@@ -1845,10 +1845,10 @@ window.GPO_ITEMS = [
         "tier_pressure_alert": null
       },
       "24h": {
-        "demand_count": 2,
-        "supply_count": 10,
-        "pressure_ratio": 0.27,
-        "predicted_change_pct": -4.0,
+        "demand_count": 71,
+        "supply_count": 278,
+        "pressure_ratio": 0.26,
+        "predicted_change_pct": -4.1,
         "trend": "Falling",
         "tier_pressure_alert": null
       },
@@ -1870,8 +1870,8 @@ window.GPO_ITEMS = [
     "tier": "Tier A+",
     "subTier": "High",
     "rankInTier": 2,
-    "value": 20110,
-    "lcValue": 86.19,
+    "value": 20060,
+    "lcValue": 85.97,
     "demand": "High",
     "trend": "Falling",
     "category": "accessories",
@@ -1894,11 +1894,11 @@ window.GPO_ITEMS = [
         "tier_pressure_alert": null
       },
       "24h": {
-        "demand_count": 8,
-        "supply_count": 6,
-        "pressure_ratio": 1.29,
-        "predicted_change_pct": 1.6,
-        "trend": "Rising",
+        "demand_count": 179,
+        "supply_count": 273,
+        "pressure_ratio": 0.66,
+        "predicted_change_pct": -1.9,
+        "trend": "Falling",
         "tier_pressure_alert": null
       },
       "7d": {
@@ -1919,8 +1919,8 @@ window.GPO_ITEMS = [
     "tier": "Very Unstable",
     "subTier": "Standard",
     "rankInTier": 10,
-    "value": 19960,
-    "lcValue": 85.54,
+    "value": 19910,
+    "lcValue": 85.33,
     "demand": "Very Low",
     "trend": "Stable",
     "category": "outfits",
@@ -1968,8 +1968,8 @@ window.GPO_ITEMS = [
     "tier": "Tier A+",
     "subTier": "High",
     "rankInTier": 3,
-    "value": 18592,
-    "lcValue": 79.68,
+    "value": 18518,
+    "lcValue": 79.36,
     "demand": "Very High",
     "trend": "Overpaid",
     "category": "misc",
@@ -1992,10 +1992,10 @@ window.GPO_ITEMS = [
         "tier_pressure_alert": null
       },
       "24h": {
-        "demand_count": 55,
-        "supply_count": 28,
-        "pressure_ratio": 1.93,
-        "predicted_change_pct": 5.1,
+        "demand_count": 1369,
+        "supply_count": 744,
+        "pressure_ratio": 1.84,
+        "predicted_change_pct": 4.6,
         "trend": "Overpaid",
         "tier_pressure_alert": null
       },
@@ -2017,8 +2017,8 @@ window.GPO_ITEMS = [
     "tier": "Tier A+",
     "subTier": "High",
     "rankInTier": 4,
-    "value": 17236,
-    "lcValue": 73.87,
+    "value": 17305,
+    "lcValue": 74.17,
     "demand": "Medium",
     "trend": "Falling",
     "category": "accessories",
@@ -2041,18 +2041,18 @@ window.GPO_ITEMS = [
         "tier_pressure_alert": null
       },
       "24h": {
-        "demand_count": 4,
-        "supply_count": 4,
-        "pressure_ratio": 1.0,
-        "predicted_change_pct": 0.0,
+        "demand_count": 131,
+        "supply_count": 165,
+        "pressure_ratio": 0.8,
+        "predicted_change_pct": -1.1,
         "trend": "Stable",
         "tier_pressure_alert": null
       },
       "7d": {
-        "demand_count": 414,
-        "supply_count": 524,
-        "pressure_ratio": 0.79,
-        "predicted_change_pct": -1.5,
+        "demand_count": 416,
+        "supply_count": 522,
+        "pressure_ratio": 0.8,
+        "predicted_change_pct": -1.4,
         "trend": "Stable",
         "tier_pressure_alert": null
       }
@@ -2115,8 +2115,8 @@ window.GPO_ITEMS = [
     "tier": "Tier A+",
     "subTier": "Mid",
     "rankInTier": 6,
-    "value": 13386,
-    "lcValue": 57.37,
+    "value": 13440,
+    "lcValue": 57.6,
     "demand": "High",
     "trend": "Stable",
     "category": "accessories",
@@ -2139,11 +2139,11 @@ window.GPO_ITEMS = [
         "tier_pressure_alert": null
       },
       "24h": {
-        "demand_count": 2,
-        "supply_count": 4,
-        "pressure_ratio": 0.6,
-        "predicted_change_pct": -2.2,
-        "trend": "Falling",
+        "demand_count": 155,
+        "supply_count": 183,
+        "pressure_ratio": 0.85,
+        "predicted_change_pct": -0.8,
+        "trend": "Stable",
         "tier_pressure_alert": null
       },
       "7d": {
@@ -2164,8 +2164,8 @@ window.GPO_ITEMS = [
     "tier": "Tier A+",
     "subTier": "Mid",
     "rankInTier": 7,
-    "value": 12714,
-    "lcValue": 54.49,
+    "value": 12752,
+    "lcValue": 54.65,
     "demand": "High",
     "trend": "Stable",
     "category": "weapons",
@@ -2188,11 +2188,11 @@ window.GPO_ITEMS = [
         "tier_pressure_alert": null
       },
       "24h": {
-        "demand_count": 10,
-        "supply_count": 19,
-        "pressure_ratio": 0.55,
-        "predicted_change_pct": -2.5,
-        "trend": "Falling",
+        "demand_count": 415,
+        "supply_count": 336,
+        "pressure_ratio": 1.23,
+        "predicted_change_pct": 1.3,
+        "trend": "Stable",
         "tier_pressure_alert": null
       },
       "7d": {
@@ -2262,8 +2262,8 @@ window.GPO_ITEMS = [
     "tier": "Tier A+",
     "subTier": "Mid",
     "rankInTier": 9,
-    "value": 11288,
-    "lcValue": 48.38,
+    "value": 11243,
+    "lcValue": 48.18,
     "demand": "High",
     "trend": "Falling",
     "category": "weapons",
@@ -2286,10 +2286,10 @@ window.GPO_ITEMS = [
         "tier_pressure_alert": null
       },
       "24h": {
-        "demand_count": 13,
-        "supply_count": 33,
-        "pressure_ratio": 0.41,
-        "predicted_change_pct": -3.2,
+        "demand_count": 412,
+        "supply_count": 902,
+        "pressure_ratio": 0.46,
+        "predicted_change_pct": -3.0,
         "trend": "Falling",
         "tier_pressure_alert": null
       },
@@ -2311,8 +2311,8 @@ window.GPO_ITEMS = [
     "tier": "Tier A+",
     "subTier": "Mid",
     "rankInTier": 10,
-    "value": 10624,
-    "lcValue": 45.53,
+    "value": 10582,
+    "lcValue": 45.35,
     "demand": "High",
     "trend": "Falling",
     "category": "fruits",
@@ -2335,10 +2335,10 @@ window.GPO_ITEMS = [
         "tier_pressure_alert": null
       },
       "24h": {
-        "demand_count": 23,
-        "supply_count": 42,
-        "pressure_ratio": 0.56,
-        "predicted_change_pct": -2.4,
+        "demand_count": 550,
+        "supply_count": 1007,
+        "pressure_ratio": 0.55,
+        "predicted_change_pct": -2.5,
         "trend": "Falling",
         "tier_pressure_alert": null
       },
@@ -2360,8 +2360,8 @@ window.GPO_ITEMS = [
     "tier": "Tier A+",
     "subTier": "Mid",
     "rankInTier": 11,
-    "value": 9960,
-    "lcValue": 42.69,
+    "value": 9920,
+    "lcValue": 42.51,
     "demand": "Medium",
     "trend": "Falling",
     "category": "weapons",
@@ -2384,10 +2384,10 @@ window.GPO_ITEMS = [
         "tier_pressure_alert": null
       },
       "24h": {
-        "demand_count": 4,
-        "supply_count": 11,
-        "pressure_ratio": 0.42,
-        "predicted_change_pct": -3.2,
+        "demand_count": 115,
+        "supply_count": 231,
+        "pressure_ratio": 0.5,
+        "predicted_change_pct": -2.8,
         "trend": "Falling",
         "tier_pressure_alert": null
       },
@@ -2409,8 +2409,8 @@ window.GPO_ITEMS = [
     "tier": "Tier A+",
     "subTier": "Mid",
     "rankInTier": 12,
-    "value": 9370,
-    "lcValue": 40.16,
+    "value": 9407,
+    "lcValue": 40.32,
     "demand": "Medium",
     "trend": "Rising",
     "category": "weapons",
@@ -2439,10 +2439,10 @@ window.GPO_ITEMS = [
         }
       },
       "24h": {
-        "demand_count": 1,
-        "supply_count": 0,
-        "pressure_ratio": 2.0,
-        "predicted_change_pct": 5.5,
+        "demand_count": 13,
+        "supply_count": 5,
+        "pressure_ratio": 2.33,
+        "predicted_change_pct": 7.3,
         "trend": "Rising",
         "tier_pressure_alert": {
           "en": "High chance of tier promotion (trading on par with Soul Cleaver)",
@@ -2470,8 +2470,8 @@ window.GPO_ITEMS = [
     "tier": "Tier A+",
     "subTier": "Mid",
     "rankInTier": 13,
-    "value": 8632,
-    "lcValue": 36.99,
+    "value": 8597,
+    "lcValue": 36.84,
     "demand": "Medium",
     "trend": "Rising",
     "category": "accessories",
@@ -2494,10 +2494,10 @@ window.GPO_ITEMS = [
         "tier_pressure_alert": null
       },
       "24h": {
-        "demand_count": 4,
-        "supply_count": 1,
-        "pressure_ratio": 2.5,
-        "predicted_change_pct": 8.2,
+        "demand_count": 20,
+        "supply_count": 13,
+        "pressure_ratio": 1.5,
+        "predicted_change_pct": 2.8,
         "trend": "Rising",
         "tier_pressure_alert": null
       },
@@ -2568,8 +2568,8 @@ window.GPO_ITEMS = [
     "tier": "Tier A+",
     "subTier": "Low",
     "rankInTier": 14,
-    "value": 6225,
-    "lcValue": 26.68,
+    "value": 6200,
+    "lcValue": 26.57,
     "demand": "Medium",
     "trend": "Falling",
     "category": "weapons",
@@ -2592,10 +2592,10 @@ window.GPO_ITEMS = [
         "tier_pressure_alert": null
       },
       "24h": {
-        "demand_count": 5,
-        "supply_count": 36,
-        "pressure_ratio": 0.16,
-        "predicted_change_pct": -4.6,
+        "demand_count": 145,
+        "supply_count": 699,
+        "pressure_ratio": 0.21,
+        "predicted_change_pct": -4.3,
         "trend": "Falling",
         "tier_pressure_alert": null
       },
@@ -2617,8 +2617,8 @@ window.GPO_ITEMS = [
     "tier": "Tier A+",
     "subTier": "Low",
     "rankInTier": 15,
-    "value": 5893,
-    "lcValue": 25.26,
+    "value": 5869,
+    "lcValue": 25.15,
     "demand": "High",
     "trend": "Stable",
     "category": "weapons",
@@ -2641,10 +2641,10 @@ window.GPO_ITEMS = [
         "tier_pressure_alert": null
       },
       "24h": {
-        "demand_count": 19,
-        "supply_count": 17,
-        "pressure_ratio": 1.11,
-        "predicted_change_pct": 0.6,
+        "demand_count": 423,
+        "supply_count": 443,
+        "pressure_ratio": 0.95,
+        "predicted_change_pct": -0.3,
         "trend": "Stable",
         "tier_pressure_alert": null
       },
@@ -2666,8 +2666,8 @@ window.GPO_ITEMS = [
     "tier": "Tier A+",
     "subTier": "Low",
     "rankInTier": 16,
-    "value": 5561,
-    "lcValue": 23.83,
+    "value": 5539,
+    "lcValue": 23.74,
     "demand": "Medium",
     "trend": "Falling",
     "category": "weapons",
@@ -2690,10 +2690,10 @@ window.GPO_ITEMS = [
         "tier_pressure_alert": null
       },
       "24h": {
-        "demand_count": 3,
-        "supply_count": 5,
-        "pressure_ratio": 0.67,
-        "predicted_change_pct": -1.8,
+        "demand_count": 54,
+        "supply_count": 165,
+        "pressure_ratio": 0.33,
+        "predicted_change_pct": -3.7,
         "trend": "Falling",
         "tier_pressure_alert": null
       },
@@ -2715,8 +2715,8 @@ window.GPO_ITEMS = [
     "tier": "Tier A+",
     "subTier": "Low",
     "rankInTier": 17,
-    "value": 5229,
-    "lcValue": 22.41,
+    "value": 5208,
+    "lcValue": 22.32,
     "demand": "High",
     "trend": "Falling",
     "category": "accessories",
@@ -2739,10 +2739,10 @@ window.GPO_ITEMS = [
         "tier_pressure_alert": null
       },
       "24h": {
-        "demand_count": 7,
-        "supply_count": 29,
-        "pressure_ratio": 0.27,
-        "predicted_change_pct": -4.0,
+        "demand_count": 273,
+        "supply_count": 879,
+        "pressure_ratio": 0.31,
+        "predicted_change_pct": -3.8,
         "trend": "Falling",
         "tier_pressure_alert": null
       },
@@ -2764,8 +2764,8 @@ window.GPO_ITEMS = [
     "tier": "Tier A+",
     "subTier": "Low",
     "rankInTier": 18,
-    "value": 4897,
-    "lcValue": 20.99,
+    "value": 4877,
+    "lcValue": 20.9,
     "demand": "High",
     "trend": "Falling",
     "category": "accessories",
@@ -2788,16 +2788,16 @@ window.GPO_ITEMS = [
         "tier_pressure_alert": null
       },
       "24h": {
-        "demand_count": 12,
-        "supply_count": 35,
-        "pressure_ratio": 0.36,
-        "predicted_change_pct": -3.5,
+        "demand_count": 368,
+        "supply_count": 838,
+        "pressure_ratio": 0.44,
+        "predicted_change_pct": -3.1,
         "trend": "Falling",
         "tier_pressure_alert": null
       },
       "7d": {
         "demand_count": 1109,
-        "supply_count": 3075,
+        "supply_count": 3076,
         "pressure_ratio": 0.36,
         "predicted_change_pct": -4.5,
         "trend": "Falling",
@@ -2813,8 +2813,8 @@ window.GPO_ITEMS = [
     "tier": "Tier A",
     "subTier": "High",
     "rankInTier": 1,
-    "value": 4686,
-    "lcValue": 20.08,
+    "value": 4703,
+    "lcValue": 20.16,
     "demand": "High",
     "trend": "Falling",
     "category": "misc",
@@ -2837,10 +2837,10 @@ window.GPO_ITEMS = [
         "tier_pressure_alert": null
       },
       "24h": {
-        "demand_count": 17,
-        "supply_count": 66,
-        "pressure_ratio": 0.27,
-        "predicted_change_pct": -4.0,
+        "demand_count": 446,
+        "supply_count": 1538,
+        "pressure_ratio": 0.29,
+        "predicted_change_pct": -3.9,
         "trend": "Falling",
         "tier_pressure_alert": null
       },
@@ -2862,8 +2862,8 @@ window.GPO_ITEMS = [
     "tier": "Tier A",
     "subTier": "High",
     "rankInTier": 2,
-    "value": 4501,
-    "lcValue": 19.29,
+    "value": 4519,
+    "lcValue": 19.37,
     "demand": "Low",
     "trend": "Falling",
     "category": "weapons",
@@ -2886,11 +2886,11 @@ window.GPO_ITEMS = [
         "tier_pressure_alert": null
       },
       "24h": {
-        "demand_count": 1,
-        "supply_count": 1,
-        "pressure_ratio": 1.0,
-        "predicted_change_pct": 0.0,
-        "trend": "Stable",
+        "demand_count": 5,
+        "supply_count": 23,
+        "pressure_ratio": 0.25,
+        "predicted_change_pct": -4.1,
+        "trend": "Falling",
         "tier_pressure_alert": null
       },
       "7d": {
@@ -2911,8 +2911,8 @@ window.GPO_ITEMS = [
     "tier": "Tier A",
     "subTier": "High",
     "rankInTier": 3,
-    "value": 4314,
-    "lcValue": 18.49,
+    "value": 4325,
+    "lcValue": 18.54,
     "demand": "Low",
     "trend": "Falling",
     "category": "outfits",
@@ -2935,10 +2935,10 @@ window.GPO_ITEMS = [
         "tier_pressure_alert": null
       },
       "24h": {
-        "demand_count": 0,
-        "supply_count": 1,
-        "pressure_ratio": 0.5,
-        "predicted_change_pct": -2.8,
+        "demand_count": 6,
+        "supply_count": 29,
+        "pressure_ratio": 0.23,
+        "predicted_change_pct": -4.2,
         "trend": "Falling",
         "tier_pressure_alert": null
       },
@@ -2960,8 +2960,8 @@ window.GPO_ITEMS = [
     "tier": "Tier A",
     "subTier": "High",
     "rankInTier": 4,
-    "value": 4102,
-    "lcValue": 17.58,
+    "value": 4090,
+    "lcValue": 17.53,
     "demand": "Medium",
     "trend": "Stable",
     "category": "outfits",
@@ -2984,11 +2984,11 @@ window.GPO_ITEMS = [
         "tier_pressure_alert": null
       },
       "24h": {
-        "demand_count": 3,
-        "supply_count": 0,
-        "pressure_ratio": 4.0,
-        "predicted_change_pct": 12.0,
-        "trend": "Rising",
+        "demand_count": 52,
+        "supply_count": 57,
+        "pressure_ratio": 0.91,
+        "predicted_change_pct": -0.5,
+        "trend": "Stable",
         "tier_pressure_alert": null
       },
       "7d": {
@@ -3009,8 +3009,8 @@ window.GPO_ITEMS = [
     "tier": "Tier A",
     "subTier": "High",
     "rankInTier": 5,
-    "value": 3948,
-    "lcValue": 16.92,
+    "value": 3960,
+    "lcValue": 16.97,
     "demand": "Medium",
     "trend": "Falling",
     "category": "outfits",
@@ -3033,10 +3033,10 @@ window.GPO_ITEMS = [
         "tier_pressure_alert": null
       },
       "24h": {
-        "demand_count": 5,
-        "supply_count": 16,
-        "pressure_ratio": 0.35,
-        "predicted_change_pct": -3.6,
+        "demand_count": 127,
+        "supply_count": 342,
+        "pressure_ratio": 0.37,
+        "predicted_change_pct": -3.5,
         "trend": "Falling",
         "tier_pressure_alert": null
       },
@@ -3058,8 +3058,8 @@ window.GPO_ITEMS = [
     "tier": "Tier A",
     "subTier": "High",
     "rankInTier": 6,
-    "value": 3735,
-    "lcValue": 16.01,
+    "value": 3720,
+    "lcValue": 15.94,
     "demand": "High",
     "trend": "Falling",
     "category": "accessories",
@@ -3082,10 +3082,10 @@ window.GPO_ITEMS = [
         "tier_pressure_alert": null
       },
       "24h": {
-        "demand_count": 10,
-        "supply_count": 20,
-        "pressure_ratio": 0.52,
-        "predicted_change_pct": -2.6,
+        "demand_count": 196,
+        "supply_count": 507,
+        "pressure_ratio": 0.39,
+        "predicted_change_pct": -3.4,
         "trend": "Falling",
         "tier_pressure_alert": null
       },
@@ -3107,8 +3107,8 @@ window.GPO_ITEMS = [
     "tier": "Tier A",
     "subTier": "High",
     "rankInTier": 7,
-    "value": 3581,
-    "lcValue": 15.35,
+    "value": 3595,
+    "lcValue": 15.41,
     "demand": "Medium",
     "trend": "Falling",
     "category": "weapons",
@@ -3131,10 +3131,10 @@ window.GPO_ITEMS = [
         "tier_pressure_alert": null
       },
       "24h": {
-        "demand_count": 6,
-        "supply_count": 11,
-        "pressure_ratio": 0.58,
-        "predicted_change_pct": -2.3,
+        "demand_count": 127,
+        "supply_count": 434,
+        "pressure_ratio": 0.29,
+        "predicted_change_pct": -3.9,
         "trend": "Falling",
         "tier_pressure_alert": null
       },
@@ -3156,8 +3156,8 @@ window.GPO_ITEMS = [
     "tier": "Tier A",
     "subTier": "High",
     "rankInTier": 8,
-    "value": 3392,
-    "lcValue": 14.54,
+    "value": 3399,
+    "lcValue": 14.57,
     "demand": "High",
     "trend": "Falling",
     "category": "accessories",
@@ -3180,10 +3180,10 @@ window.GPO_ITEMS = [
         "tier_pressure_alert": null
       },
       "24h": {
-        "demand_count": 7,
-        "supply_count": 16,
-        "pressure_ratio": 0.47,
-        "predicted_change_pct": -2.9,
+        "demand_count": 217,
+        "supply_count": 332,
+        "pressure_ratio": 0.65,
+        "predicted_change_pct": -1.9,
         "trend": "Falling",
         "tier_pressure_alert": null
       },
@@ -3205,8 +3205,8 @@ window.GPO_ITEMS = [
     "tier": "Tier A",
     "subTier": "High",
     "rankInTier": 9,
-    "value": 3187,
-    "lcValue": 13.66,
+    "value": 3174,
+    "lcValue": 13.6,
     "demand": "High",
     "trend": "Falling",
     "category": "weapons",
@@ -3229,10 +3229,10 @@ window.GPO_ITEMS = [
         "tier_pressure_alert": null
       },
       "24h": {
-        "demand_count": 29,
-        "supply_count": 104,
-        "pressure_ratio": 0.29,
-        "predicted_change_pct": -3.9,
+        "demand_count": 530,
+        "supply_count": 1961,
+        "pressure_ratio": 0.27,
+        "predicted_change_pct": -4.0,
         "trend": "Falling",
         "tier_pressure_alert": null
       },
@@ -3254,8 +3254,8 @@ window.GPO_ITEMS = [
     "tier": "Tier A",
     "subTier": "High",
     "rankInTier": 10,
-    "value": 3029,
-    "lcValue": 12.98,
+    "value": 3041,
+    "lcValue": 13.03,
     "demand": "Medium",
     "trend": "Falling",
     "category": "misc",
@@ -3278,16 +3278,16 @@ window.GPO_ITEMS = [
         "tier_pressure_alert": null
       },
       "24h": {
-        "demand_count": 1,
-        "supply_count": 15,
-        "pressure_ratio": 0.12,
-        "predicted_change_pct": -4.8,
+        "demand_count": 16,
+        "supply_count": 255,
+        "pressure_ratio": 0.07,
+        "predicted_change_pct": -5.1,
         "trend": "Falling",
         "tier_pressure_alert": null
       },
       "7d": {
-        "demand_count": 67,
-        "supply_count": 722,
+        "demand_count": 66,
+        "supply_count": 723,
         "pressure_ratio": 0.09,
         "predicted_change_pct": -6.4,
         "trend": "Falling",
@@ -3303,8 +3303,8 @@ window.GPO_ITEMS = [
     "tier": "Tier A",
     "subTier": "High",
     "rankInTier": 11,
-    "value": 2822,
-    "lcValue": 12.09,
+    "value": 2811,
+    "lcValue": 12.05,
     "demand": "High",
     "trend": "Falling",
     "category": "weapons",
@@ -3327,10 +3327,10 @@ window.GPO_ITEMS = [
         "tier_pressure_alert": null
       },
       "24h": {
-        "demand_count": 8,
-        "supply_count": 15,
-        "pressure_ratio": 0.56,
-        "predicted_change_pct": -2.4,
+        "demand_count": 153,
+        "supply_count": 547,
+        "pressure_ratio": 0.28,
+        "predicted_change_pct": -4.0,
         "trend": "Falling",
         "tier_pressure_alert": null
       },
@@ -3352,8 +3352,8 @@ window.GPO_ITEMS = [
     "tier": "Tier A",
     "subTier": "High",
     "rankInTier": 12,
-    "value": 2639,
-    "lcValue": 11.31,
+    "value": 2628,
+    "lcValue": 11.26,
     "demand": "Very High",
     "trend": "Falling",
     "category": "chests",
@@ -3376,16 +3376,16 @@ window.GPO_ITEMS = [
         "tier_pressure_alert": null
       },
       "24h": {
-        "demand_count": 195,
-        "supply_count": 266,
-        "pressure_ratio": 0.73,
-        "predicted_change_pct": -1.5,
+        "demand_count": 4609,
+        "supply_count": 7828,
+        "pressure_ratio": 0.59,
+        "predicted_change_pct": -2.3,
         "trend": "Falling",
         "tier_pressure_alert": null
       },
       "7d": {
         "demand_count": 15894,
-        "supply_count": 22455,
+        "supply_count": 22454,
         "pressure_ratio": 0.71,
         "predicted_change_pct": -2.0,
         "trend": "Falling",
@@ -3401,8 +3401,8 @@ window.GPO_ITEMS = [
     "tier": "Tier A",
     "subTier": "High",
     "rankInTier": 13,
-    "value": 2477,
-    "lcValue": 10.62,
+    "value": 2487,
+    "lcValue": 10.66,
     "demand": "High",
     "trend": "Falling",
     "category": "accessories",
@@ -3425,10 +3425,10 @@ window.GPO_ITEMS = [
         "tier_pressure_alert": null
       },
       "24h": {
-        "demand_count": 5,
-        "supply_count": 15,
-        "pressure_ratio": 0.38,
-        "predicted_change_pct": -3.4,
+        "demand_count": 172,
+        "supply_count": 383,
+        "pressure_ratio": 0.45,
+        "predicted_change_pct": -3.0,
         "trend": "Falling",
         "tier_pressure_alert": null
       },
@@ -3450,8 +3450,8 @@ window.GPO_ITEMS = [
     "tier": "Tier A",
     "subTier": "High",
     "rankInTier": 14,
-    "value": 2292,
-    "lcValue": 9.82,
+    "value": 2301,
+    "lcValue": 9.86,
     "demand": "Medium",
     "trend": "Falling",
     "category": "weapons",
@@ -3474,10 +3474,10 @@ window.GPO_ITEMS = [
         "tier_pressure_alert": null
       },
       "24h": {
-        "demand_count": 1,
-        "supply_count": 5,
-        "pressure_ratio": 0.33,
-        "predicted_change_pct": -3.7,
+        "demand_count": 78,
+        "supply_count": 127,
+        "pressure_ratio": 0.62,
+        "predicted_change_pct": -2.1,
         "trend": "Falling",
         "tier_pressure_alert": null
       },
@@ -3597,8 +3597,8 @@ window.GPO_ITEMS = [
     "tier": "Tier A",
     "subTier": "Mid",
     "rankInTier": 16,
-    "value": 1992,
-    "lcValue": 8.54,
+    "value": 1984,
+    "lcValue": 8.5,
     "demand": "High",
     "trend": "Falling",
     "category": "weapons",
@@ -3621,16 +3621,16 @@ window.GPO_ITEMS = [
         "tier_pressure_alert": null
       },
       "24h": {
-        "demand_count": 8,
-        "supply_count": 39,
-        "pressure_ratio": 0.23,
+        "demand_count": 205,
+        "supply_count": 866,
+        "pressure_ratio": 0.24,
         "predicted_change_pct": -4.2,
         "trend": "Falling",
         "tier_pressure_alert": null
       },
       "7d": {
-        "demand_count": 704,
-        "supply_count": 3272,
+        "demand_count": 703,
+        "supply_count": 3273,
         "pressure_ratio": 0.22,
         "predicted_change_pct": -5.5,
         "trend": "Falling",
@@ -3646,8 +3646,8 @@ window.GPO_ITEMS = [
     "tier": "New Items",
     "subTier": "Standard",
     "rankInTier": 2,
-    "value": 1868,
-    "lcValue": 8.01,
+    "value": 1861,
+    "lcValue": 7.98,
     "demand": "High",
     "trend": "Stable",
     "category": "chests",
@@ -3670,11 +3670,11 @@ window.GPO_ITEMS = [
         "tier_pressure_alert": null
       },
       "24h": {
-        "demand_count": 45,
-        "supply_count": 28,
-        "pressure_ratio": 1.59,
-        "predicted_change_pct": 3.2,
-        "trend": "Rising",
+        "demand_count": 770,
+        "supply_count": 1037,
+        "pressure_ratio": 0.74,
+        "predicted_change_pct": -1.4,
+        "trend": "Falling",
         "tier_pressure_alert": null
       },
       "7d": {
@@ -3695,8 +3695,8 @@ window.GPO_ITEMS = [
     "tier": "Tier A",
     "subTier": "Mid",
     "rankInTier": 17,
-    "value": 1842,
-    "lcValue": 7.89,
+    "value": 1835,
+    "lcValue": 7.86,
     "demand": "Medium",
     "trend": "Falling",
     "category": "fruits",
@@ -3719,10 +3719,10 @@ window.GPO_ITEMS = [
         "tier_pressure_alert": null
       },
       "24h": {
-        "demand_count": 6,
-        "supply_count": 33,
-        "pressure_ratio": 0.21,
-        "predicted_change_pct": -4.3,
+        "demand_count": 106,
+        "supply_count": 891,
+        "pressure_ratio": 0.12,
+        "predicted_change_pct": -4.8,
         "trend": "Falling",
         "tier_pressure_alert": null
       },
@@ -3744,8 +3744,8 @@ window.GPO_ITEMS = [
     "tier": "Tier A",
     "subTier": "Mid",
     "rankInTier": 18,
-    "value": 1707,
-    "lcValue": 7.32,
+    "value": 1714,
+    "lcValue": 7.35,
     "demand": "High",
     "trend": "Stable",
     "category": "weapons",
@@ -3768,11 +3768,11 @@ window.GPO_ITEMS = [
         "tier_pressure_alert": null
       },
       "24h": {
-        "demand_count": 2,
-        "supply_count": 7,
-        "pressure_ratio": 0.38,
-        "predicted_change_pct": -3.4,
-        "trend": "Falling",
+        "demand_count": 118,
+        "supply_count": 145,
+        "pressure_ratio": 0.82,
+        "predicted_change_pct": -1.0,
+        "trend": "Stable",
         "tier_pressure_alert": null
       },
       "7d": {
@@ -3793,8 +3793,8 @@ window.GPO_ITEMS = [
     "tier": "Tier A",
     "subTier": "Low",
     "rankInTier": 19,
-    "value": 1328,
-    "lcValue": 5.69,
+    "value": 1323,
+    "lcValue": 5.67,
     "demand": "Medium",
     "trend": "Falling",
     "category": "boats",
@@ -3817,10 +3817,10 @@ window.GPO_ITEMS = [
         "tier_pressure_alert": null
       },
       "24h": {
-        "demand_count": 3,
-        "supply_count": 17,
-        "pressure_ratio": 0.22,
-        "predicted_change_pct": -4.3,
+        "demand_count": 83,
+        "supply_count": 504,
+        "pressure_ratio": 0.17,
+        "predicted_change_pct": -4.6,
         "trend": "Falling",
         "tier_pressure_alert": null
       },
@@ -3842,8 +3842,8 @@ window.GPO_ITEMS = [
     "tier": "Tier A",
     "subTier": "Low",
     "rankInTier": 20,
-    "value": 1245,
-    "lcValue": 5.34,
+    "value": 1240,
+    "lcValue": 5.31,
     "demand": "Low",
     "trend": "Rising",
     "category": "accessories",
@@ -3866,8 +3866,8 @@ window.GPO_ITEMS = [
         "tier_pressure_alert": null
       },
       "24h": {
-        "demand_count": 1,
-        "supply_count": 0,
+        "demand_count": 3,
+        "supply_count": 1,
         "pressure_ratio": 2.0,
         "predicted_change_pct": 5.5,
         "trend": "Rising",
@@ -3964,10 +3964,10 @@ window.GPO_ITEMS = [
         "tier_pressure_alert": null
       },
       "24h": {
-        "demand_count": 0,
-        "supply_count": 3,
-        "pressure_ratio": 0.25,
-        "predicted_change_pct": -4.1,
+        "demand_count": 35,
+        "supply_count": 50,
+        "pressure_ratio": 0.71,
+        "predicted_change_pct": -1.6,
         "trend": "Falling",
         "tier_pressure_alert": null
       },
@@ -3989,8 +3989,8 @@ window.GPO_ITEMS = [
     "tier": "Tier A-",
     "subTier": "High",
     "rankInTier": 2,
-    "value": 1112,
-    "lcValue": 4.77,
+    "value": 1116,
+    "lcValue": 4.78,
     "demand": "Medium",
     "trend": "Falling",
     "category": "weapons",
@@ -4013,10 +4013,10 @@ window.GPO_ITEMS = [
         "tier_pressure_alert": null
       },
       "24h": {
-        "demand_count": 0,
-        "supply_count": 6,
-        "pressure_ratio": 0.14,
-        "predicted_change_pct": -4.7,
+        "demand_count": 25,
+        "supply_count": 56,
+        "pressure_ratio": 0.46,
+        "predicted_change_pct": -3.0,
         "trend": "Falling",
         "tier_pressure_alert": null
       },
@@ -4038,8 +4038,8 @@ window.GPO_ITEMS = [
     "tier": "Tier A-",
     "subTier": "High",
     "rankInTier": 3,
-    "value": 1046,
-    "lcValue": 4.48,
+    "value": 1042,
+    "lcValue": 4.47,
     "demand": "Medium",
     "trend": "Falling",
     "category": "weapons",
@@ -4062,10 +4062,10 @@ window.GPO_ITEMS = [
         "tier_pressure_alert": null
       },
       "24h": {
-        "demand_count": 0,
-        "supply_count": 4,
-        "pressure_ratio": 0.2,
-        "predicted_change_pct": -4.4,
+        "demand_count": 33,
+        "supply_count": 83,
+        "pressure_ratio": 0.4,
+        "predicted_change_pct": -3.3,
         "trend": "Falling",
         "tier_pressure_alert": null
       },
@@ -4087,8 +4087,8 @@ window.GPO_ITEMS = [
     "tier": "Tier A-",
     "subTier": "High",
     "rankInTier": 4,
-    "value": 996,
-    "lcValue": 4.27,
+    "value": 1000,
+    "lcValue": 4.29,
     "demand": "Medium",
     "trend": "Stable",
     "category": "accessories",
@@ -4111,15 +4111,12 @@ window.GPO_ITEMS = [
         "tier_pressure_alert": null
       },
       "24h": {
-        "demand_count": 3,
-        "supply_count": 2,
-        "pressure_ratio": 1.33,
-        "predicted_change_pct": 1.8,
-        "trend": "Rising",
-        "tier_pressure_alert": {
-          "en": "High chance of tier promotion (trading on par with Firework Lancer)",
-          "ru": "Высокий шанс повышения (торгуется на уровне Фейерверк Лансер)"
-        }
+        "demand_count": 29,
+        "supply_count": 51,
+        "pressure_ratio": 0.58,
+        "predicted_change_pct": -2.3,
+        "trend": "Falling",
+        "tier_pressure_alert": null
       },
       "7d": {
         "demand_count": 91,
@@ -4139,8 +4136,8 @@ window.GPO_ITEMS = [
     "tier": "Tier A-",
     "subTier": "Mid",
     "rankInTier": 5,
-    "value": 872,
-    "lcValue": 3.74,
+    "value": 869,
+    "lcValue": 3.72,
     "demand": "High",
     "trend": "Falling",
     "category": "fruits",
@@ -4163,10 +4160,10 @@ window.GPO_ITEMS = [
         "tier_pressure_alert": null
       },
       "24h": {
-        "demand_count": 9,
-        "supply_count": 24,
-        "pressure_ratio": 0.4,
-        "predicted_change_pct": -3.3,
+        "demand_count": 313,
+        "supply_count": 617,
+        "pressure_ratio": 0.51,
+        "predicted_change_pct": -2.7,
         "trend": "Falling",
         "tier_pressure_alert": null
       },
@@ -4188,8 +4185,8 @@ window.GPO_ITEMS = [
     "tier": "Tier A-",
     "subTier": "Mid",
     "rankInTier": 6,
-    "value": 835,
-    "lcValue": 3.58,
+    "value": 832,
+    "lcValue": 3.57,
     "demand": "Extremely High",
     "trend": "Stable",
     "category": "misc",
@@ -4212,10 +4209,10 @@ window.GPO_ITEMS = [
         "tier_pressure_alert": null
       },
       "24h": {
-        "demand_count": 1631,
-        "supply_count": 1898,
-        "pressure_ratio": 0.86,
-        "predicted_change_pct": -0.8,
+        "demand_count": 38499,
+        "supply_count": 37057,
+        "pressure_ratio": 1.04,
+        "predicted_change_pct": 0.2,
         "trend": "Stable",
         "tier_pressure_alert": null
       },
@@ -4237,8 +4234,8 @@ window.GPO_ITEMS = [
     "tier": "Tier A-",
     "subTier": "Mid",
     "rankInTier": 7,
-    "value": 797,
-    "lcValue": 3.42,
+    "value": 794,
+    "lcValue": 3.4,
     "demand": "High",
     "trend": "Falling",
     "category": "weapons",
@@ -4261,10 +4258,10 @@ window.GPO_ITEMS = [
         "tier_pressure_alert": null
       },
       "24h": {
-        "demand_count": 6,
-        "supply_count": 10,
-        "pressure_ratio": 0.64,
-        "predicted_change_pct": -2.0,
+        "demand_count": 132,
+        "supply_count": 302,
+        "pressure_ratio": 0.44,
+        "predicted_change_pct": -3.1,
         "trend": "Falling",
         "tier_pressure_alert": null
       },
@@ -4286,8 +4283,8 @@ window.GPO_ITEMS = [
     "tier": "Tier A-",
     "subTier": "Mid",
     "rankInTier": 8,
-    "value": 766,
-    "lcValue": 3.28,
+    "value": 768,
+    "lcValue": 3.29,
     "demand": "High",
     "trend": "Falling",
     "category": "fruits",
@@ -4310,10 +4307,10 @@ window.GPO_ITEMS = [
         "tier_pressure_alert": null
       },
       "24h": {
-        "demand_count": 7,
-        "supply_count": 19,
-        "pressure_ratio": 0.4,
-        "predicted_change_pct": -3.3,
+        "demand_count": 246,
+        "supply_count": 585,
+        "pressure_ratio": 0.42,
+        "predicted_change_pct": -3.2,
         "trend": "Falling",
         "tier_pressure_alert": null
       },
@@ -4335,8 +4332,8 @@ window.GPO_ITEMS = [
     "tier": "Tier A-",
     "subTier": "Mid",
     "rankInTier": 9,
-    "value": 728,
-    "lcValue": 3.12,
+    "value": 731,
+    "lcValue": 3.13,
     "demand": "Medium",
     "trend": "Falling",
     "category": "fruits",
@@ -4359,10 +4356,10 @@ window.GPO_ITEMS = [
         "tier_pressure_alert": null
       },
       "24h": {
-        "demand_count": 1,
-        "supply_count": 28,
-        "pressure_ratio": 0.07,
-        "predicted_change_pct": -5.1,
+        "demand_count": 93,
+        "supply_count": 810,
+        "pressure_ratio": 0.12,
+        "predicted_change_pct": -4.8,
         "trend": "Falling",
         "tier_pressure_alert": null
       },
@@ -4384,8 +4381,8 @@ window.GPO_ITEMS = [
     "tier": "Tier A-",
     "subTier": "Mid",
     "rankInTier": 10,
-    "value": 691,
-    "lcValue": 2.96,
+    "value": 694,
+    "lcValue": 2.97,
     "demand": "Low",
     "trend": "Falling",
     "category": "accessories",
@@ -4408,10 +4405,10 @@ window.GPO_ITEMS = [
         "tier_pressure_alert": null
       },
       "24h": {
-        "demand_count": 0,
-        "supply_count": 1,
-        "pressure_ratio": 0.5,
-        "predicted_change_pct": -2.8,
+        "demand_count": 8,
+        "supply_count": 26,
+        "pressure_ratio": 0.33,
+        "predicted_change_pct": -3.7,
         "trend": "Falling",
         "tier_pressure_alert": null
       },
@@ -4433,8 +4430,8 @@ window.GPO_ITEMS = [
     "tier": "Tier A-",
     "subTier": "Mid",
     "rankInTier": 11,
-    "value": 653,
-    "lcValue": 2.8,
+    "value": 656,
+    "lcValue": 2.81,
     "demand": "Medium",
     "trend": "Falling",
     "category": "outfits",
@@ -4457,10 +4454,10 @@ window.GPO_ITEMS = [
         "tier_pressure_alert": null
       },
       "24h": {
-        "demand_count": 0,
-        "supply_count": 2,
-        "pressure_ratio": 0.33,
-        "predicted_change_pct": -3.7,
+        "demand_count": 16,
+        "supply_count": 81,
+        "pressure_ratio": 0.21,
+        "predicted_change_pct": -4.3,
         "trend": "Falling",
         "tier_pressure_alert": null
       },
@@ -4482,8 +4479,8 @@ window.GPO_ITEMS = [
     "tier": "Tier A-",
     "subTier": "Low",
     "rankInTier": 12,
-    "value": 647,
-    "lcValue": 2.77,
+    "value": 644,
+    "lcValue": 2.76,
     "demand": "Medium",
     "trend": "Falling",
     "category": "accessories",
@@ -4506,10 +4503,10 @@ window.GPO_ITEMS = [
         "tier_pressure_alert": null
       },
       "24h": {
-        "demand_count": 1,
-        "supply_count": 10,
-        "pressure_ratio": 0.18,
-        "predicted_change_pct": -4.5,
+        "demand_count": 44,
+        "supply_count": 94,
+        "pressure_ratio": 0.47,
+        "predicted_change_pct": -2.9,
         "trend": "Falling",
         "tier_pressure_alert": null
       },
@@ -4555,10 +4552,10 @@ window.GPO_ITEMS = [
         "tier_pressure_alert": null
       },
       "24h": {
-        "demand_count": 0,
-        "supply_count": 1,
-        "pressure_ratio": 0.5,
-        "predicted_change_pct": -2.8,
+        "demand_count": 7,
+        "supply_count": 23,
+        "pressure_ratio": 0.33,
+        "predicted_change_pct": -3.7,
         "trend": "Falling",
         "tier_pressure_alert": null
       },
@@ -4580,7 +4577,7 @@ window.GPO_ITEMS = [
     "tier": "Tier A-",
     "subTier": "Low",
     "rankInTier": 14,
-    "value": 622,
+    "value": 624,
     "lcValue": 2.67,
     "demand": "Medium",
     "trend": "Rising",
@@ -4610,12 +4607,15 @@ window.GPO_ITEMS = [
         }
       },
       "24h": {
-        "demand_count": 0,
+        "demand_count": 1,
         "supply_count": 0,
-        "pressure_ratio": 1.0,
-        "predicted_change_pct": 0.0,
-        "trend": "Stable",
-        "tier_pressure_alert": null
+        "pressure_ratio": 2.0,
+        "predicted_change_pct": 5.5,
+        "trend": "Rising",
+        "tier_pressure_alert": {
+          "en": "High chance of tier promotion (trading on par with Cupid Queen’s Outfit)",
+          "ru": "Высокий шанс повышения (торгуется на уровне Наряд Королевы Купидонов (QFIT))"
+        }
       },
       "7d": {
         "demand_count": 29,
@@ -4638,7 +4638,7 @@ window.GPO_ITEMS = [
     "tier": "Tier A-",
     "subTier": "Low",
     "rankInTier": 15,
-    "value": 603,
+    "value": 601,
     "lcValue": 2.58,
     "demand": "Medium",
     "trend": "Falling",
@@ -4662,11 +4662,11 @@ window.GPO_ITEMS = [
         "tier_pressure_alert": null
       },
       "24h": {
-        "demand_count": 2,
-        "supply_count": 3,
-        "pressure_ratio": 0.75,
-        "predicted_change_pct": -1.4,
-        "trend": "Falling",
+        "demand_count": 60,
+        "supply_count": 54,
+        "pressure_ratio": 1.11,
+        "predicted_change_pct": 0.6,
+        "trend": "Stable",
         "tier_pressure_alert": null
       },
       "7d": {
@@ -4687,8 +4687,8 @@ window.GPO_ITEMS = [
     "tier": "Tier A-",
     "subTier": "Low",
     "rankInTier": 16,
-    "value": 592,
-    "lcValue": 2.54,
+    "value": 594,
+    "lcValue": 2.55,
     "demand": "Medium",
     "trend": "Stable",
     "category": "accessories",
@@ -4711,10 +4711,10 @@ window.GPO_ITEMS = [
         "tier_pressure_alert": null
       },
       "24h": {
-        "demand_count": 2,
-        "supply_count": 1,
-        "pressure_ratio": 1.5,
-        "predicted_change_pct": 2.8,
+        "demand_count": 39,
+        "supply_count": 29,
+        "pressure_ratio": 1.33,
+        "predicted_change_pct": 1.8,
         "trend": "Rising",
         "tier_pressure_alert": {
           "en": "High chance of tier promotion (trading on par with Elo’s Sledgehammer)",
@@ -4742,8 +4742,8 @@ window.GPO_ITEMS = [
     "tier": "Tier A-",
     "subTier": "Low",
     "rankInTier": 17,
-    "value": 577,
-    "lcValue": 2.47,
+    "value": 579,
+    "lcValue": 2.48,
     "demand": "High",
     "trend": "Rising",
     "category": "fruits",
@@ -4766,19 +4766,16 @@ window.GPO_ITEMS = [
         "tier_pressure_alert": null
       },
       "24h": {
-        "demand_count": 17,
-        "supply_count": 6,
-        "pressure_ratio": 2.57,
-        "predicted_change_pct": 8.6,
+        "demand_count": 444,
+        "supply_count": 352,
+        "pressure_ratio": 1.26,
+        "predicted_change_pct": 1.4,
         "trend": "Rising",
-        "tier_pressure_alert": {
-          "en": "High chance of tier promotion (trading on par with Love Boppers Headband)",
-          "ru": "Высокий шанс повышения (торгуется на уровне Ободок с Сердечками)"
-        }
+        "tier_pressure_alert": null
       },
       "7d": {
         "demand_count": 1323,
-        "supply_count": 1183,
+        "supply_count": 1184,
         "pressure_ratio": 1.12,
         "predicted_change_pct": 0.8,
         "trend": "Stable",
@@ -4794,8 +4791,8 @@ window.GPO_ITEMS = [
     "tier": "Tier A-",
     "subTier": "Low",
     "rankInTier": 18,
-    "value": 558,
-    "lcValue": 2.39,
+    "value": 556,
+    "lcValue": 2.38,
     "demand": "Medium",
     "trend": "Falling",
     "category": "accessories",
@@ -4818,10 +4815,10 @@ window.GPO_ITEMS = [
         "tier_pressure_alert": null
       },
       "24h": {
-        "demand_count": 1,
-        "supply_count": 5,
-        "pressure_ratio": 0.33,
-        "predicted_change_pct": -3.7,
+        "demand_count": 27,
+        "supply_count": 99,
+        "pressure_ratio": 0.28,
+        "predicted_change_pct": -4.0,
         "trend": "Falling",
         "tier_pressure_alert": null
       },
@@ -4843,8 +4840,8 @@ window.GPO_ITEMS = [
     "tier": "Tier A-",
     "subTier": "Low",
     "rankInTier": 19,
-    "value": 547,
-    "lcValue": 2.34,
+    "value": 549,
+    "lcValue": 2.35,
     "demand": "Medium",
     "trend": "Falling",
     "category": "weapons",
@@ -4867,10 +4864,10 @@ window.GPO_ITEMS = [
         "tier_pressure_alert": null
       },
       "24h": {
-        "demand_count": 0,
-        "supply_count": 1,
-        "pressure_ratio": 0.5,
-        "predicted_change_pct": -2.8,
+        "demand_count": 9,
+        "supply_count": 62,
+        "pressure_ratio": 0.16,
+        "predicted_change_pct": -4.6,
         "trend": "Falling",
         "tier_pressure_alert": null
       },
@@ -4892,8 +4889,8 @@ window.GPO_ITEMS = [
     "tier": "Tier A-",
     "subTier": "Low",
     "rankInTier": 20,
-    "value": 528,
-    "lcValue": 2.26,
+    "value": 526,
+    "lcValue": 2.25,
     "demand": "High",
     "trend": "Falling",
     "category": "fruits",
@@ -4916,10 +4913,10 @@ window.GPO_ITEMS = [
         "tier_pressure_alert": null
       },
       "24h": {
-        "demand_count": 35,
-        "supply_count": 117,
-        "pressure_ratio": 0.31,
-        "predicted_change_pct": -3.8,
+        "demand_count": 595,
+        "supply_count": 2735,
+        "pressure_ratio": 0.22,
+        "predicted_change_pct": -4.3,
         "trend": "Falling",
         "tier_pressure_alert": null
       },
@@ -4941,8 +4938,8 @@ window.GPO_ITEMS = [
     "tier": "Tier A-",
     "subTier": "Low",
     "rankInTier": 21,
-    "value": 515,
-    "lcValue": 2.21,
+    "value": 513,
+    "lcValue": 2.2,
     "demand": "Medium",
     "trend": "Rising",
     "category": "accessories",
@@ -4965,11 +4962,11 @@ window.GPO_ITEMS = [
         "tier_pressure_alert": null
       },
       "24h": {
-        "demand_count": 2,
-        "supply_count": 2,
-        "pressure_ratio": 1.0,
-        "predicted_change_pct": 0.0,
-        "trend": "Stable",
+        "demand_count": 58,
+        "supply_count": 46,
+        "pressure_ratio": 1.26,
+        "predicted_change_pct": 1.4,
+        "trend": "Rising",
         "tier_pressure_alert": null
       },
       "7d": {
@@ -4990,7 +4987,7 @@ window.GPO_ITEMS = [
     "tier": "Tier A-",
     "subTier": "Low",
     "rankInTier": 22,
-    "value": 498,
+    "value": 496,
     "lcValue": 2.13,
     "demand": "Low",
     "trend": "Falling",
@@ -5014,10 +5011,10 @@ window.GPO_ITEMS = [
         "tier_pressure_alert": null
       },
       "24h": {
-        "demand_count": 0,
-        "supply_count": 1,
-        "pressure_ratio": 0.5,
-        "predicted_change_pct": -2.8,
+        "demand_count": 1,
+        "supply_count": 7,
+        "pressure_ratio": 0.25,
+        "predicted_change_pct": -4.1,
         "trend": "Falling",
         "tier_pressure_alert": null
       },
@@ -5039,8 +5036,8 @@ window.GPO_ITEMS = [
     "tier": "Tier A-",
     "subTier": "Low",
     "rankInTier": 23,
-    "value": 487,
-    "lcValue": 2.09,
+    "value": 489,
+    "lcValue": 2.1,
     "demand": "High",
     "trend": "Falling",
     "category": "fruits",
@@ -5063,11 +5060,11 @@ window.GPO_ITEMS = [
         "tier_pressure_alert": null
       },
       "24h": {
-        "demand_count": 11,
-        "supply_count": 13,
-        "pressure_ratio": 0.86,
-        "predicted_change_pct": -0.8,
-        "trend": "Stable",
+        "demand_count": 200,
+        "supply_count": 403,
+        "pressure_ratio": 0.5,
+        "predicted_change_pct": -2.8,
+        "trend": "Falling",
         "tier_pressure_alert": null
       },
       "7d": {
@@ -5162,10 +5159,10 @@ window.GPO_ITEMS = [
       },
       "24h": {
         "demand_count": 0,
-        "supply_count": 0,
-        "pressure_ratio": 1.0,
-        "predicted_change_pct": 0.0,
-        "trend": "Stable",
+        "supply_count": 3,
+        "pressure_ratio": 0.25,
+        "predicted_change_pct": -4.1,
+        "trend": "Falling",
         "tier_pressure_alert": null
       },
       "7d": {
@@ -5235,8 +5232,8 @@ window.GPO_ITEMS = [
     "tier": "Tier B+",
     "subTier": "High",
     "rankInTier": 1,
-    "value": 385,
-    "lcValue": 1.65,
+    "value": 387,
+    "lcValue": 1.66,
     "demand": "Medium",
     "trend": "Falling",
     "category": "accessories",
@@ -5259,11 +5256,11 @@ window.GPO_ITEMS = [
         "tier_pressure_alert": null
       },
       "24h": {
-        "demand_count": 1,
-        "supply_count": 1,
-        "pressure_ratio": 1.0,
-        "predicted_change_pct": 0.0,
-        "trend": "Stable",
+        "demand_count": 17,
+        "supply_count": 28,
+        "pressure_ratio": 0.62,
+        "predicted_change_pct": -2.1,
+        "trend": "Falling",
         "tier_pressure_alert": null
       },
       "7d": {
@@ -5284,7 +5281,7 @@ window.GPO_ITEMS = [
     "tier": "Tier B+",
     "subTier": "High",
     "rankInTier": 2,
-    "value": 375,
+    "value": 376,
     "lcValue": 1.61,
     "demand": "Low",
     "trend": "Falling",
@@ -5309,9 +5306,9 @@ window.GPO_ITEMS = [
       },
       "24h": {
         "demand_count": 0,
-        "supply_count": 1,
-        "pressure_ratio": 0.5,
-        "predicted_change_pct": -2.8,
+        "supply_count": 8,
+        "pressure_ratio": 0.11,
+        "predicted_change_pct": -4.9,
         "trend": "Falling",
         "tier_pressure_alert": null
       },
@@ -5382,7 +5379,7 @@ window.GPO_ITEMS = [
     "tier": "Tier B+",
     "subTier": "High",
     "rankInTier": 4,
-    "value": 357,
+    "value": 358,
     "lcValue": 1.53,
     "demand": "Medium",
     "trend": "Rising",
@@ -5412,15 +5409,12 @@ window.GPO_ITEMS = [
         }
       },
       "24h": {
-        "demand_count": 3,
-        "supply_count": 0,
-        "pressure_ratio": 4.0,
-        "predicted_change_pct": 12.0,
-        "trend": "Rising",
-        "tier_pressure_alert": {
-          "en": "High chance of tier promotion (trading on par with Firework Daggers)",
-          "ru": "Высокий шанс повышения (торгуется на уровне Кинжалы Фейерверков)"
-        }
+        "demand_count": 25,
+        "supply_count": 22,
+        "pressure_ratio": 1.13,
+        "predicted_change_pct": 0.7,
+        "trend": "Stable",
+        "tier_pressure_alert": null
       },
       "7d": {
         "demand_count": 76,
@@ -5440,8 +5434,8 @@ window.GPO_ITEMS = [
     "tier": "Tier B+",
     "subTier": "High",
     "rankInTier": 5,
-    "value": 348,
-    "lcValue": 1.49,
+    "value": 349,
+    "lcValue": 1.5,
     "demand": "Low",
     "trend": "Falling",
     "category": "weapons",
@@ -5464,10 +5458,10 @@ window.GPO_ITEMS = [
         "tier_pressure_alert": null
       },
       "24h": {
-        "demand_count": 0,
-        "supply_count": 2,
-        "pressure_ratio": 0.33,
-        "predicted_change_pct": -3.7,
+        "demand_count": 7,
+        "supply_count": 26,
+        "pressure_ratio": 0.3,
+        "predicted_change_pct": -3.8,
         "trend": "Falling",
         "tier_pressure_alert": null
       },
@@ -5489,8 +5483,8 @@ window.GPO_ITEMS = [
     "tier": "Tier B+",
     "subTier": "High",
     "rankInTier": 6,
-    "value": 339,
-    "lcValue": 1.45,
+    "value": 340,
+    "lcValue": 1.46,
     "demand": "Medium",
     "trend": "Stable",
     "category": "weapons",
@@ -5513,15 +5507,12 @@ window.GPO_ITEMS = [
         "tier_pressure_alert": null
       },
       "24h": {
-        "demand_count": 1,
-        "supply_count": 0,
-        "pressure_ratio": 2.0,
-        "predicted_change_pct": 5.5,
-        "trend": "Rising",
-        "tier_pressure_alert": {
-          "en": "High chance of tier promotion (trading on par with Blo’s Sledgehammer)",
-          "ru": "Высокий шанс повышения (торгуется на уровне Кувалда Бло)"
-        }
+        "demand_count": 15,
+        "supply_count": 26,
+        "pressure_ratio": 0.59,
+        "predicted_change_pct": -2.3,
+        "trend": "Falling",
+        "tier_pressure_alert": null
       },
       "7d": {
         "demand_count": 41,
@@ -5541,7 +5532,7 @@ window.GPO_ITEMS = [
     "tier": "Tier B+",
     "subTier": "High",
     "rankInTier": 7,
-    "value": 329,
+    "value": 330,
     "lcValue": 1.41,
     "demand": "Medium",
     "trend": "Falling",
@@ -5565,8 +5556,8 @@ window.GPO_ITEMS = [
         "tier_pressure_alert": null
       },
       "24h": {
-        "demand_count": 0,
-        "supply_count": 0,
+        "demand_count": 11,
+        "supply_count": 11,
         "pressure_ratio": 1.0,
         "predicted_change_pct": 0.0,
         "trend": "Stable",
@@ -5590,8 +5581,8 @@ window.GPO_ITEMS = [
     "tier": "Tier B+",
     "subTier": "High",
     "rankInTier": 8,
-    "value": 320,
-    "lcValue": 1.37,
+    "value": 321,
+    "lcValue": 1.38,
     "demand": "Medium",
     "trend": "Falling",
     "category": "accessories",
@@ -5614,11 +5605,11 @@ window.GPO_ITEMS = [
         "tier_pressure_alert": null
       },
       "24h": {
-        "demand_count": 0,
-        "supply_count": 0,
-        "pressure_ratio": 1.0,
-        "predicted_change_pct": 0.0,
-        "trend": "Stable",
+        "demand_count": 20,
+        "supply_count": 54,
+        "pressure_ratio": 0.38,
+        "predicted_change_pct": -3.4,
+        "trend": "Falling",
         "tier_pressure_alert": null
       },
       "7d": {
@@ -5639,8 +5630,8 @@ window.GPO_ITEMS = [
     "tier": "Tier B+",
     "subTier": "High",
     "rankInTier": 9,
-    "value": 311,
-    "lcValue": 1.33,
+    "value": 312,
+    "lcValue": 1.34,
     "demand": "Medium",
     "trend": "Falling",
     "category": "accessories",
@@ -5663,10 +5654,10 @@ window.GPO_ITEMS = [
         "tier_pressure_alert": null
       },
       "24h": {
-        "demand_count": 4,
-        "supply_count": 7,
-        "pressure_ratio": 0.62,
-        "predicted_change_pct": -2.1,
+        "demand_count": 51,
+        "supply_count": 182,
+        "pressure_ratio": 0.28,
+        "predicted_change_pct": -4.0,
         "trend": "Falling",
         "tier_pressure_alert": null
       },
@@ -5688,8 +5679,8 @@ window.GPO_ITEMS = [
     "tier": "Tier B+",
     "subTier": "High",
     "rankInTier": 10,
-    "value": 300,
-    "lcValue": 1.29,
+    "value": 299,
+    "lcValue": 1.28,
     "demand": "Medium",
     "trend": "Rising",
     "category": "accessories",
@@ -5712,10 +5703,10 @@ window.GPO_ITEMS = [
         "tier_pressure_alert": null
       },
       "24h": {
-        "demand_count": 4,
-        "supply_count": 3,
-        "pressure_ratio": 1.25,
-        "predicted_change_pct": 1.4,
+        "demand_count": 104,
+        "supply_count": 80,
+        "pressure_ratio": 1.3,
+        "predicted_change_pct": 1.7,
         "trend": "Rising",
         "tier_pressure_alert": null
       },
@@ -5737,7 +5728,7 @@ window.GPO_ITEMS = [
     "tier": "Tier B+",
     "subTier": "High",
     "rankInTier": 11,
-    "value": 293,
+    "value": 294,
     "lcValue": 1.26,
     "demand": "Medium",
     "trend": "Falling",
@@ -5761,10 +5752,10 @@ window.GPO_ITEMS = [
         "tier_pressure_alert": null
       },
       "24h": {
-        "demand_count": 1,
-        "supply_count": 26,
-        "pressure_ratio": 0.07,
-        "predicted_change_pct": -5.1,
+        "demand_count": 53,
+        "supply_count": 372,
+        "pressure_ratio": 0.14,
+        "predicted_change_pct": -4.7,
         "trend": "Falling",
         "tier_pressure_alert": null
       },
@@ -5786,7 +5777,7 @@ window.GPO_ITEMS = [
     "tier": "Tier B+",
     "subTier": "High",
     "rankInTier": 12,
-    "value": 284,
+    "value": 285,
     "lcValue": 1.22,
     "demand": "Medium",
     "trend": "Falling",
@@ -5810,10 +5801,10 @@ window.GPO_ITEMS = [
         "tier_pressure_alert": null
       },
       "24h": {
-        "demand_count": 1,
-        "supply_count": 4,
-        "pressure_ratio": 0.4,
-        "predicted_change_pct": -3.3,
+        "demand_count": 30,
+        "supply_count": 90,
+        "pressure_ratio": 0.34,
+        "predicted_change_pct": -3.6,
         "trend": "Falling",
         "tier_pressure_alert": null
       },
@@ -5835,8 +5826,8 @@ window.GPO_ITEMS = [
     "tier": "Tier B+",
     "subTier": "High",
     "rankInTier": 13,
-    "value": 272,
-    "lcValue": 1.17,
+    "value": 271,
+    "lcValue": 1.16,
     "demand": "Medium",
     "trend": "Falling",
     "category": "boats",
@@ -5859,10 +5850,10 @@ window.GPO_ITEMS = [
         "tier_pressure_alert": null
       },
       "24h": {
-        "demand_count": 0,
-        "supply_count": 2,
-        "pressure_ratio": 0.33,
-        "predicted_change_pct": -3.7,
+        "demand_count": 10,
+        "supply_count": 76,
+        "pressure_ratio": 0.14,
+        "predicted_change_pct": -4.7,
         "trend": "Falling",
         "tier_pressure_alert": null
       },
@@ -5884,8 +5875,8 @@ window.GPO_ITEMS = [
     "tier": "Tier B+",
     "subTier": "High",
     "rankInTier": 14,
-    "value": 263,
-    "lcValue": 1.13,
+    "value": 262,
+    "lcValue": 1.12,
     "demand": "Low",
     "trend": "Falling",
     "category": "boats",
@@ -5908,10 +5899,10 @@ window.GPO_ITEMS = [
         "tier_pressure_alert": null
       },
       "24h": {
-        "demand_count": 0,
-        "supply_count": 4,
-        "pressure_ratio": 0.2,
-        "predicted_change_pct": -4.4,
+        "demand_count": 8,
+        "supply_count": 109,
+        "pressure_ratio": 0.08,
+        "predicted_change_pct": -5.1,
         "trend": "Falling",
         "tier_pressure_alert": null
       },
@@ -5933,8 +5924,8 @@ window.GPO_ITEMS = [
     "tier": "Tier B+",
     "subTier": "High",
     "rankInTier": 15,
-    "value": 254,
-    "lcValue": 1.09,
+    "value": 253,
+    "lcValue": 1.08,
     "demand": "Very High",
     "trend": "Falling",
     "category": "chests",
@@ -5957,10 +5948,10 @@ window.GPO_ITEMS = [
         "tier_pressure_alert": null
       },
       "24h": {
-        "demand_count": 109,
-        "supply_count": 209,
-        "pressure_ratio": 0.52,
-        "predicted_change_pct": -2.6,
+        "demand_count": 2467,
+        "supply_count": 7633,
+        "pressure_ratio": 0.32,
+        "predicted_change_pct": -3.7,
         "trend": "Falling",
         "tier_pressure_alert": null
       },
@@ -6031,7 +6022,7 @@ window.GPO_ITEMS = [
     "tier": "Tier B+",
     "subTier": "High",
     "rankInTier": 17,
-    "value": 238,
+    "value": 239,
     "lcValue": 1.02,
     "demand": "Medium",
     "trend": "Falling",
@@ -6055,10 +6046,10 @@ window.GPO_ITEMS = [
         "tier_pressure_alert": null
       },
       "24h": {
-        "demand_count": 0,
-        "supply_count": 3,
-        "pressure_ratio": 0.25,
-        "predicted_change_pct": -4.1,
+        "demand_count": 15,
+        "supply_count": 54,
+        "pressure_ratio": 0.29,
+        "predicted_change_pct": -3.9,
         "trend": "Falling",
         "tier_pressure_alert": null
       },
@@ -6093,10 +6084,7 @@ window.GPO_ITEMS = [
     "supply_count": 9,
     "pressure_ratio": 3.2,
     "predicted_change_pct": 8.8,
-    "tier_pressure_alert": {
-      "en": "High chance of tier promotion (trading on par with Cupid’s Chakram)",
-      "ru": "Высокий шанс повышения (торгуется на уровне Чакрам Купидона)"
-    },
+    "tier_pressure_alert": null,
     "timeframes": {
       "1h": {
         "demand_count": 31,
@@ -6104,17 +6092,14 @@ window.GPO_ITEMS = [
         "pressure_ratio": 3.2,
         "predicted_change_pct": 8.8,
         "trend": "Rising",
-        "tier_pressure_alert": {
-          "en": "High chance of tier promotion (trading on par with Cupid’s Chakram)",
-          "ru": "Высокий шанс повышения (торгуется на уровне Чакрам Купидона)"
-        }
+        "tier_pressure_alert": null
       },
       "24h": {
-        "demand_count": 1,
-        "supply_count": 2,
-        "pressure_ratio": 0.67,
-        "predicted_change_pct": -1.8,
-        "trend": "Falling",
+        "demand_count": 80,
+        "supply_count": 28,
+        "pressure_ratio": 2.79,
+        "predicted_change_pct": 9.8,
+        "trend": "Rising",
         "tier_pressure_alert": null
       },
       "7d": {
@@ -6123,10 +6108,7 @@ window.GPO_ITEMS = [
         "pressure_ratio": 2.64,
         "predicted_change_pct": 11.5,
         "trend": "Rising",
-        "tier_pressure_alert": {
-          "en": "High chance of tier promotion (trading on par with Cupid’s Chakram)",
-          "ru": "Высокий шанс повышения (торгуется на уровне Чакрам Купидона)"
-        }
+        "tier_pressure_alert": null
       }
     }
   },
@@ -6138,7 +6120,7 @@ window.GPO_ITEMS = [
     "tier": "Tier B+",
     "subTier": "High",
     "rankInTier": 19,
-    "value": 219,
+    "value": 220,
     "lcValue": 0.94,
     "demand": "Medium",
     "trend": "Rising",
@@ -6168,11 +6150,11 @@ window.GPO_ITEMS = [
         }
       },
       "24h": {
-        "demand_count": 0,
-        "supply_count": 0,
-        "pressure_ratio": 1.0,
-        "predicted_change_pct": 0.0,
-        "trend": "Stable",
+        "demand_count": 12,
+        "supply_count": 27,
+        "pressure_ratio": 0.46,
+        "predicted_change_pct": -3.0,
+        "trend": "Falling",
         "tier_pressure_alert": null
       },
       "7d": {
@@ -6193,7 +6175,7 @@ window.GPO_ITEMS = [
     "tier": "Tier B+",
     "subTier": "High",
     "rankInTier": 20,
-    "value": 210,
+    "value": 211,
     "lcValue": 0.9,
     "demand": "Medium",
     "trend": "Falling",
@@ -6217,10 +6199,10 @@ window.GPO_ITEMS = [
         "tier_pressure_alert": null
       },
       "24h": {
-        "demand_count": 3,
-        "supply_count": 30,
-        "pressure_ratio": 0.13,
-        "predicted_change_pct": -4.8,
+        "demand_count": 51,
+        "supply_count": 573,
+        "pressure_ratio": 0.09,
+        "predicted_change_pct": -5.0,
         "trend": "Falling",
         "tier_pressure_alert": null
       },
@@ -6266,10 +6248,10 @@ window.GPO_ITEMS = [
         "tier_pressure_alert": null
       },
       "24h": {
-        "demand_count": 3,
-        "supply_count": 19,
-        "pressure_ratio": 0.2,
-        "predicted_change_pct": -4.4,
+        "demand_count": 61,
+        "supply_count": 568,
+        "pressure_ratio": 0.11,
+        "predicted_change_pct": -4.9,
         "trend": "Falling",
         "tier_pressure_alert": null
       },
@@ -6291,8 +6273,8 @@ window.GPO_ITEMS = [
     "tier": "Tier B+",
     "subTier": "High",
     "rankInTier": 22,
-    "value": 192,
-    "lcValue": 0.82,
+    "value": 193,
+    "lcValue": 0.83,
     "demand": "Medium",
     "trend": "Falling",
     "category": "outfits",
@@ -6315,11 +6297,11 @@ window.GPO_ITEMS = [
         "tier_pressure_alert": null
       },
       "24h": {
-        "demand_count": 0,
-        "supply_count": 0,
-        "pressure_ratio": 1.0,
-        "predicted_change_pct": 0.0,
-        "trend": "Stable",
+        "demand_count": 15,
+        "supply_count": 57,
+        "pressure_ratio": 0.28,
+        "predicted_change_pct": -4.0,
+        "trend": "Falling",
         "tier_pressure_alert": null
       },
       "7d": {
@@ -6438,7 +6420,7 @@ window.GPO_ITEMS = [
     "tier": "Tier B+",
     "subTier": "Mid",
     "rankInTier": 26,
-    "value": 157,
+    "value": 156,
     "lcValue": 0.67,
     "demand": "Low",
     "trend": "Falling",
@@ -6462,10 +6444,10 @@ window.GPO_ITEMS = [
         "tier_pressure_alert": null
       },
       "24h": {
-        "demand_count": 0,
-        "supply_count": 3,
-        "pressure_ratio": 0.25,
-        "predicted_change_pct": -4.1,
+        "demand_count": 5,
+        "supply_count": 76,
+        "pressure_ratio": 0.08,
+        "predicted_change_pct": -5.1,
         "trend": "Falling",
         "tier_pressure_alert": null
       },
@@ -6487,7 +6469,7 @@ window.GPO_ITEMS = [
     "tier": "Tier B+",
     "subTier": "Mid",
     "rankInTier": 27,
-    "value": 152,
+    "value": 151,
     "lcValue": 0.65,
     "demand": "Low",
     "trend": "Stable",
@@ -6511,10 +6493,10 @@ window.GPO_ITEMS = [
         "tier_pressure_alert": null
       },
       "24h": {
-        "demand_count": 0,
-        "supply_count": 0,
-        "pressure_ratio": 1.0,
-        "predicted_change_pct": 0.0,
+        "demand_count": 7,
+        "supply_count": 8,
+        "pressure_ratio": 0.89,
+        "predicted_change_pct": -0.6,
         "trend": "Stable",
         "tier_pressure_alert": null
       },
@@ -6536,7 +6518,7 @@ window.GPO_ITEMS = [
     "tier": "Tier B+",
     "subTier": "Mid",
     "rankInTier": 28,
-    "value": 147,
+    "value": 146,
     "lcValue": 0.63,
     "demand": "Medium",
     "trend": "Rising",
@@ -6566,10 +6548,10 @@ window.GPO_ITEMS = [
         }
       },
       "24h": {
-        "demand_count": 1,
-        "supply_count": 0,
-        "pressure_ratio": 2.0,
-        "predicted_change_pct": 5.5,
+        "demand_count": 53,
+        "supply_count": 18,
+        "pressure_ratio": 2.84,
+        "predicted_change_pct": 10.1,
         "trend": "Rising",
         "tier_pressure_alert": {
           "en": "High chance of tier promotion (trading on par with Mochi Trident)",
@@ -6597,8 +6579,8 @@ window.GPO_ITEMS = [
     "tier": "Tier B+",
     "subTier": "Mid",
     "rankInTier": 29,
-    "value": 142,
-    "lcValue": 0.61,
+    "value": 141,
+    "lcValue": 0.6,
     "demand": "Very Low",
     "trend": "Stable",
     "category": "accessories",
@@ -6646,8 +6628,8 @@ window.GPO_ITEMS = [
     "tier": "Tier B+",
     "subTier": "Mid",
     "rankInTier": 30,
-    "value": 137,
-    "lcValue": 0.59,
+    "value": 136,
+    "lcValue": 0.58,
     "demand": "Very Low",
     "trend": "Stable",
     "category": "weapons",
@@ -6695,8 +6677,8 @@ window.GPO_ITEMS = [
     "tier": "Tier B+",
     "subTier": "Low",
     "rankInTier": 31,
-    "value": 132,
-    "lcValue": 0.57,
+    "value": 131,
+    "lcValue": 0.56,
     "demand": "Medium",
     "trend": "Falling",
     "category": "fruits",
@@ -6719,10 +6701,10 @@ window.GPO_ITEMS = [
         "tier_pressure_alert": null
       },
       "24h": {
-        "demand_count": 1,
-        "supply_count": 2,
-        "pressure_ratio": 0.67,
-        "predicted_change_pct": -1.8,
+        "demand_count": 31,
+        "supply_count": 182,
+        "pressure_ratio": 0.17,
+        "predicted_change_pct": -4.6,
         "trend": "Falling",
         "tier_pressure_alert": null
       },
@@ -6744,7 +6726,7 @@ window.GPO_ITEMS = [
     "tier": "Tier B+",
     "subTier": "Low",
     "rankInTier": 32,
-    "value": 127,
+    "value": 126,
     "lcValue": 0.54,
     "demand": "Low",
     "trend": "Rising",
@@ -6774,8 +6756,8 @@ window.GPO_ITEMS = [
         }
       },
       "24h": {
-        "demand_count": 0,
-        "supply_count": 0,
+        "demand_count": 1,
+        "supply_count": 1,
         "pressure_ratio": 1.0,
         "predicted_change_pct": 0.0,
         "trend": "Stable",
@@ -6802,7 +6784,7 @@ window.GPO_ITEMS = [
     "tier": "Tier B+",
     "subTier": "Low",
     "rankInTier": 33,
-    "value": 122,
+    "value": 121,
     "lcValue": 0.52,
     "demand": "Low",
     "trend": "Falling",
@@ -6826,11 +6808,11 @@ window.GPO_ITEMS = [
         "tier_pressure_alert": null
       },
       "24h": {
-        "demand_count": 0,
-        "supply_count": 0,
-        "pressure_ratio": 1.0,
-        "predicted_change_pct": 0.0,
-        "trend": "Stable",
+        "demand_count": 5,
+        "supply_count": 7,
+        "pressure_ratio": 0.75,
+        "predicted_change_pct": -1.4,
+        "trend": "Falling",
         "tier_pressure_alert": null
       },
       "7d": {
@@ -6851,7 +6833,7 @@ window.GPO_ITEMS = [
     "tier": "Tier B+",
     "subTier": "Low",
     "rankInTier": 34,
-    "value": 117,
+    "value": 116,
     "lcValue": 0.5,
     "demand": "Medium",
     "trend": "Rising",
@@ -6881,10 +6863,10 @@ window.GPO_ITEMS = [
         }
       },
       "24h": {
-        "demand_count": 2,
-        "supply_count": 1,
-        "pressure_ratio": 1.5,
-        "predicted_change_pct": 2.8,
+        "demand_count": 46,
+        "supply_count": 21,
+        "pressure_ratio": 2.14,
+        "predicted_change_pct": 6.3,
         "trend": "Rising",
         "tier_pressure_alert": {
           "en": "High chance of tier promotion (trading on par with Big Mama’s Cape)",
@@ -6912,7 +6894,7 @@ window.GPO_ITEMS = [
     "tier": "Tier B+",
     "subTier": "Low",
     "rankInTier": 35,
-    "value": 112,
+    "value": 111,
     "lcValue": 0.48,
     "demand": "Medium",
     "trend": "Falling",
@@ -6936,10 +6918,10 @@ window.GPO_ITEMS = [
         "tier_pressure_alert": null
       },
       "24h": {
-        "demand_count": 0,
-        "supply_count": 4,
-        "pressure_ratio": 0.2,
-        "predicted_change_pct": -4.4,
+        "demand_count": 9,
+        "supply_count": 60,
+        "pressure_ratio": 0.16,
+        "predicted_change_pct": -4.6,
         "trend": "Falling",
         "tier_pressure_alert": null
       },
@@ -6961,8 +6943,8 @@ window.GPO_ITEMS = [
     "tier": "Tier B+",
     "subTier": "Low",
     "rankInTier": 36,
-    "value": 107,
-    "lcValue": 0.46,
+    "value": 106,
+    "lcValue": 0.45,
     "demand": "Medium",
     "trend": "Falling",
     "category": "fruits",
@@ -6985,10 +6967,10 @@ window.GPO_ITEMS = [
         "tier_pressure_alert": null
       },
       "24h": {
-        "demand_count": 5,
-        "supply_count": 29,
-        "pressure_ratio": 0.2,
-        "predicted_change_pct": -4.4,
+        "demand_count": 85,
+        "supply_count": 617,
+        "pressure_ratio": 0.14,
+        "predicted_change_pct": -4.7,
         "trend": "Falling",
         "tier_pressure_alert": null
       },
@@ -7010,8 +6992,8 @@ window.GPO_ITEMS = [
     "tier": "Tier B+",
     "subTier": "Low",
     "rankInTier": 37,
-    "value": 102,
-    "lcValue": 0.44,
+    "value": 101,
+    "lcValue": 0.43,
     "demand": "Low",
     "trend": "Falling",
     "category": "misc",
@@ -7034,11 +7016,11 @@ window.GPO_ITEMS = [
         "tier_pressure_alert": null
       },
       "24h": {
-        "demand_count": 0,
-        "supply_count": 0,
-        "pressure_ratio": 1.0,
-        "predicted_change_pct": 0.0,
-        "trend": "Stable",
+        "demand_count": 12,
+        "supply_count": 44,
+        "pressure_ratio": 0.29,
+        "predicted_change_pct": -3.9,
+        "trend": "Falling",
         "tier_pressure_alert": null
       },
       "7d": {
@@ -7059,8 +7041,8 @@ window.GPO_ITEMS = [
     "tier": "Tier B+",
     "subTier": "Low",
     "rankInTier": 38,
-    "value": 97.4,
-    "lcValue": 0.42,
+    "value": 96.4,
+    "lcValue": 0.41,
     "demand": "Medium",
     "trend": "Falling",
     "category": "fruits",
@@ -7083,10 +7065,10 @@ window.GPO_ITEMS = [
         "tier_pressure_alert": null
       },
       "24h": {
-        "demand_count": 0,
-        "supply_count": 10,
-        "pressure_ratio": 0.09,
-        "predicted_change_pct": -5.0,
+        "demand_count": 7,
+        "supply_count": 221,
+        "pressure_ratio": 0.04,
+        "predicted_change_pct": -5.3,
         "trend": "Falling",
         "tier_pressure_alert": null
       },
@@ -7108,8 +7090,8 @@ window.GPO_ITEMS = [
     "tier": "Tier B+",
     "subTier": "Low",
     "rankInTier": 39,
-    "value": 96.9,
-    "lcValue": 0.42,
+    "value": 95.9,
+    "lcValue": 0.41,
     "demand": "Low",
     "trend": "Rising",
     "category": "accessories",
@@ -7132,8 +7114,8 @@ window.GPO_ITEMS = [
         "tier_pressure_alert": null
       },
       "24h": {
-        "demand_count": 0,
-        "supply_count": 0,
+        "demand_count": 4,
+        "supply_count": 4,
         "pressure_ratio": 1.0,
         "predicted_change_pct": 0.0,
         "trend": "Stable",
@@ -7157,7 +7139,7 @@ window.GPO_ITEMS = [
     "tier": "Tier B+",
     "subTier": "Low",
     "rankInTier": 40,
-    "value": 96.4,
+    "value": 95.4,
     "lcValue": 0.41,
     "demand": "Low",
     "trend": "Falling",
@@ -7182,9 +7164,9 @@ window.GPO_ITEMS = [
       },
       "24h": {
         "demand_count": 0,
-        "supply_count": 1,
-        "pressure_ratio": 0.5,
-        "predicted_change_pct": -2.8,
+        "supply_count": 16,
+        "pressure_ratio": 0.06,
+        "predicted_change_pct": -5.2,
         "trend": "Falling",
         "tier_pressure_alert": null
       },
@@ -7206,7 +7188,7 @@ window.GPO_ITEMS = [
     "tier": "Tier B+",
     "subTier": "Low",
     "rankInTier": 41,
-    "value": 95.9,
+    "value": 94.9,
     "lcValue": 0.41,
     "demand": "Low",
     "trend": "Falling",
@@ -7230,10 +7212,10 @@ window.GPO_ITEMS = [
         "tier_pressure_alert": null
       },
       "24h": {
-        "demand_count": 0,
-        "supply_count": 0,
-        "pressure_ratio": 1.0,
-        "predicted_change_pct": 0.0,
+        "demand_count": 8,
+        "supply_count": 10,
+        "pressure_ratio": 0.82,
+        "predicted_change_pct": -1.0,
         "trend": "Stable",
         "tier_pressure_alert": null
       },
@@ -7255,8 +7237,8 @@ window.GPO_ITEMS = [
     "tier": "Tier B+",
     "subTier": "Low",
     "rankInTier": 42,
-    "value": 95.4,
-    "lcValue": 0.41,
+    "value": 94.4,
+    "lcValue": 0.4,
     "demand": "Medium",
     "trend": "Falling",
     "category": "fruits",
@@ -7279,9 +7261,9 @@ window.GPO_ITEMS = [
         "tier_pressure_alert": null
       },
       "24h": {
-        "demand_count": 1,
-        "supply_count": 10,
-        "pressure_ratio": 0.18,
+        "demand_count": 43,
+        "supply_count": 226,
+        "pressure_ratio": 0.19,
         "predicted_change_pct": -4.5,
         "trend": "Falling",
         "tier_pressure_alert": null
@@ -7304,8 +7286,8 @@ window.GPO_ITEMS = [
     "tier": "Tier B+",
     "subTier": "Low",
     "rankInTier": 43,
-    "value": 94.9,
-    "lcValue": 0.41,
+    "value": 93.9,
+    "lcValue": 0.4,
     "demand": "Medium",
     "trend": "Falling",
     "category": "fruits",
@@ -7328,10 +7310,10 @@ window.GPO_ITEMS = [
         "tier_pressure_alert": null
       },
       "24h": {
-        "demand_count": 1,
-        "supply_count": 3,
-        "pressure_ratio": 0.5,
-        "predicted_change_pct": -2.8,
+        "demand_count": 54,
+        "supply_count": 81,
+        "pressure_ratio": 0.67,
+        "predicted_change_pct": -1.8,
         "trend": "Falling",
         "tier_pressure_alert": null
       },
@@ -7353,7 +7335,7 @@ window.GPO_ITEMS = [
     "tier": "Tier B+",
     "subTier": "Low",
     "rankInTier": 44,
-    "value": 94.0,
+    "value": 93.4,
     "lcValue": 0.4,
     "demand": "Very Low",
     "trend": "Stable",
@@ -7451,7 +7433,7 @@ window.GPO_ITEMS = [
     "tier": "Tier B+",
     "subTier": "Low",
     "rankInTier": 46,
-    "value": 87.9,
+    "value": 87.8,
     "lcValue": 0.38,
     "demand": "Very Low",
     "trend": "Falling",
@@ -7476,10 +7458,10 @@ window.GPO_ITEMS = [
       },
       "24h": {
         "demand_count": 0,
-        "supply_count": 0,
-        "pressure_ratio": 1.0,
-        "predicted_change_pct": 0.0,
-        "trend": "Stable",
+        "supply_count": 2,
+        "pressure_ratio": 0.33,
+        "predicted_change_pct": -3.7,
+        "trend": "Falling",
         "tier_pressure_alert": null
       },
       "7d": {
@@ -7549,7 +7531,7 @@ window.GPO_ITEMS = [
     "tier": "Tier B+",
     "subTier": "Low",
     "rankInTier": 48,
-    "value": 81.3,
+    "value": 81.6,
     "lcValue": 0.35,
     "demand": "Medium",
     "trend": "Falling",
@@ -7573,10 +7555,10 @@ window.GPO_ITEMS = [
         "tier_pressure_alert": null
       },
       "24h": {
-        "demand_count": 1,
-        "supply_count": 4,
-        "pressure_ratio": 0.4,
-        "predicted_change_pct": -3.3,
+        "demand_count": 55,
+        "supply_count": 166,
+        "pressure_ratio": 0.34,
+        "predicted_change_pct": -3.6,
         "trend": "Falling",
         "tier_pressure_alert": null
       },
@@ -7598,7 +7580,7 @@ window.GPO_ITEMS = [
     "tier": "Tier B+",
     "subTier": "Low",
     "rankInTier": 49,
-    "value": 78.3,
+    "value": 78.6,
     "lcValue": 0.34,
     "demand": "Medium",
     "trend": "Falling",
@@ -7622,10 +7604,10 @@ window.GPO_ITEMS = [
         "tier_pressure_alert": null
       },
       "24h": {
-        "demand_count": 1,
-        "supply_count": 9,
-        "pressure_ratio": 0.2,
-        "predicted_change_pct": -4.4,
+        "demand_count": 22,
+        "supply_count": 157,
+        "pressure_ratio": 0.15,
+        "predicted_change_pct": -4.7,
         "trend": "Falling",
         "tier_pressure_alert": null
       },
@@ -7794,7 +7776,7 @@ window.GPO_ITEMS = [
     "tier": "Tier B",
     "subTier": "High",
     "rankInTier": 4,
-    "value": 55.2,
+    "value": 55.4,
     "lcValue": 0.24,
     "demand": "Low",
     "trend": "Falling",
@@ -7819,9 +7801,9 @@ window.GPO_ITEMS = [
       },
       "24h": {
         "demand_count": 0,
-        "supply_count": 1,
-        "pressure_ratio": 0.5,
-        "predicted_change_pct": -2.8,
+        "supply_count": 8,
+        "pressure_ratio": 0.11,
+        "predicted_change_pct": -4.9,
         "trend": "Falling",
         "tier_pressure_alert": null
       },
@@ -7867,10 +7849,10 @@ window.GPO_ITEMS = [
         "tier_pressure_alert": null
       },
       "24h": {
-        "demand_count": 0,
-        "supply_count": 1,
-        "pressure_ratio": 0.5,
-        "predicted_change_pct": -2.8,
+        "demand_count": 27,
+        "supply_count": 35,
+        "pressure_ratio": 0.78,
+        "predicted_change_pct": -1.2,
         "trend": "Falling",
         "tier_pressure_alert": null
       },
@@ -7892,7 +7874,7 @@ window.GPO_ITEMS = [
     "tier": "Tier B",
     "subTier": "Mid",
     "rankInTier": 6,
-    "value": 44.2,
+    "value": 44.4,
     "lcValue": 0.19,
     "demand": "Low",
     "trend": "Stable",
@@ -7916,15 +7898,12 @@ window.GPO_ITEMS = [
         "tier_pressure_alert": null
       },
       "24h": {
-        "demand_count": 1,
-        "supply_count": 0,
-        "pressure_ratio": 2.0,
-        "predicted_change_pct": 5.5,
-        "trend": "Rising",
-        "tier_pressure_alert": {
-          "en": "High chance of tier promotion (trading on par with Cupid’s Headband)",
-          "ru": "Высокий шанс повышения (торгуется на уровне Повязка Купидона)"
-        }
+        "demand_count": 7,
+        "supply_count": 13,
+        "pressure_ratio": 0.57,
+        "predicted_change_pct": -2.4,
+        "trend": "Falling",
+        "tier_pressure_alert": null
       },
       "7d": {
         "demand_count": 23,
@@ -7968,11 +7947,11 @@ window.GPO_ITEMS = [
         "tier_pressure_alert": null
       },
       "24h": {
-        "demand_count": 0,
-        "supply_count": 0,
-        "pressure_ratio": 1.0,
-        "predicted_change_pct": 0.0,
-        "trend": "Stable",
+        "demand_count": 1,
+        "supply_count": 6,
+        "pressure_ratio": 0.29,
+        "predicted_change_pct": -3.9,
+        "trend": "Falling",
         "tier_pressure_alert": null
       },
       "7d": {
@@ -7993,7 +7972,7 @@ window.GPO_ITEMS = [
     "tier": "Tier B",
     "subTier": "Mid",
     "rankInTier": 8,
-    "value": 40.2,
+    "value": 40.4,
     "lcValue": 0.17,
     "demand": "Medium",
     "trend": "Falling",
@@ -8017,8 +7996,8 @@ window.GPO_ITEMS = [
         "tier_pressure_alert": null
       },
       "24h": {
-        "demand_count": 1,
-        "supply_count": 3,
+        "demand_count": 56,
+        "supply_count": 113,
         "pressure_ratio": 0.5,
         "predicted_change_pct": -2.8,
         "trend": "Falling",
@@ -8042,7 +8021,7 @@ window.GPO_ITEMS = [
     "tier": "Tier B",
     "subTier": "Mid",
     "rankInTier": 9,
-    "value": 38.2,
+    "value": 38.4,
     "lcValue": 0.16,
     "demand": "Medium",
     "trend": "Falling",
@@ -8066,10 +8045,10 @@ window.GPO_ITEMS = [
         "tier_pressure_alert": null
       },
       "24h": {
-        "demand_count": 1,
-        "supply_count": 4,
-        "pressure_ratio": 0.4,
-        "predicted_change_pct": -3.3,
+        "demand_count": 48,
+        "supply_count": 77,
+        "pressure_ratio": 0.63,
+        "predicted_change_pct": -2.0,
         "trend": "Falling",
         "tier_pressure_alert": null
       },
@@ -8091,7 +8070,7 @@ window.GPO_ITEMS = [
     "tier": "Tier B",
     "subTier": "Mid",
     "rankInTier": 10,
-    "value": 35.9,
+    "value": 35.8,
     "lcValue": 0.15,
     "demand": "Medium",
     "trend": "Falling",
@@ -8115,9 +8094,9 @@ window.GPO_ITEMS = [
         "tier_pressure_alert": null
       },
       "24h": {
-        "demand_count": 0,
-        "supply_count": 1,
-        "pressure_ratio": 0.5,
+        "demand_count": 36,
+        "supply_count": 74,
+        "pressure_ratio": 0.49,
         "predicted_change_pct": -2.8,
         "trend": "Falling",
         "tier_pressure_alert": null
@@ -8287,7 +8266,7 @@ window.GPO_ITEMS = [
     "tier": "Tier B",
     "subTier": "Low",
     "rankInTier": 14,
-    "value": 30.1,
+    "value": 30.2,
     "lcValue": 0.13,
     "demand": "Low",
     "trend": "Falling",
@@ -8312,10 +8291,10 @@ window.GPO_ITEMS = [
       },
       "24h": {
         "demand_count": 0,
-        "supply_count": 0,
-        "pressure_ratio": 1.0,
-        "predicted_change_pct": 0.0,
-        "trend": "Stable",
+        "supply_count": 25,
+        "pressure_ratio": 0.04,
+        "predicted_change_pct": -5.3,
+        "trend": "Falling",
         "tier_pressure_alert": null
       },
       "7d": {
@@ -8336,8 +8315,8 @@ window.GPO_ITEMS = [
     "tier": "Tier B",
     "subTier": "Low",
     "rankInTier": 15,
-    "value": 29.1,
-    "lcValue": 0.12,
+    "value": 29.2,
+    "lcValue": 0.13,
     "demand": "Low",
     "trend": "Rising",
     "category": "accessories",
@@ -8366,12 +8345,15 @@ window.GPO_ITEMS = [
         }
       },
       "24h": {
-        "demand_count": 0,
-        "supply_count": 0,
-        "pressure_ratio": 1.0,
-        "predicted_change_pct": 0.0,
-        "trend": "Stable",
-        "tier_pressure_alert": null
+        "demand_count": 11,
+        "supply_count": 3,
+        "pressure_ratio": 3.0,
+        "predicted_change_pct": 11.0,
+        "trend": "Rising",
+        "tier_pressure_alert": {
+          "en": "High chance of tier promotion (trading on par with Iceborn Katana)",
+          "ru": "Высокий шанс повышения (торгуется на уровне Ледяная Катана (IBK))"
+        }
       },
       "7d": {
         "demand_count": 28,
@@ -8416,9 +8398,9 @@ window.GPO_ITEMS = [
       },
       "24h": {
         "demand_count": 0,
-        "supply_count": 1,
-        "pressure_ratio": 0.5,
-        "predicted_change_pct": -2.8,
+        "supply_count": 3,
+        "pressure_ratio": 0.25,
+        "predicted_change_pct": -4.1,
         "trend": "Falling",
         "tier_pressure_alert": null
       },
@@ -8568,12 +8550,15 @@ window.GPO_ITEMS = [
         }
       },
       "24h": {
-        "demand_count": 0,
+        "demand_count": 4,
         "supply_count": 0,
-        "pressure_ratio": 1.0,
-        "predicted_change_pct": 0.0,
-        "trend": "Stable",
-        "tier_pressure_alert": null
+        "pressure_ratio": 5.0,
+        "predicted_change_pct": 12.0,
+        "trend": "Rising",
+        "tier_pressure_alert": {
+          "en": "High chance of tier promotion (trading on par with Moria’s Necklace)",
+          "ru": "Высокий шанс повышения (торгуется на уровне Ожерелье Мории)"
+        }
       },
       "7d": {
         "demand_count": 22,
@@ -8620,10 +8605,10 @@ window.GPO_ITEMS = [
         "tier_pressure_alert": null
       },
       "24h": {
-        "demand_count": 0,
-        "supply_count": 3,
-        "pressure_ratio": 0.25,
-        "predicted_change_pct": -4.1,
+        "demand_count": 5,
+        "supply_count": 85,
+        "pressure_ratio": 0.07,
+        "predicted_change_pct": -5.1,
         "trend": "Falling",
         "tier_pressure_alert": null
       },
@@ -8645,7 +8630,7 @@ window.GPO_ITEMS = [
     "tier": "Tier B-",
     "subTier": "High",
     "rankInTier": 3,
-    "value": 23.1,
+    "value": 23.2,
     "lcValue": 0.1,
     "demand": "Low",
     "trend": "Falling",
@@ -8669,11 +8654,11 @@ window.GPO_ITEMS = [
         "tier_pressure_alert": null
       },
       "24h": {
-        "demand_count": 0,
-        "supply_count": 0,
-        "pressure_ratio": 1.0,
-        "predicted_change_pct": 0.0,
-        "trend": "Stable",
+        "demand_count": 4,
+        "supply_count": 50,
+        "pressure_ratio": 0.1,
+        "predicted_change_pct": -5.0,
+        "trend": "Falling",
         "tier_pressure_alert": null
       },
       "7d": {
@@ -8694,7 +8679,7 @@ window.GPO_ITEMS = [
     "tier": "Tier B-",
     "subTier": "High",
     "rankInTier": 4,
-    "value": 22.6,
+    "value": 22.7,
     "lcValue": 0.1,
     "demand": "Medium",
     "trend": "Falling",
@@ -8718,10 +8703,10 @@ window.GPO_ITEMS = [
         "tier_pressure_alert": null
       },
       "24h": {
-        "demand_count": 0,
-        "supply_count": 3,
-        "pressure_ratio": 0.25,
-        "predicted_change_pct": -4.1,
+        "demand_count": 7,
+        "supply_count": 82,
+        "pressure_ratio": 0.1,
+        "predicted_change_pct": -5.0,
         "trend": "Falling",
         "tier_pressure_alert": null
       },
@@ -8743,7 +8728,7 @@ window.GPO_ITEMS = [
     "tier": "Tier B-",
     "subTier": "High",
     "rankInTier": 5,
-    "value": 21.9,
+    "value": 21.8,
     "lcValue": 0.09,
     "demand": "Medium",
     "trend": "Falling",
@@ -8767,10 +8752,10 @@ window.GPO_ITEMS = [
         "tier_pressure_alert": null
       },
       "24h": {
-        "demand_count": 1,
-        "supply_count": 3,
-        "pressure_ratio": 0.5,
-        "predicted_change_pct": -2.8,
+        "demand_count": 8,
+        "supply_count": 81,
+        "pressure_ratio": 0.11,
+        "predicted_change_pct": -4.9,
         "trend": "Falling",
         "tier_pressure_alert": null
       },
@@ -8792,7 +8777,7 @@ window.GPO_ITEMS = [
     "tier": "Tier B-",
     "subTier": "High",
     "rankInTier": 6,
-    "value": 21.1,
+    "value": 21.2,
     "lcValue": 0.09,
     "demand": "Medium",
     "trend": "Falling",
@@ -8816,10 +8801,10 @@ window.GPO_ITEMS = [
         "tier_pressure_alert": null
       },
       "24h": {
-        "demand_count": 0,
-        "supply_count": 2,
-        "pressure_ratio": 0.33,
-        "predicted_change_pct": -3.7,
+        "demand_count": 13,
+        "supply_count": 77,
+        "pressure_ratio": 0.18,
+        "predicted_change_pct": -4.5,
         "trend": "Falling",
         "tier_pressure_alert": null
       },
@@ -9012,11 +8997,11 @@ window.GPO_ITEMS = [
         "tier_pressure_alert": null
       },
       "24h": {
-        "demand_count": 1,
-        "supply_count": 1,
-        "pressure_ratio": 1.0,
-        "predicted_change_pct": 0.0,
-        "trend": "Stable",
+        "demand_count": 13,
+        "supply_count": 28,
+        "pressure_ratio": 0.48,
+        "predicted_change_pct": -2.9,
+        "trend": "Falling",
         "tier_pressure_alert": null
       },
       "7d": {
@@ -9184,7 +9169,7 @@ window.GPO_ITEMS = [
     "tier": "Tier B-",
     "subTier": "Low",
     "rankInTier": 14,
-    "value": 13.1,
+    "value": 13.2,
     "lcValue": 0.06,
     "demand": "Very High",
     "trend": "Falling",
@@ -9208,10 +9193,10 @@ window.GPO_ITEMS = [
         "tier_pressure_alert": null
       },
       "24h": {
-        "demand_count": 31,
-        "supply_count": 855,
-        "pressure_ratio": 0.04,
-        "predicted_change_pct": -5.3,
+        "demand_count": 4426,
+        "supply_count": 20526,
+        "pressure_ratio": 0.22,
+        "predicted_change_pct": -4.3,
         "trend": "Falling",
         "tier_pressure_alert": null
       },
@@ -9233,7 +9218,7 @@ window.GPO_ITEMS = [
     "tier": "Tier B-",
     "subTier": "Low",
     "rankInTier": 15,
-    "value": 12.6,
+    "value": 12.7,
     "lcValue": 0.05,
     "demand": "Low",
     "trend": "Stable",
@@ -9257,10 +9242,10 @@ window.GPO_ITEMS = [
         "tier_pressure_alert": null
       },
       "24h": {
-        "demand_count": 0,
-        "supply_count": 0,
-        "pressure_ratio": 1.0,
-        "predicted_change_pct": 0.0,
+        "demand_count": 5,
+        "supply_count": 4,
+        "pressure_ratio": 1.2,
+        "predicted_change_pct": 1.1,
         "trend": "Stable",
         "tier_pressure_alert": null
       },
@@ -9454,10 +9439,10 @@ window.GPO_ITEMS = [
       },
       "24h": {
         "demand_count": 0,
-        "supply_count": 0,
-        "pressure_ratio": 1.0,
-        "predicted_change_pct": 0.0,
-        "trend": "Stable",
+        "supply_count": 1,
+        "pressure_ratio": 0.5,
+        "predicted_change_pct": -2.8,
+        "trend": "Falling",
         "tier_pressure_alert": null
       },
       "7d": {
@@ -9503,10 +9488,10 @@ window.GPO_ITEMS = [
       },
       "24h": {
         "demand_count": 0,
-        "supply_count": 0,
-        "pressure_ratio": 1.0,
-        "predicted_change_pct": 0.0,
-        "trend": "Stable",
+        "supply_count": 1,
+        "pressure_ratio": 0.5,
+        "predicted_change_pct": -2.8,
+        "trend": "Falling",
         "tier_pressure_alert": null
       },
       "7d": {
@@ -9772,7 +9757,7 @@ window.GPO_ITEMS = [
     "tier": "Tier C",
     "subTier": "High",
     "rankInTier": 2,
-    "value": 8.79,
+    "value": 8.78,
     "lcValue": 0.04,
     "demand": "Low",
     "trend": "Falling",
@@ -9796,11 +9781,11 @@ window.GPO_ITEMS = [
         "tier_pressure_alert": null
       },
       "24h": {
-        "demand_count": 0,
-        "supply_count": 0,
-        "pressure_ratio": 1.0,
-        "predicted_change_pct": 0.0,
-        "trend": "Stable",
+        "demand_count": 2,
+        "supply_count": 11,
+        "pressure_ratio": 0.25,
+        "predicted_change_pct": -4.1,
+        "trend": "Falling",
         "tier_pressure_alert": null
       },
       "7d": {
@@ -9870,7 +9855,7 @@ window.GPO_ITEMS = [
     "tier": "Tier C",
     "subTier": "High",
     "rankInTier": 4,
-    "value": 7.93,
+    "value": 7.96,
     "lcValue": 0.03,
     "demand": "Low",
     "trend": "Falling",
@@ -9894,11 +9879,11 @@ window.GPO_ITEMS = [
         "tier_pressure_alert": null
       },
       "24h": {
-        "demand_count": 0,
-        "supply_count": 0,
-        "pressure_ratio": 1.0,
-        "predicted_change_pct": 0.0,
-        "trend": "Stable",
+        "demand_count": 4,
+        "supply_count": 10,
+        "pressure_ratio": 0.45,
+        "predicted_change_pct": -3.0,
+        "trend": "Falling",
         "tier_pressure_alert": null
       },
       "7d": {
@@ -10335,11 +10320,11 @@ window.GPO_ITEMS = [
         "tier_pressure_alert": null
       },
       "24h": {
-        "demand_count": 0,
+        "demand_count": 1,
         "supply_count": 0,
-        "pressure_ratio": 1.0,
-        "predicted_change_pct": 0.0,
-        "trend": "Stable",
+        "pressure_ratio": 2.0,
+        "predicted_change_pct": 5.5,
+        "trend": "Rising",
         "tier_pressure_alert": null
       },
       "7d": {
@@ -10433,10 +10418,10 @@ window.GPO_ITEMS = [
         "tier_pressure_alert": null
       },
       "24h": {
-        "demand_count": 0,
-        "supply_count": 1,
-        "pressure_ratio": 0.5,
-        "predicted_change_pct": -2.8,
+        "demand_count": 2,
+        "supply_count": 3,
+        "pressure_ratio": 0.75,
+        "predicted_change_pct": -1.4,
         "trend": "Falling",
         "tier_pressure_alert": null
       },
@@ -10488,11 +10473,11 @@ window.GPO_ITEMS = [
         }
       },
       "24h": {
-        "demand_count": 0,
-        "supply_count": 1,
-        "pressure_ratio": 0.5,
-        "predicted_change_pct": -2.8,
-        "trend": "Falling",
+        "demand_count": 49,
+        "supply_count": 58,
+        "pressure_ratio": 0.85,
+        "predicted_change_pct": -0.8,
+        "trend": "Stable",
         "tier_pressure_alert": null
       },
       "7d": {
@@ -10538,9 +10523,9 @@ window.GPO_ITEMS = [
       },
       "24h": {
         "demand_count": 0,
-        "supply_count": 1,
-        "pressure_ratio": 0.5,
-        "predicted_change_pct": -2.8,
+        "supply_count": 7,
+        "pressure_ratio": 0.12,
+        "predicted_change_pct": -4.8,
         "trend": "Falling",
         "tier_pressure_alert": null
       },
