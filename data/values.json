@@ -1,13 +1,13 @@
 {
   "meta": {
-    "updated_at": "2026-10-22 18:17:14 UTC",
-    "total_trades_analyzed": 68415,
+    "updated_at": "2026-10-22 22:05:48 UTC",
+    "total_trades_analyzed": 62383,
     "total_trades_1h": 10000,
     "total_trades_24h": 25000,
-    "total_trades_7d": 68415,
+    "total_trades_7d": 62383,
     "total_items": 213,
     "market_sentiment": "Neutral",
-    "updated_at_iso": "2026-10-22T18:17:14.595776+00:00",
+    "updated_at_iso": "2026-10-22T22:05:48.948332+00:00",
     "official_base_updated": "10/11/2026"
   },
   "forecast_summary": {
@@ -25,14 +25,14 @@
           "tier": "Tier A+",
           "subTier": "Mid",
           "rankInTier": 13,
-          "value": 8632,
-          "lcValue": 36.99,
+          "value": 8597,
+          "lcValue": 36.84,
           "demand": "Medium",
           "trend": "Rising",
           "category": "accessories",
           "image": "images/item_43.png",
           "wikiUrl": "https://grand-piece-online.fandom.com/wiki/Blessed_Cupid_Queen%27s_Scarf",
-          "demandScore": 4.1,
+          "demandScore": 4.0,
           "official_rank": 51,
           "demand_count": 9,
           "supply_count": 2,
@@ -57,10 +57,10 @@
               "tier_pressure_alert": null
             },
             "7d": {
-              "demand_count": 61,
-              "supply_count": 39,
-              "pressure_ratio": 1.55,
-              "predicted_change_pct": 3.9,
+              "demand_count": 56,
+              "supply_count": 36,
+              "pressure_ratio": 1.54,
+              "predicted_change_pct": 3.8,
               "trend": "Rising",
               "tier_pressure_alert": null
             }
@@ -81,16 +81,13 @@
           "category": "accessories",
           "image": "images/item_104.png",
           "wikiUrl": "https://grand-piece-online.fandom.com/wiki/Dragon_Emperor%27s_Cape",
-          "demandScore": 5.3,
+          "demandScore": 5.2,
           "official_rank": 124,
           "demand_count": 31,
           "supply_count": 9,
           "pressure_ratio": 3.2,
           "predicted_change_pct": 8.8,
-          "tier_pressure_alert": {
-            "en": "High chance of tier promotion (trading on par with Cupid’s Chakram)",
-            "ru": "Высокий шанс повышения (торгуется на уровне Чакрам Купидона)"
-          },
+          "tier_pressure_alert": null,
           "timeframes": {
             "1h": {
               "demand_count": 31,
@@ -98,10 +95,7 @@
               "pressure_ratio": 3.2,
               "predicted_change_pct": 8.8,
               "trend": "Rising",
-              "tier_pressure_alert": {
-                "en": "High chance of tier promotion (trading on par with Cupid’s Chakram)",
-                "ru": "Высокий шанс повышения (торгуется на уровне Чакрам Купидона)"
-              }
+              "tier_pressure_alert": null
             },
             "24h": {
               "demand_count": 80,
@@ -109,21 +103,15 @@
               "pressure_ratio": 2.79,
               "predicted_change_pct": 9.8,
               "trend": "Rising",
-              "tier_pressure_alert": {
-                "en": "High chance of tier promotion (trading on par with Cupid’s Chakram)",
-                "ru": "Высокий шанс повышения (торгуется на уровне Чакрам Купидона)"
-              }
+              "tier_pressure_alert": null
             },
             "7d": {
-              "demand_count": 224,
-              "supply_count": 87,
-              "pressure_ratio": 2.56,
-              "predicted_change_pct": 10.9,
+              "demand_count": 207,
+              "supply_count": 79,
+              "pressure_ratio": 2.6,
+              "predicted_change_pct": 11.2,
               "trend": "Rising",
-              "tier_pressure_alert": {
-                "en": "High chance of tier promotion (trading on par with Cupid’s Chakram)",
-                "ru": "Высокий шанс повышения (торгуется на уровне Чакрам Купидона)"
-              }
+              "tier_pressure_alert": null
             }
           }
         },
@@ -135,8 +123,8 @@
           "tier": "Tier SS",
           "subTier": "High",
           "rankInTier": 1,
-          "value": 720440,
-          "lcValue": 3087.64,
+          "value": 717558,
+          "lcValue": 3075.29,
           "demand": "Low",
           "trend": "Rising",
           "category": "accessories",
@@ -191,7 +179,7 @@
           "category": "accessories",
           "image": "images/item_153.png",
           "wikiUrl": "https://grand-piece-online.fandom.com/wiki/Megalodon_Helmet",
-          "demandScore": 3.7,
+          "demandScore": 4.0,
           "official_rank": 173,
           "demand_count": 2,
           "supply_count": 0,
@@ -226,8 +214,8 @@
             },
             "7d": {
               "demand_count": 21,
-              "supply_count": 2,
-              "pressure_ratio": 7.33,
+              "supply_count": 0,
+              "pressure_ratio": 22.0,
               "predicted_change_pct": 12.0,
               "trend": "Rising",
               "tier_pressure_alert": {
@@ -283,8 +271,8 @@
               "tier_pressure_alert": null
             },
             "7d": {
-              "demand_count": 169,
-              "supply_count": 185,
+              "demand_count": 155,
+              "supply_count": 171,
               "pressure_ratio": 0.91,
               "predicted_change_pct": -0.6,
               "trend": "Stable",
@@ -300,14 +288,14 @@
           "tier": "Tier B+",
           "subTier": "Mid",
           "rankInTier": 27,
-          "value": 152,
+          "value": 151,
           "lcValue": 0.65,
           "demand": "Medium",
           "trend": "Rising",
           "category": "accessories",
           "image": "images/item_114.png",
           "wikiUrl": "https://grand-piece-online.fandom.com/wiki/Jester's_Hat",
-          "demandScore": 5.0,
+          "demandScore": 4.9,
           "official_rank": 133,
           "demand_count": 16,
           "supply_count": 6,
@@ -341,9 +329,9 @@
               }
             },
             "7d": {
-              "demand_count": 151,
-              "supply_count": 47,
-              "pressure_ratio": 3.17,
+              "demand_count": 141,
+              "supply_count": 44,
+              "pressure_ratio": 3.16,
               "predicted_change_pct": 12.0,
               "trend": "Rising",
               "tier_pressure_alert": {
@@ -363,14 +351,14 @@
           "tier": "Tier B+",
           "subTier": "Low",
           "rankInTier": 37,
-          "value": 102,
-          "lcValue": 0.44,
+          "value": 101,
+          "lcValue": 0.43,
           "demand": "Low",
           "trend": "Falling",
           "category": "fruits",
           "image": "images/item_123.png",
           "wikiUrl": "https://grand-piece-online.fandom.com/wiki/Magu_Magu_no_Mi",
-          "demandScore": 3.3,
+          "demandScore": 3.2,
           "official_rank": 143,
           "demand_count": 2,
           "supply_count": 87,
@@ -395,8 +383,8 @@
               "tier_pressure_alert": null
             },
             "7d": {
-              "demand_count": 30,
-              "supply_count": 639,
+              "demand_count": 26,
+              "supply_count": 586,
               "pressure_ratio": 0.05,
               "predicted_change_pct": -6.6,
               "trend": "Falling",
@@ -412,14 +400,14 @@
           "tier": "Tier B+",
           "subTier": "High",
           "rankInTier": 14,
-          "value": 263,
-          "lcValue": 1.13,
+          "value": 262,
+          "lcValue": 1.12,
           "demand": "Low",
           "trend": "Falling",
           "category": "boats",
           "image": "images/item_213.png",
           "wikiUrl": "https://grand-piece-online.fandom.com/wiki/Hoverboard",
-          "demandScore": 3.2,
+          "demandScore": 2.9,
           "official_rank": 120,
           "demand_count": 1,
           "supply_count": 39,
@@ -444,10 +432,10 @@
               "tier_pressure_alert": null
             },
             "7d": {
-              "demand_count": 27,
-              "supply_count": 301,
-              "pressure_ratio": 0.09,
-              "predicted_change_pct": -6.4,
+              "demand_count": 18,
+              "supply_count": 259,
+              "pressure_ratio": 0.07,
+              "predicted_change_pct": -6.5,
               "trend": "Falling",
               "tier_pressure_alert": null
             }
@@ -461,14 +449,14 @@
           "tier": "Tier A",
           "subTier": "High",
           "rankInTier": 11,
-          "value": 2844,
-          "lcValue": 12.19,
+          "value": 2855,
+          "lcValue": 12.24,
           "demand": "Medium",
           "trend": "Falling",
           "category": "misc",
           "image": "images/item_55.png",
           "wikiUrl": "https://grand-piece-online.fandom.com/wiki/Time-Rift_Capsule",
-          "demandScore": 3.9,
+          "demandScore": 3.8,
           "official_rank": 68,
           "demand_count": 7,
           "supply_count": 107,
@@ -493,10 +481,10 @@
               "tier_pressure_alert": null
             },
             "7d": {
-              "demand_count": 61,
-              "supply_count": 649,
-              "pressure_ratio": 0.1,
-              "predicted_change_pct": -6.3,
+              "demand_count": 54,
+              "supply_count": 609,
+              "pressure_ratio": 0.09,
+              "predicted_change_pct": -6.4,
               "trend": "Falling",
               "tier_pressure_alert": null
             }
@@ -510,7 +498,7 @@
           "tier": "Tier B+",
           "subTier": "High",
           "rankInTier": 20,
-          "value": 210,
+          "value": 211,
           "lcValue": 0.9,
           "demand": "Medium",
           "trend": "Falling",
@@ -542,8 +530,8 @@
               "tier_pressure_alert": null
             },
             "7d": {
-              "demand_count": 153,
-              "supply_count": 1597,
+              "demand_count": 144,
+              "supply_count": 1437,
               "pressure_ratio": 0.1,
               "predicted_change_pct": -6.3,
               "trend": "Falling",
@@ -559,7 +547,7 @@
           "tier": "Tier B+",
           "subTier": "Mid",
           "rankInTier": 25,
-          "value": 162,
+          "value": 161,
           "lcValue": 0.69,
           "demand": "Low",
           "trend": "Falling",
@@ -591,8 +579,8 @@
               "tier_pressure_alert": null
             },
             "7d": {
-              "demand_count": 14,
-              "supply_count": 213,
+              "demand_count": 13,
+              "supply_count": 188,
               "pressure_ratio": 0.07,
               "predicted_change_pct": -6.5,
               "trend": "Falling",
@@ -615,7 +603,7 @@
           "category": "fruits",
           "image": "images/item_155.png",
           "wikiUrl": "https://grand-piece-online.fandom.com/wiki/Moku_Moku_no_Mi",
-          "demandScore": 3.2,
+          "demandScore": 3.0,
           "official_rank": 174,
           "demand_count": 2,
           "supply_count": 42,
@@ -640,10 +628,10 @@
               "tier_pressure_alert": null
             },
             "7d": {
-              "demand_count": 26,
-              "supply_count": 203,
-              "pressure_ratio": 0.13,
-              "predicted_change_pct": -6.1,
+              "demand_count": 22,
+              "supply_count": 188,
+              "pressure_ratio": 0.12,
+              "predicted_change_pct": -6.2,
               "trend": "Falling",
               "tier_pressure_alert": null
             }
@@ -709,21 +697,6 @@
           "alert": {
             "en": "High chance of tier promotion (trading on par with Firework Daggers)",
             "ru": "Высокий шанс повышения (торгуется на уровне Кинжалы Фейерверков)"
-          }
-        },
-        {
-          "id": "item_104",
-          "name": "Dragon Emperor’s Cape",
-          "nameRu": "Плащ Императора Драконов",
-          "image": "images/item_104.png",
-          "current_rank": 124,
-          "pressure_type": "UP",
-          "target_neighbor": "Cupid’s Chakram",
-          "target_neighbor_ru": "Чакрам Купидона",
-          "pressure_ratio": 3.2,
-          "alert": {
-            "en": "High chance of tier promotion (trading on par with Cupid’s Chakram)",
-            "ru": "Высокий шанс повышения (торгуется на уровне Чакрам Купидона)"
           }
         },
         {
@@ -853,7 +826,7 @@
           "category": "accessories",
           "image": "images/item_153.png",
           "wikiUrl": "https://grand-piece-online.fandom.com/wiki/Megalodon_Helmet",
-          "demandScore": 3.7,
+          "demandScore": 4.0,
           "official_rank": 173,
           "demand_count": 2,
           "supply_count": 0,
@@ -888,8 +861,8 @@
             },
             "7d": {
               "demand_count": 21,
-              "supply_count": 2,
-              "pressure_ratio": 7.33,
+              "supply_count": 0,
+              "pressure_ratio": 22.0,
               "predicted_change_pct": 12.0,
               "trend": "Rising",
               "tier_pressure_alert": {
@@ -907,8 +880,8 @@
           "tier": "Tier B",
           "subTier": "Low",
           "rankInTier": 15,
-          "value": 29.1,
-          "lcValue": 0.12,
+          "value": 29.2,
+          "lcValue": 0.13,
           "demand": "Low",
           "trend": "Rising",
           "category": "accessories",
@@ -948,12 +921,15 @@
               }
             },
             "7d": {
-              "demand_count": 23,
-              "supply_count": 20,
-              "pressure_ratio": 1.14,
-              "predicted_change_pct": 1.0,
-              "trend": "Stable",
-              "tier_pressure_alert": null
+              "demand_count": 21,
+              "supply_count": 15,
+              "pressure_ratio": 1.38,
+              "predicted_change_pct": 2.7,
+              "trend": "Rising",
+              "tier_pressure_alert": {
+                "en": "High chance of tier promotion (trading on par with Iceborn Katana)",
+                "ru": "Высокий шанс повышения (торгуется на уровне Ледяная Катана (IBK))"
+              }
             }
           }
         },
@@ -965,14 +941,14 @@
           "tier": "Tier B+",
           "subTier": "Mid",
           "rankInTier": 27,
-          "value": 152,
+          "value": 151,
           "lcValue": 0.65,
           "demand": "Medium",
           "trend": "Rising",
           "category": "accessories",
           "image": "images/item_114.png",
           "wikiUrl": "https://grand-piece-online.fandom.com/wiki/Jester's_Hat",
-          "demandScore": 5.0,
+          "demandScore": 4.9,
           "official_rank": 133,
           "demand_count": 16,
           "supply_count": 6,
@@ -1006,9 +982,9 @@
               }
             },
             "7d": {
-              "demand_count": 151,
-              "supply_count": 47,
-              "pressure_ratio": 3.17,
+              "demand_count": 141,
+              "supply_count": 44,
+              "pressure_ratio": 3.16,
               "predicted_change_pct": 12.0,
               "trend": "Rising",
               "tier_pressure_alert": {
@@ -1033,16 +1009,13 @@
           "category": "accessories",
           "image": "images/item_104.png",
           "wikiUrl": "https://grand-piece-online.fandom.com/wiki/Dragon_Emperor%27s_Cape",
-          "demandScore": 5.3,
+          "demandScore": 5.2,
           "official_rank": 124,
           "demand_count": 31,
           "supply_count": 9,
           "pressure_ratio": 3.2,
           "predicted_change_pct": 8.8,
-          "tier_pressure_alert": {
-            "en": "High chance of tier promotion (trading on par with Cupid’s Chakram)",
-            "ru": "Высокий шанс повышения (торгуется на уровне Чакрам Купидона)"
-          },
+          "tier_pressure_alert": null,
           "timeframes": {
             "1h": {
               "demand_count": 31,
@@ -1050,10 +1023,7 @@
               "pressure_ratio": 3.2,
               "predicted_change_pct": 8.8,
               "trend": "Rising",
-              "tier_pressure_alert": {
-                "en": "High chance of tier promotion (trading on par with Cupid’s Chakram)",
-                "ru": "Высокий шанс повышения (торгуется на уровне Чакрам Купидона)"
-              }
+              "tier_pressure_alert": null
             },
             "24h": {
               "demand_count": 80,
@@ -1061,21 +1031,15 @@
               "pressure_ratio": 2.79,
               "predicted_change_pct": 9.8,
               "trend": "Rising",
-              "tier_pressure_alert": {
-                "en": "High chance of tier promotion (trading on par with Cupid’s Chakram)",
-                "ru": "Высокий шанс повышения (торгуется на уровне Чакрам Купидона)"
-              }
+              "tier_pressure_alert": null
             },
             "7d": {
-              "demand_count": 224,
-              "supply_count": 87,
-              "pressure_ratio": 2.56,
-              "predicted_change_pct": 10.9,
+              "demand_count": 207,
+              "supply_count": 79,
+              "pressure_ratio": 2.6,
+              "predicted_change_pct": 11.2,
               "trend": "Rising",
-              "tier_pressure_alert": {
-                "en": "High chance of tier promotion (trading on par with Cupid’s Chakram)",
-                "ru": "Высокий шанс повышения (торгуется на уровне Чакрам Купидона)"
-              }
+              "tier_pressure_alert": null
             }
           }
         },
@@ -1087,14 +1051,14 @@
           "tier": "Tier A+",
           "subTier": "Mid",
           "rankInTier": 12,
-          "value": 9370,
-          "lcValue": 40.16,
+          "value": 9407,
+          "lcValue": 40.32,
           "demand": "Medium",
           "trend": "Rising",
           "category": "weapons",
           "image": "images/item_42.png",
           "wikiUrl": "https://grand-piece-online.fandom.com/wiki/Snowcap_Scepter",
-          "demandScore": 4.1,
+          "demandScore": 3.9,
           "official_rank": 50,
           "demand_count": 6,
           "supply_count": 2,
@@ -1128,10 +1092,10 @@
               }
             },
             "7d": {
-              "demand_count": 49,
-              "supply_count": 19,
-              "pressure_ratio": 2.5,
-              "predicted_change_pct": 10.5,
+              "demand_count": 41,
+              "supply_count": 17,
+              "pressure_ratio": 2.33,
+              "predicted_change_pct": 9.3,
               "trend": "Rising",
               "tier_pressure_alert": {
                 "en": "High chance of tier promotion (trading on par with Soul Cleaver)",
@@ -1148,7 +1112,7 @@
           "tier": "Tier B+",
           "subTier": "Low",
           "rankInTier": 33,
-          "value": 122,
+          "value": 121,
           "lcValue": 0.52,
           "demand": "Medium",
           "trend": "Rising",
@@ -1189,10 +1153,10 @@
               }
             },
             "7d": {
-              "demand_count": 151,
-              "supply_count": 63,
-              "pressure_ratio": 2.38,
-              "predicted_change_pct": 9.7,
+              "demand_count": 135,
+              "supply_count": 53,
+              "pressure_ratio": 2.52,
+              "predicted_change_pct": 10.6,
               "trend": "Rising",
               "tier_pressure_alert": {
                 "en": "High chance of tier promotion (trading on par with Big Mama’s Cape)",
@@ -1211,14 +1175,14 @@
           "tier": "Tier B+",
           "subTier": "Low",
           "rankInTier": 37,
-          "value": 102,
-          "lcValue": 0.44,
+          "value": 101,
+          "lcValue": 0.43,
           "demand": "Low",
           "trend": "Falling",
           "category": "fruits",
           "image": "images/item_123.png",
           "wikiUrl": "https://grand-piece-online.fandom.com/wiki/Magu_Magu_no_Mi",
-          "demandScore": 3.3,
+          "demandScore": 3.2,
           "official_rank": 143,
           "demand_count": 2,
           "supply_count": 87,
@@ -1243,8 +1207,8 @@
               "tier_pressure_alert": null
             },
             "7d": {
-              "demand_count": 30,
-              "supply_count": 639,
+              "demand_count": 26,
+              "supply_count": 586,
               "pressure_ratio": 0.05,
               "predicted_change_pct": -6.6,
               "trend": "Falling",
@@ -1260,14 +1224,14 @@
           "tier": "Tier B",
           "subTier": "Low",
           "rankInTier": 14,
-          "value": 30.1,
+          "value": 30.2,
           "lcValue": 0.13,
           "demand": "Low",
           "trend": "Falling",
           "category": "weapons",
           "image": "images/item_149.png",
           "wikiUrl": "https://grand-piece-online.fandom.com/wiki/Iceborn_Katana",
-          "demandScore": 2.4,
+          "demandScore": 2.3,
           "official_rank": 168,
           "demand_count": 0,
           "supply_count": 7,
@@ -1292,10 +1256,10 @@
               "tier_pressure_alert": null
             },
             "7d": {
-              "demand_count": 10,
-              "supply_count": 36,
-              "pressure_ratio": 0.3,
-              "predicted_change_pct": -4.9,
+              "demand_count": 9,
+              "supply_count": 33,
+              "pressure_ratio": 0.29,
+              "predicted_change_pct": -5.0,
               "trend": "Falling",
               "tier_pressure_alert": null
             }
@@ -1309,14 +1273,14 @@
           "tier": "Tier B+",
           "subTier": "Low",
           "rankInTier": 39,
-          "value": 96.5,
+          "value": 95.9,
           "lcValue": 0.41,
           "demand": "Low",
           "trend": "Falling",
           "category": "outfits",
           "image": "images/item_125.png",
           "wikiUrl": "https://grand-piece-online.fandom.com/wiki/Roger's_Outfit",
-          "demandScore": 2.3,
+          "demandScore": 2.2,
           "official_rank": 145,
           "demand_count": 0,
           "supply_count": 7,
@@ -1341,8 +1305,8 @@
               "tier_pressure_alert": null
             },
             "7d": {
-              "demand_count": 9,
-              "supply_count": 59,
+              "demand_count": 8,
+              "supply_count": 52,
               "pressure_ratio": 0.17,
               "predicted_change_pct": -5.8,
               "trend": "Falling",
@@ -1358,14 +1322,14 @@
           "tier": "Tier A",
           "subTier": "High",
           "rankInTier": 11,
-          "value": 2844,
-          "lcValue": 12.19,
+          "value": 2855,
+          "lcValue": 12.24,
           "demand": "Medium",
           "trend": "Falling",
           "category": "misc",
           "image": "images/item_55.png",
           "wikiUrl": "https://grand-piece-online.fandom.com/wiki/Time-Rift_Capsule",
-          "demandScore": 3.9,
+          "demandScore": 3.8,
           "official_rank": 68,
           "demand_count": 7,
           "supply_count": 107,
@@ -1390,10 +1354,10 @@
               "tier_pressure_alert": null
             },
             "7d": {
-              "demand_count": 61,
-              "supply_count": 649,
-              "pressure_ratio": 0.1,
-              "predicted_change_pct": -6.3,
+              "demand_count": 54,
+              "supply_count": 609,
+              "pressure_ratio": 0.09,
+              "predicted_change_pct": -6.4,
               "trend": "Falling",
               "tier_pressure_alert": null
             }
@@ -1414,7 +1378,7 @@
           "category": "fruits",
           "image": "images/item_155.png",
           "wikiUrl": "https://grand-piece-online.fandom.com/wiki/Moku_Moku_no_Mi",
-          "demandScore": 3.2,
+          "demandScore": 3.0,
           "official_rank": 174,
           "demand_count": 2,
           "supply_count": 42,
@@ -1439,10 +1403,10 @@
               "tier_pressure_alert": null
             },
             "7d": {
-              "demand_count": 26,
-              "supply_count": 203,
-              "pressure_ratio": 0.13,
-              "predicted_change_pct": -6.1,
+              "demand_count": 22,
+              "supply_count": 188,
+              "pressure_ratio": 0.12,
+              "predicted_change_pct": -6.2,
               "trend": "Falling",
               "tier_pressure_alert": null
             }
@@ -1456,14 +1420,14 @@
           "tier": "Tier B+",
           "subTier": "High",
           "rankInTier": 14,
-          "value": 263,
-          "lcValue": 1.13,
+          "value": 262,
+          "lcValue": 1.12,
           "demand": "Low",
           "trend": "Falling",
           "category": "boats",
           "image": "images/item_213.png",
           "wikiUrl": "https://grand-piece-online.fandom.com/wiki/Hoverboard",
-          "demandScore": 3.2,
+          "demandScore": 2.9,
           "official_rank": 120,
           "demand_count": 1,
           "supply_count": 39,
@@ -1488,10 +1452,10 @@
               "tier_pressure_alert": null
             },
             "7d": {
-              "demand_count": 27,
-              "supply_count": 301,
-              "pressure_ratio": 0.09,
-              "predicted_change_pct": -6.4,
+              "demand_count": 18,
+              "supply_count": 259,
+              "pressure_ratio": 0.07,
+              "predicted_change_pct": -6.5,
               "trend": "Falling",
               "tier_pressure_alert": null
             }
@@ -1542,21 +1506,6 @@
           "alert": {
             "en": "High chance of tier promotion (trading on par with Elo’s Sledgehammer)",
             "ru": "Высокий шанс повышения (торгуется на уровне Кувалда Эло)"
-          }
-        },
-        {
-          "id": "item_104",
-          "name": "Dragon Emperor’s Cape",
-          "nameRu": "Плащ Императора Драконов",
-          "image": "images/item_104.png",
-          "current_rank": 124,
-          "pressure_type": "UP",
-          "target_neighbor": "Cupid’s Chakram",
-          "target_neighbor_ru": "Чакрам Купидона",
-          "pressure_ratio": 2.79,
-          "alert": {
-            "en": "High chance of tier promotion (trading on par with Cupid’s Chakram)",
-            "ru": "Высокий шанс повышения (торгуется на уровне Чакрам Купидона)"
           }
         },
         {
@@ -1623,7 +1572,7 @@
     },
     "7d": {
       "timeframe_label": "7 Days (Weekly)",
-      "trades_analyzed": 68415,
+      "trades_analyzed": 62383,
       "market_sentiment": "Neutral",
       "top_rising": [
         {
@@ -1641,7 +1590,7 @@
           "category": "accessories",
           "image": "images/item_153.png",
           "wikiUrl": "https://grand-piece-online.fandom.com/wiki/Megalodon_Helmet",
-          "demandScore": 3.7,
+          "demandScore": 4.0,
           "official_rank": 173,
           "demand_count": 2,
           "supply_count": 0,
@@ -1676,8 +1625,8 @@
             },
             "7d": {
               "demand_count": 21,
-              "supply_count": 2,
-              "pressure_ratio": 7.33,
+              "supply_count": 0,
+              "pressure_ratio": 22.0,
               "predicted_change_pct": 12.0,
               "trend": "Rising",
               "tier_pressure_alert": {
@@ -1695,14 +1644,14 @@
           "tier": "Tier A-",
           "subTier": "Low",
           "rankInTier": 12,
-          "value": 622,
+          "value": 624,
           "lcValue": 2.67,
           "demand": "Low",
           "trend": "Rising",
           "category": "weapons",
           "image": "images/item_81.png",
           "wikiUrl": "https://grand-piece-online.fandom.com/wiki/Festival_Shield",
-          "demandScore": 3.4,
+          "demandScore": 3.2,
           "official_rank": 93,
           "demand_count": 1,
           "supply_count": 0,
@@ -1736,9 +1685,9 @@
               }
             },
             "7d": {
-              "demand_count": 15,
+              "demand_count": 12,
               "supply_count": 2,
-              "pressure_ratio": 5.33,
+              "pressure_ratio": 4.33,
               "predicted_change_pct": 12.0,
               "trend": "Rising",
               "tier_pressure_alert": {
@@ -1763,7 +1712,7 @@
           "category": "accessories",
           "image": "images/item_183.png",
           "wikiUrl": "https://grand-piece-online.fandom.com/wiki/Donmingo%27s_Shades",
-          "demandScore": 2.4,
+          "demandScore": 2.5,
           "official_rank": 201,
           "demand_count": 0,
           "supply_count": 0,
@@ -1805,14 +1754,14 @@
           "tier": "Tier B+",
           "subTier": "Mid",
           "rankInTier": 27,
-          "value": 152,
+          "value": 151,
           "lcValue": 0.65,
           "demand": "Medium",
           "trend": "Rising",
           "category": "accessories",
           "image": "images/item_114.png",
           "wikiUrl": "https://grand-piece-online.fandom.com/wiki/Jester's_Hat",
-          "demandScore": 5.0,
+          "demandScore": 4.9,
           "official_rank": 133,
           "demand_count": 16,
           "supply_count": 6,
@@ -1846,9 +1795,9 @@
               }
             },
             "7d": {
-              "demand_count": 151,
-              "supply_count": 47,
-              "pressure_ratio": 3.17,
+              "demand_count": 141,
+              "supply_count": 44,
+              "pressure_ratio": 3.16,
               "predicted_change_pct": 12.0,
               "trend": "Rising",
               "tier_pressure_alert": {
@@ -1873,16 +1822,13 @@
           "category": "accessories",
           "image": "images/item_104.png",
           "wikiUrl": "https://grand-piece-online.fandom.com/wiki/Dragon_Emperor%27s_Cape",
-          "demandScore": 5.3,
+          "demandScore": 5.2,
           "official_rank": 124,
           "demand_count": 31,
           "supply_count": 9,
           "pressure_ratio": 3.2,
           "predicted_change_pct": 8.8,
-          "tier_pressure_alert": {
-            "en": "High chance of tier promotion (trading on par with Cupid’s Chakram)",
-            "ru": "Высокий шанс повышения (торгуется на уровне Чакрам Купидона)"
-          },
+          "tier_pressure_alert": null,
           "timeframes": {
             "1h": {
               "demand_count": 31,
@@ -1890,10 +1836,7 @@
               "pressure_ratio": 3.2,
               "predicted_change_pct": 8.8,
               "trend": "Rising",
-              "tier_pressure_alert": {
-                "en": "High chance of tier promotion (trading on par with Cupid’s Chakram)",
-                "ru": "Высокий шанс повышения (торгуется на уровне Чакрам Купидона)"
-              }
+              "tier_pressure_alert": null
             },
             "24h": {
               "demand_count": 80,
@@ -1901,87 +1844,130 @@
               "pressure_ratio": 2.79,
               "predicted_change_pct": 9.8,
               "trend": "Rising",
-              "tier_pressure_alert": {
-                "en": "High chance of tier promotion (trading on par with Cupid’s Chakram)",
-                "ru": "Высокий шанс повышения (торгуется на уровне Чакрам Купидона)"
-              }
+              "tier_pressure_alert": null
             },
             "7d": {
-              "demand_count": 224,
-              "supply_count": 87,
-              "pressure_ratio": 2.56,
-              "predicted_change_pct": 10.9,
+              "demand_count": 207,
+              "supply_count": 79,
+              "pressure_ratio": 2.6,
+              "predicted_change_pct": 11.2,
               "trend": "Rising",
-              "tier_pressure_alert": {
-                "en": "High chance of tier promotion (trading on par with Cupid’s Chakram)",
-                "ru": "Высокий шанс повышения (торгуется на уровне Чакрам Купидона)"
-              }
+              "tier_pressure_alert": null
             }
           }
         },
         {
-          "id": "item_42",
-          "name": "Snowcap Scepter",
-          "nameRu": "Снежный Скипетр",
-          "abbreviation": "SScepter",
-          "tier": "Tier A+",
-          "subTier": "Mid",
-          "rankInTier": 12,
-          "value": 9370,
-          "lcValue": 40.16,
+          "id": "item_120",
+          "name": "Big Mama’s Outfit (Male)",
+          "nameRu": "Костюм Большой Мамочки (Мужской)",
+          "abbreviation": "BMFIT",
+          "tier": "Tier B+",
+          "subTier": "Low",
+          "rankInTier": 33,
+          "value": 121,
+          "lcValue": 0.52,
           "demand": "Medium",
           "trend": "Rising",
-          "category": "weapons",
-          "image": "images/item_42.png",
-          "wikiUrl": "https://grand-piece-online.fandom.com/wiki/Snowcap_Scepter",
-          "demandScore": 4.1,
-          "official_rank": 50,
-          "demand_count": 6,
-          "supply_count": 2,
+          "category": "outfits",
+          "image": "images/item_120.png",
+          "wikiUrl": "https://grand-piece-online.fandom.com/wiki/Big_Mama%27s_Outfit_(Male)",
+          "demandScore": 4.9,
+          "official_rank": 139,
+          "demand_count": 20,
+          "supply_count": 8,
           "pressure_ratio": 2.33,
           "predicted_change_pct": 5.3,
           "tier_pressure_alert": {
-            "en": "High chance of tier promotion (trading on par with Soul Cleaver)",
-            "ru": "Высокий шанс повышения (торгуется на уровне Тесак Душ (Наполеон))"
+            "en": "High chance of tier promotion (trading on par with Big Mama’s Cape)",
+            "ru": "Высокий шанс повышения (торгуется на уровне Плащ Большой Мамочки)"
           },
           "timeframes": {
             "1h": {
-              "demand_count": 6,
-              "supply_count": 2,
+              "demand_count": 20,
+              "supply_count": 8,
               "pressure_ratio": 2.33,
               "predicted_change_pct": 5.3,
               "trend": "Rising",
               "tier_pressure_alert": {
-                "en": "High chance of tier promotion (trading on par with Soul Cleaver)",
-                "ru": "Высокий шанс повышения (торгуется на уровне Тесак Душ (Наполеон))"
+                "en": "High chance of tier promotion (trading on par with Big Mama’s Cape)",
+                "ru": "Высокий шанс повышения (торгуется на уровне Плащ Большой Мамочки)"
               }
             },
             "24h": {
-              "demand_count": 13,
-              "supply_count": 5,
-              "pressure_ratio": 2.33,
-              "predicted_change_pct": 7.3,
+              "demand_count": 46,
+              "supply_count": 21,
+              "pressure_ratio": 2.14,
+              "predicted_change_pct": 6.3,
               "trend": "Rising",
               "tier_pressure_alert": {
-                "en": "High chance of tier promotion (trading on par with Soul Cleaver)",
-                "ru": "Высокий шанс повышения (торгуется на уровне Тесак Душ (Наполеон))"
+                "en": "High chance of tier promotion (trading on par with Big Mama’s Cape)",
+                "ru": "Высокий шанс повышения (торгуется на уровне Плащ Большой Мамочки)"
               }
             },
             "7d": {
-              "demand_count": 49,
-              "supply_count": 19,
-              "pressure_ratio": 2.5,
-              "predicted_change_pct": 10.5,
+              "demand_count": 135,
+              "supply_count": 53,
+              "pressure_ratio": 2.52,
+              "predicted_change_pct": 10.6,
               "trend": "Rising",
               "tier_pressure_alert": {
-                "en": "High chance of tier promotion (trading on par with Soul Cleaver)",
-                "ru": "Высокий шанс повышения (торгуется на уровне Тесак Душ (Наполеон))"
+                "en": "High chance of tier promotion (trading on par with Big Mama’s Cape)",
+                "ru": "Высокий шанс повышения (торгуется на уровне Плащ Большой Мамочки)"
               }
             }
           }
         }
       ],
       "top_falling": [
+        {
+          "id": "item_123",
+          "name": "Biscuit",
+          "nameRu": "Фрукт Печенья (Бису Бису)",
+          "abbreviation": "Biscuit",
+          "tier": "Tier B+",
+          "subTier": "Low",
+          "rankInTier": 37,
+          "value": 101,
+          "lcValue": 0.43,
+          "demand": "Low",
+          "trend": "Falling",
+          "category": "fruits",
+          "image": "images/item_123.png",
+          "wikiUrl": "https://grand-piece-online.fandom.com/wiki/Magu_Magu_no_Mi",
+          "demandScore": 3.2,
+          "official_rank": 143,
+          "demand_count": 2,
+          "supply_count": 87,
+          "pressure_ratio": 0.03,
+          "predicted_change_pct": -3.9,
+          "tier_pressure_alert": null,
+          "timeframes": {
+            "1h": {
+              "demand_count": 2,
+              "supply_count": 87,
+              "pressure_ratio": 0.03,
+              "predicted_change_pct": -3.9,
+              "trend": "Falling",
+              "tier_pressure_alert": null
+            },
+            "24h": {
+              "demand_count": 7,
+              "supply_count": 221,
+              "pressure_ratio": 0.04,
+              "predicted_change_pct": -5.3,
+              "trend": "Falling",
+              "tier_pressure_alert": null
+            },
+            "7d": {
+              "demand_count": 26,
+              "supply_count": 586,
+              "pressure_ratio": 0.05,
+              "predicted_change_pct": -6.6,
+              "trend": "Falling",
+              "tier_pressure_alert": null
+            }
+          }
+        },
         {
           "id": "item_204",
           "name": "Epic Banana",
@@ -2023,56 +2009,7 @@
             },
             "7d": {
               "demand_count": 0,
-              "supply_count": 23,
-              "pressure_ratio": 0.04,
-              "predicted_change_pct": -6.7,
-              "trend": "Falling",
-              "tier_pressure_alert": null
-            }
-          }
-        },
-        {
-          "id": "item_123",
-          "name": "Biscuit",
-          "nameRu": "Фрукт Печенья (Бису Бису)",
-          "abbreviation": "Biscuit",
-          "tier": "Tier B+",
-          "subTier": "Low",
-          "rankInTier": 37,
-          "value": 102,
-          "lcValue": 0.44,
-          "demand": "Low",
-          "trend": "Falling",
-          "category": "fruits",
-          "image": "images/item_123.png",
-          "wikiUrl": "https://grand-piece-online.fandom.com/wiki/Magu_Magu_no_Mi",
-          "demandScore": 3.3,
-          "official_rank": 143,
-          "demand_count": 2,
-          "supply_count": 87,
-          "pressure_ratio": 0.03,
-          "predicted_change_pct": -3.9,
-          "tier_pressure_alert": null,
-          "timeframes": {
-            "1h": {
-              "demand_count": 2,
-              "supply_count": 87,
-              "pressure_ratio": 0.03,
-              "predicted_change_pct": -3.9,
-              "trend": "Falling",
-              "tier_pressure_alert": null
-            },
-            "24h": {
-              "demand_count": 7,
-              "supply_count": 221,
-              "pressure_ratio": 0.04,
-              "predicted_change_pct": -5.3,
-              "trend": "Falling",
-              "tier_pressure_alert": null
-            },
-            "7d": {
-              "demand_count": 30,
-              "supply_count": 639,
+              "supply_count": 21,
               "pressure_ratio": 0.05,
               "predicted_change_pct": -6.6,
               "trend": "Falling",
@@ -2121,8 +2058,8 @@
             },
             "7d": {
               "demand_count": 0,
-              "supply_count": 18,
-              "pressure_ratio": 0.05,
+              "supply_count": 15,
+              "pressure_ratio": 0.06,
               "predicted_change_pct": -6.6,
               "trend": "Falling",
               "tier_pressure_alert": null
@@ -2130,47 +2067,47 @@
           }
         },
         {
-          "id": "item_88",
-          "name": "Supreme Giftbox Crown",
-          "nameRu": "Высшая Корона Подарка",
-          "abbreviation": "SGC",
-          "tier": "Tier A-",
-          "subTier": "Low",
-          "rankInTier": 24,
-          "value": 440,
-          "lcValue": 1.89,
-          "demand": "Very Low",
+          "id": "item_213",
+          "name": "Hoverboard",
+          "nameRu": "Ховерборд",
+          "abbreviation": "HB",
+          "tier": "Tier B+",
+          "subTier": "High",
+          "rankInTier": 14,
+          "value": 262,
+          "lcValue": 1.12,
+          "demand": "Low",
           "trend": "Falling",
-          "category": "accessories",
-          "image": "images/item_88.png",
-          "wikiUrl": "https://grand-piece-online.fandom.com/wiki/Devil_Fruits",
-          "demandScore": 0.0,
-          "official_rank": 105,
-          "demand_count": 0,
-          "supply_count": 2,
-          "pressure_ratio": 0.33,
-          "predicted_change_pct": -2.7,
+          "category": "boats",
+          "image": "images/item_213.png",
+          "wikiUrl": "https://grand-piece-online.fandom.com/wiki/Hoverboard",
+          "demandScore": 2.9,
+          "official_rank": 120,
+          "demand_count": 1,
+          "supply_count": 39,
+          "pressure_ratio": 0.05,
+          "predicted_change_pct": -3.8,
           "tier_pressure_alert": null,
           "timeframes": {
             "1h": {
-              "demand_count": 0,
-              "supply_count": 2,
-              "pressure_ratio": 0.33,
-              "predicted_change_pct": -2.7,
+              "demand_count": 1,
+              "supply_count": 39,
+              "pressure_ratio": 0.05,
+              "predicted_change_pct": -3.8,
               "trend": "Falling",
               "tier_pressure_alert": null
             },
             "24h": {
-              "demand_count": 0,
-              "supply_count": 3,
-              "pressure_ratio": 0.25,
-              "predicted_change_pct": -4.1,
+              "demand_count": 8,
+              "supply_count": 109,
+              "pressure_ratio": 0.08,
+              "predicted_change_pct": -5.1,
               "trend": "Falling",
               "tier_pressure_alert": null
             },
             "7d": {
-              "demand_count": 0,
-              "supply_count": 13,
+              "demand_count": 18,
+              "supply_count": 259,
               "pressure_ratio": 0.07,
               "predicted_change_pct": -6.5,
               "trend": "Falling",
@@ -2186,7 +2123,7 @@
           "tier": "Tier B+",
           "subTier": "Mid",
           "rankInTier": 25,
-          "value": 162,
+          "value": 161,
           "lcValue": 0.69,
           "demand": "Low",
           "trend": "Falling",
@@ -2218,8 +2155,8 @@
               "tier_pressure_alert": null
             },
             "7d": {
-              "demand_count": 14,
-              "supply_count": 213,
+              "demand_count": 13,
+              "supply_count": 188,
               "pressure_ratio": 0.07,
               "predicted_change_pct": -6.5,
               "trend": "Falling",
@@ -2228,47 +2165,47 @@
           }
         },
         {
-          "id": "item_213",
-          "name": "Hoverboard",
-          "nameRu": "Ховерборд",
-          "abbreviation": "HB",
-          "tier": "Tier B+",
+          "id": "item_55",
+          "name": "Time-Rift Capsule",
+          "nameRu": "Капсула Временного Разлома",
+          "abbreviation": "TRC",
+          "tier": "Tier A",
           "subTier": "High",
-          "rankInTier": 14,
-          "value": 263,
-          "lcValue": 1.13,
-          "demand": "Low",
+          "rankInTier": 11,
+          "value": 2855,
+          "lcValue": 12.24,
+          "demand": "Medium",
           "trend": "Falling",
-          "category": "boats",
-          "image": "images/item_213.png",
-          "wikiUrl": "https://grand-piece-online.fandom.com/wiki/Hoverboard",
-          "demandScore": 3.2,
-          "official_rank": 120,
-          "demand_count": 1,
-          "supply_count": 39,
-          "pressure_ratio": 0.05,
-          "predicted_change_pct": -3.8,
+          "category": "misc",
+          "image": "images/item_55.png",
+          "wikiUrl": "https://grand-piece-online.fandom.com/wiki/Time-Rift_Capsule",
+          "demandScore": 3.8,
+          "official_rank": 68,
+          "demand_count": 7,
+          "supply_count": 107,
+          "pressure_ratio": 0.07,
+          "predicted_change_pct": -3.7,
           "tier_pressure_alert": null,
           "timeframes": {
             "1h": {
-              "demand_count": 1,
-              "supply_count": 39,
-              "pressure_ratio": 0.05,
-              "predicted_change_pct": -3.8,
+              "demand_count": 7,
+              "supply_count": 107,
+              "pressure_ratio": 0.07,
+              "predicted_change_pct": -3.7,
               "trend": "Falling",
               "tier_pressure_alert": null
             },
             "24h": {
-              "demand_count": 8,
-              "supply_count": 109,
-              "pressure_ratio": 0.08,
+              "demand_count": 16,
+              "supply_count": 255,
+              "pressure_ratio": 0.07,
               "predicted_change_pct": -5.1,
               "trend": "Falling",
               "tier_pressure_alert": null
             },
             "7d": {
-              "demand_count": 27,
-              "supply_count": 301,
+              "demand_count": 54,
+              "supply_count": 609,
               "pressure_ratio": 0.09,
               "predicted_change_pct": -6.4,
               "trend": "Falling",
@@ -2287,7 +2224,7 @@
           "pressure_type": "UP",
           "target_neighbor": "Soul Cleaver",
           "target_neighbor_ru": "Тесак Душ (Наполеон)",
-          "pressure_ratio": 2.5,
+          "pressure_ratio": 2.33,
           "alert": {
             "en": "High chance of tier promotion (trading on par with Soul Cleaver)",
             "ru": "Высокий шанс повышения (торгуется на уровне Тесак Душ (Наполеон))"
@@ -2302,7 +2239,7 @@
           "pressure_type": "UP",
           "target_neighbor": "Cupid Queen’s Outfit",
           "target_neighbor_ru": "Наряд Королевы Купидонов (QFIT)",
-          "pressure_ratio": 5.33,
+          "pressure_ratio": 4.33,
           "alert": {
             "en": "High chance of tier promotion (trading on par with Cupid Queen’s Outfit)",
             "ru": "Высокий шанс повышения (торгуется на уровне Наряд Королевы Купидонов (QFIT))"
@@ -2317,7 +2254,7 @@
           "pressure_type": "UP",
           "target_neighbor": "Elo’s Sledgehammer",
           "target_neighbor_ru": "Кувалда Эло",
-          "pressure_ratio": 1.33,
+          "pressure_ratio": 1.31,
           "alert": {
             "en": "High chance of tier promotion (trading on par with Elo’s Sledgehammer)",
             "ru": "Высокий шанс повышения (торгуется на уровне Кувалда Эло)"
@@ -2332,25 +2269,10 @@
           "pressure_type": "UP",
           "target_neighbor": "Pika",
           "target_neighbor_ru": "Фрукт Света (Пика Пика)",
-          "pressure_ratio": 1.36,
+          "pressure_ratio": 1.37,
           "alert": {
             "en": "High chance of tier promotion (trading on par with Pika)",
             "ru": "Высокий шанс повышения (торгуется на уровне Фрукт Света (Пика Пика))"
-          }
-        },
-        {
-          "id": "item_104",
-          "name": "Dragon Emperor’s Cape",
-          "nameRu": "Плащ Императора Драконов",
-          "image": "images/item_104.png",
-          "current_rank": 124,
-          "pressure_type": "UP",
-          "target_neighbor": "Cupid’s Chakram",
-          "target_neighbor_ru": "Чакрам Купидона",
-          "pressure_ratio": 2.56,
-          "alert": {
-            "en": "High chance of tier promotion (trading on par with Cupid’s Chakram)",
-            "ru": "Высокий шанс повышения (торгуется на уровне Чакрам Купидона)"
           }
         },
         {
@@ -2362,7 +2284,7 @@
           "pressure_type": "UP",
           "target_neighbor": "Mochi Trident",
           "target_neighbor_ru": "Трезубец Моти",
-          "pressure_ratio": 3.17,
+          "pressure_ratio": 3.16,
           "alert": {
             "en": "High chance of tier promotion (trading on par with Mochi Trident)",
             "ru": "Высокий шанс повышения (торгуется на уровне Трезубец Моти)"
@@ -2392,10 +2314,25 @@
           "pressure_type": "UP",
           "target_neighbor": "Big Mama’s Cape",
           "target_neighbor_ru": "Плащ Большой Мамочки",
-          "pressure_ratio": 2.38,
+          "pressure_ratio": 2.52,
           "alert": {
             "en": "High chance of tier promotion (trading on par with Big Mama’s Cape)",
             "ru": "Высокий шанс повышения (торгуется на уровне Плащ Большой Мамочки)"
+          }
+        },
+        {
+          "id": "item_150",
+          "name": "Hawkeye's Hat",
+          "nameRu": "Шляпа Соколиного Глаза (Михоук)",
+          "image": "images/item_150.png",
+          "current_rank": 169,
+          "pressure_type": "UP",
+          "target_neighbor": "Iceborn Katana",
+          "target_neighbor_ru": "Ледяная Катана (IBK)",
+          "pressure_ratio": 1.38,
+          "alert": {
+            "en": "High chance of tier promotion (trading on par with Iceborn Katana)",
+            "ru": "Высокий шанс повышения (торгуется на уровне Ледяная Катана (IBK))"
           }
         },
         {
@@ -2407,7 +2344,7 @@
           "pressure_type": "UP",
           "target_neighbor": "Moria’s Necklace",
           "target_neighbor_ru": "Ожерелье Мории",
-          "pressure_ratio": 7.33,
+          "pressure_ratio": 22.0,
           "alert": {
             "en": "High chance of tier promotion (trading on par with Moria’s Necklace)",
             "ru": "Высокий шанс повышения (торгуется на уровне Ожерелье Мории)"
@@ -2424,14 +2361,14 @@
         "tier": "Tier A+",
         "subTier": "Mid",
         "rankInTier": 13,
-        "value": 8632,
-        "lcValue": 36.99,
+        "value": 8597,
+        "lcValue": 36.84,
         "demand": "Medium",
         "trend": "Rising",
         "category": "accessories",
         "image": "images/item_43.png",
         "wikiUrl": "https://grand-piece-online.fandom.com/wiki/Blessed_Cupid_Queen%27s_Scarf",
-        "demandScore": 4.1,
+        "demandScore": 4.0,
         "official_rank": 51,
         "demand_count": 9,
         "supply_count": 2,
@@ -2456,10 +2393,10 @@
             "tier_pressure_alert": null
           },
           "7d": {
-            "demand_count": 61,
-            "supply_count": 39,
-            "pressure_ratio": 1.55,
-            "predicted_change_pct": 3.9,
+            "demand_count": 56,
+            "supply_count": 36,
+            "pressure_ratio": 1.54,
+            "predicted_change_pct": 3.8,
             "trend": "Rising",
             "tier_pressure_alert": null
           }
@@ -2480,16 +2417,13 @@
         "category": "accessories",
         "image": "images/item_104.png",
         "wikiUrl": "https://grand-piece-online.fandom.com/wiki/Dragon_Emperor%27s_Cape",
-        "demandScore": 5.3,
+        "demandScore": 5.2,
         "official_rank": 124,
         "demand_count": 31,
         "supply_count": 9,
         "pressure_ratio": 3.2,
         "predicted_change_pct": 8.8,
-        "tier_pressure_alert": {
-          "en": "High chance of tier promotion (trading on par with Cupid’s Chakram)",
-          "ru": "Высокий шанс повышения (торгуется на уровне Чакрам Купидона)"
-        },
+        "tier_pressure_alert": null,
         "timeframes": {
           "1h": {
             "demand_count": 31,
@@ -2497,10 +2431,7 @@
             "pressure_ratio": 3.2,
             "predicted_change_pct": 8.8,
             "trend": "Rising",
-            "tier_pressure_alert": {
-              "en": "High chance of tier promotion (trading on par with Cupid’s Chakram)",
-              "ru": "Высокий шанс повышения (торгуется на уровне Чакрам Купидона)"
-            }
+            "tier_pressure_alert": null
           },
           "24h": {
             "demand_count": 80,
@@ -2508,21 +2439,15 @@
             "pressure_ratio": 2.79,
             "predicted_change_pct": 9.8,
             "trend": "Rising",
-            "tier_pressure_alert": {
-              "en": "High chance of tier promotion (trading on par with Cupid’s Chakram)",
-              "ru": "Высокий шанс повышения (торгуется на уровне Чакрам Купидона)"
-            }
+            "tier_pressure_alert": null
           },
           "7d": {
-            "demand_count": 224,
-            "supply_count": 87,
-            "pressure_ratio": 2.56,
-            "predicted_change_pct": 10.9,
+            "demand_count": 207,
+            "supply_count": 79,
+            "pressure_ratio": 2.6,
+            "predicted_change_pct": 11.2,
             "trend": "Rising",
-            "tier_pressure_alert": {
-              "en": "High chance of tier promotion (trading on par with Cupid’s Chakram)",
-              "ru": "Высокий шанс повышения (торгуется на уровне Чакрам Купидона)"
-            }
+            "tier_pressure_alert": null
           }
         }
       },
@@ -2534,8 +2459,8 @@
         "tier": "Tier SS",
         "subTier": "High",
         "rankInTier": 1,
-        "value": 720440,
-        "lcValue": 3087.64,
+        "value": 717558,
+        "lcValue": 3075.29,
         "demand": "Low",
         "trend": "Rising",
         "category": "accessories",
@@ -2590,7 +2515,7 @@
         "category": "accessories",
         "image": "images/item_153.png",
         "wikiUrl": "https://grand-piece-online.fandom.com/wiki/Megalodon_Helmet",
-        "demandScore": 3.7,
+        "demandScore": 4.0,
         "official_rank": 173,
         "demand_count": 2,
         "supply_count": 0,
@@ -2625,8 +2550,8 @@
           },
           "7d": {
             "demand_count": 21,
-            "supply_count": 2,
-            "pressure_ratio": 7.33,
+            "supply_count": 0,
+            "pressure_ratio": 22.0,
             "predicted_change_pct": 12.0,
             "trend": "Rising",
             "tier_pressure_alert": {
@@ -2682,8 +2607,8 @@
             "tier_pressure_alert": null
           },
           "7d": {
-            "demand_count": 169,
-            "supply_count": 185,
+            "demand_count": 155,
+            "supply_count": 171,
             "pressure_ratio": 0.91,
             "predicted_change_pct": -0.6,
             "trend": "Stable",
@@ -2699,14 +2624,14 @@
         "tier": "Tier B+",
         "subTier": "Mid",
         "rankInTier": 27,
-        "value": 152,
+        "value": 151,
         "lcValue": 0.65,
         "demand": "Medium",
         "trend": "Rising",
         "category": "accessories",
         "image": "images/item_114.png",
         "wikiUrl": "https://grand-piece-online.fandom.com/wiki/Jester's_Hat",
-        "demandScore": 5.0,
+        "demandScore": 4.9,
         "official_rank": 133,
         "demand_count": 16,
         "supply_count": 6,
@@ -2740,9 +2665,9 @@
             }
           },
           "7d": {
-            "demand_count": 151,
-            "supply_count": 47,
-            "pressure_ratio": 3.17,
+            "demand_count": 141,
+            "supply_count": 44,
+            "pressure_ratio": 3.16,
             "predicted_change_pct": 12.0,
             "trend": "Rising",
             "tier_pressure_alert": {
@@ -2762,14 +2687,14 @@
         "tier": "Tier B+",
         "subTier": "Low",
         "rankInTier": 37,
-        "value": 102,
-        "lcValue": 0.44,
+        "value": 101,
+        "lcValue": 0.43,
         "demand": "Low",
         "trend": "Falling",
         "category": "fruits",
         "image": "images/item_123.png",
         "wikiUrl": "https://grand-piece-online.fandom.com/wiki/Magu_Magu_no_Mi",
-        "demandScore": 3.3,
+        "demandScore": 3.2,
         "official_rank": 143,
         "demand_count": 2,
         "supply_count": 87,
@@ -2794,8 +2719,8 @@
             "tier_pressure_alert": null
           },
           "7d": {
-            "demand_count": 30,
-            "supply_count": 639,
+            "demand_count": 26,
+            "supply_count": 586,
             "pressure_ratio": 0.05,
             "predicted_change_pct": -6.6,
             "trend": "Falling",
@@ -2811,14 +2736,14 @@
         "tier": "Tier B+",
         "subTier": "High",
         "rankInTier": 14,
-        "value": 263,
-        "lcValue": 1.13,
+        "value": 262,
+        "lcValue": 1.12,
         "demand": "Low",
         "trend": "Falling",
         "category": "boats",
         "image": "images/item_213.png",
         "wikiUrl": "https://grand-piece-online.fandom.com/wiki/Hoverboard",
-        "demandScore": 3.2,
+        "demandScore": 2.9,
         "official_rank": 120,
         "demand_count": 1,
         "supply_count": 39,
@@ -2843,10 +2768,10 @@
             "tier_pressure_alert": null
           },
           "7d": {
-            "demand_count": 27,
-            "supply_count": 301,
-            "pressure_ratio": 0.09,
-            "predicted_change_pct": -6.4,
+            "demand_count": 18,
+            "supply_count": 259,
+            "pressure_ratio": 0.07,
+            "predicted_change_pct": -6.5,
             "trend": "Falling",
             "tier_pressure_alert": null
           }
@@ -2860,14 +2785,14 @@
         "tier": "Tier A",
         "subTier": "High",
         "rankInTier": 11,
-        "value": 2844,
-        "lcValue": 12.19,
+        "value": 2855,
+        "lcValue": 12.24,
         "demand": "Medium",
         "trend": "Falling",
         "category": "misc",
         "image": "images/item_55.png",
         "wikiUrl": "https://grand-piece-online.fandom.com/wiki/Time-Rift_Capsule",
-        "demandScore": 3.9,
+        "demandScore": 3.8,
         "official_rank": 68,
         "demand_count": 7,
         "supply_count": 107,
@@ -2892,10 +2817,10 @@
             "tier_pressure_alert": null
           },
           "7d": {
-            "demand_count": 61,
-            "supply_count": 649,
-            "pressure_ratio": 0.1,
-            "predicted_change_pct": -6.3,
+            "demand_count": 54,
+            "supply_count": 609,
+            "pressure_ratio": 0.09,
+            "predicted_change_pct": -6.4,
             "trend": "Falling",
             "tier_pressure_alert": null
           }
@@ -2909,7 +2834,7 @@
         "tier": "Tier B+",
         "subTier": "High",
         "rankInTier": 20,
-        "value": 210,
+        "value": 211,
         "lcValue": 0.9,
         "demand": "Medium",
         "trend": "Falling",
@@ -2941,8 +2866,8 @@
             "tier_pressure_alert": null
           },
           "7d": {
-            "demand_count": 153,
-            "supply_count": 1597,
+            "demand_count": 144,
+            "supply_count": 1437,
             "pressure_ratio": 0.1,
             "predicted_change_pct": -6.3,
             "trend": "Falling",
@@ -2958,7 +2883,7 @@
         "tier": "Tier B+",
         "subTier": "Mid",
         "rankInTier": 25,
-        "value": 162,
+        "value": 161,
         "lcValue": 0.69,
         "demand": "Low",
         "trend": "Falling",
@@ -2990,8 +2915,8 @@
             "tier_pressure_alert": null
           },
           "7d": {
-            "demand_count": 14,
-            "supply_count": 213,
+            "demand_count": 13,
+            "supply_count": 188,
             "pressure_ratio": 0.07,
             "predicted_change_pct": -6.5,
             "trend": "Falling",
@@ -3014,7 +2939,7 @@
         "category": "fruits",
         "image": "images/item_155.png",
         "wikiUrl": "https://grand-piece-online.fandom.com/wiki/Moku_Moku_no_Mi",
-        "demandScore": 3.2,
+        "demandScore": 3.0,
         "official_rank": 174,
         "demand_count": 2,
         "supply_count": 42,
@@ -3039,10 +2964,10 @@
             "tier_pressure_alert": null
           },
           "7d": {
-            "demand_count": 26,
-            "supply_count": 203,
-            "pressure_ratio": 0.13,
-            "predicted_change_pct": -6.1,
+            "demand_count": 22,
+            "supply_count": 188,
+            "pressure_ratio": 0.12,
+            "predicted_change_pct": -6.2,
             "trend": "Falling",
             "tier_pressure_alert": null
           }
@@ -3108,21 +3033,6 @@
         "alert": {
           "en": "High chance of tier promotion (trading on par with Firework Daggers)",
           "ru": "Высокий шанс повышения (торгуется на уровне Кинжалы Фейерверков)"
-        }
-      },
-      {
-        "id": "item_104",
-        "name": "Dragon Emperor’s Cape",
-        "nameRu": "Плащ Императора Драконов",
-        "image": "images/item_104.png",
-        "current_rank": 124,
-        "pressure_type": "UP",
-        "target_neighbor": "Cupid’s Chakram",
-        "target_neighbor_ru": "Чакрам Купидона",
-        "pressure_ratio": 3.2,
-        "alert": {
-          "en": "High chance of tier promotion (trading on par with Cupid’s Chakram)",
-          "ru": "Высокий шанс повышения (торгуется на уровне Чакрам Купидона)"
         }
       },
       {
@@ -3241,14 +3151,14 @@
       "tier": "Exclusive",
       "subTier": "Standard",
       "rankInTier": 1,
-      "value": 2504940,
-      "lcValue": 10735.61,
+      "value": 2494920,
+      "lcValue": 10692.67,
       "demand": "Medium",
       "trend": "Stable",
       "category": "accessories",
       "image": "images/item_1.png",
       "wikiUrl": "https://grand-piece-online.fandom.com/wiki/Cool_Shades",
-      "demandScore": 4.0,
+      "demandScore": 3.9,
       "official_rank": 1,
       "demand_count": 8,
       "supply_count": 9,
@@ -3273,10 +3183,10 @@
           "tier_pressure_alert": null
         },
         "7d": {
-          "demand_count": 61,
-          "supply_count": 49,
-          "pressure_ratio": 1.24,
-          "predicted_change_pct": 1.7,
+          "demand_count": 53,
+          "supply_count": 45,
+          "pressure_ratio": 1.17,
+          "predicted_change_pct": 1.2,
           "trend": "Stable",
           "tier_pressure_alert": null
         }
@@ -3339,14 +3249,14 @@
       "tier": "Exclusive",
       "subTier": "Standard",
       "rankInTier": 3,
-      "value": 1508940,
-      "lcValue": 6466.98,
+      "value": 1502904,
+      "lcValue": 6441.11,
       "demand": "Low",
       "trend": "Rising",
       "category": "accessories",
       "image": "images/item_3.png",
       "wikiUrl": "https://grand-piece-online.fandom.com/wiki/Marine_Cap",
-      "demandScore": 2.7,
+      "demandScore": 2.5,
       "official_rank": 3,
       "demand_count": 2,
       "supply_count": 1,
@@ -3371,11 +3281,11 @@
           "tier_pressure_alert": null
         },
         "7d": {
-          "demand_count": 14,
+          "demand_count": 11,
           "supply_count": 15,
-          "pressure_ratio": 0.94,
-          "predicted_change_pct": -0.4,
-          "trend": "Stable",
+          "pressure_ratio": 0.75,
+          "predicted_change_pct": -1.8,
+          "trend": "Falling",
           "tier_pressure_alert": null
         }
       }
@@ -3388,8 +3298,8 @@
       "tier": "Tier SS",
       "subTier": "High",
       "rankInTier": 1,
-      "value": 720440,
-      "lcValue": 3087.64,
+      "value": 717558,
+      "lcValue": 3075.29,
       "demand": "Low",
       "trend": "Rising",
       "category": "accessories",
@@ -3486,14 +3396,14 @@
       "tier": "Tier SS",
       "subTier": "High",
       "rankInTier": 3,
-      "value": 571040,
-      "lcValue": 2447.35,
+      "value": 568756,
+      "lcValue": 2437.56,
       "demand": "Medium",
       "trend": "Falling",
       "category": "weapons",
       "image": "images/item_6.png",
       "wikiUrl": "https://grand-piece-online.fandom.com/wiki/Prestige_Candy_Cane",
-      "demandScore": 4.2,
+      "demandScore": 4.1,
       "official_rank": 6,
       "demand_count": 8,
       "supply_count": 20,
@@ -3518,10 +3428,10 @@
           "tier_pressure_alert": null
         },
         "7d": {
-          "demand_count": 86,
-          "supply_count": 150,
-          "pressure_ratio": 0.58,
-          "predicted_change_pct": -2.9,
+          "demand_count": 81,
+          "supply_count": 136,
+          "pressure_ratio": 0.6,
+          "predicted_change_pct": -2.8,
           "trend": "Falling",
           "tier_pressure_alert": null
         }
@@ -3535,14 +3445,14 @@
       "tier": "Tier SS",
       "subTier": "Mid",
       "rankInTier": 4,
-      "value": 388440,
-      "lcValue": 1664.77,
+      "value": 386886,
+      "lcValue": 1658.11,
       "demand": "Medium",
       "trend": "Rising",
       "category": "weapons",
       "image": "images/item_8.png",
       "wikiUrl": "https://grand-piece-online.fandom.com/wiki/Prestige_World_Ender",
-      "demandScore": 4.8,
+      "demandScore": 4.7,
       "official_rank": 7,
       "demand_count": 24,
       "supply_count": 15,
@@ -3567,10 +3477,10 @@
           "tier_pressure_alert": null
         },
         "7d": {
-          "demand_count": 158,
-          "supply_count": 133,
-          "pressure_ratio": 1.19,
-          "predicted_change_pct": 1.3,
+          "demand_count": 145,
+          "supply_count": 124,
+          "pressure_ratio": 1.17,
+          "predicted_change_pct": 1.2,
           "trend": "Stable",
           "tier_pressure_alert": null
         }
@@ -3584,8 +3494,8 @@
       "tier": "Tier SS",
       "subTier": "Mid",
       "rankInTier": 5,
-      "value": 341360,
-      "lcValue": 1462.99,
+      "value": 342725,
+      "lcValue": 1468.84,
       "demand": "Medium",
       "trend": "Falling",
       "category": "outfits",
@@ -3616,10 +3526,10 @@
           "tier_pressure_alert": null
         },
         "7d": {
-          "demand_count": 40,
-          "supply_count": 71,
-          "pressure_ratio": 0.57,
-          "predicted_change_pct": -3.0,
+          "demand_count": 36,
+          "supply_count": 66,
+          "pressure_ratio": 0.55,
+          "predicted_change_pct": -3.1,
           "trend": "Falling",
           "tier_pressure_alert": null
         }
@@ -3633,8 +3543,8 @@
       "tier": "Tier SS",
       "subTier": "Mid",
       "rankInTier": 6,
-      "value": 288840,
-      "lcValue": 1237.9,
+      "value": 287685,
+      "lcValue": 1232.95,
       "demand": "Medium",
       "trend": "Stable",
       "category": "weapons",
@@ -3665,10 +3575,10 @@
           "tier_pressure_alert": null
         },
         "7d": {
-          "demand_count": 171,
-          "supply_count": 173,
-          "pressure_ratio": 0.99,
-          "predicted_change_pct": -0.1,
+          "demand_count": 152,
+          "supply_count": 158,
+          "pressure_ratio": 0.96,
+          "predicted_change_pct": -0.3,
           "trend": "Stable",
           "tier_pressure_alert": null
         }
@@ -3682,14 +3592,14 @@
       "tier": "Tier SS",
       "subTier": "Mid",
       "rankInTier": 7,
-      "value": 239040,
-      "lcValue": 1024.47,
+      "value": 238084,
+      "lcValue": 1020.37,
       "demand": "Medium",
       "trend": "Falling",
       "category": "weapons",
       "image": "images/item_10.png",
       "wikiUrl": "https://grand-piece-online.fandom.com/wiki/Prestige_Inferno_Rocket_Blade",
-      "demandScore": 4.1,
+      "demandScore": 4.0,
       "official_rank": 10,
       "demand_count": 11,
       "supply_count": 15,
@@ -3714,10 +3624,10 @@
           "tier_pressure_alert": null
         },
         "7d": {
-          "demand_count": 75,
-          "supply_count": 90,
-          "pressure_ratio": 0.84,
-          "predicted_change_pct": -1.1,
+          "demand_count": 68,
+          "supply_count": 78,
+          "pressure_ratio": 0.87,
+          "predicted_change_pct": -0.9,
           "trend": "Stable",
           "tier_pressure_alert": null
         }
@@ -3731,14 +3641,14 @@
       "tier": "Tier S",
       "subTier": "High",
       "rankInTier": 1,
-      "value": 148926,
-      "lcValue": 638.26,
+      "value": 149522,
+      "lcValue": 640.82,
       "demand": "High",
       "trend": "Stable",
       "category": "weapons",
       "image": "images/item_11.png",
       "wikiUrl": "https://grand-piece-online.fandom.com/wiki/Iceborn_Candy_Cane",
-      "demandScore": 5.6,
+      "demandScore": 5.5,
       "official_rank": 11,
       "demand_count": 64,
       "supply_count": 68,
@@ -3763,10 +3673,10 @@
           "tier_pressure_alert": null
         },
         "7d": {
-          "demand_count": 487,
-          "supply_count": 560,
-          "pressure_ratio": 0.87,
-          "predicted_change_pct": -0.9,
+          "demand_count": 430,
+          "supply_count": 498,
+          "pressure_ratio": 0.86,
+          "predicted_change_pct": -1.0,
           "trend": "Stable",
           "tier_pressure_alert": null
         }
@@ -3780,8 +3690,8 @@
       "tier": "Tier S",
       "subTier": "High",
       "rankInTier": 2,
-      "value": 137214,
-      "lcValue": 588.07,
+      "value": 137713,
+      "lcValue": 590.21,
       "demand": "Low",
       "trend": "Falling",
       "category": "weapons",
@@ -3813,9 +3723,9 @@
         },
         "7d": {
           "demand_count": 28,
-          "supply_count": 74,
-          "pressure_ratio": 0.39,
-          "predicted_change_pct": -4.3,
+          "supply_count": 68,
+          "pressure_ratio": 0.42,
+          "predicted_change_pct": -4.1,
           "trend": "Falling",
           "tier_pressure_alert": null
         }
@@ -3829,14 +3739,14 @@
       "tier": "Very Unstable",
       "subTier": "Standard",
       "rankInTier": 1,
-      "value": 125000,
-      "lcValue": 535.72,
+      "value": 124500,
+      "lcValue": 533.58,
       "demand": "Low",
       "trend": "Stable",
       "category": "accessories",
       "image": "images/item_195.png",
       "wikiUrl": "https://grand-piece-online.fandom.com/wiki/Dominus_Empyreus",
-      "demandScore": 2.7,
+      "demandScore": 2.5,
       "official_rank": 13,
       "demand_count": 3,
       "supply_count": 4,
@@ -3861,11 +3771,11 @@
           "tier_pressure_alert": null
         },
         "7d": {
-          "demand_count": 13,
-          "supply_count": 16,
-          "pressure_ratio": 0.82,
-          "predicted_change_pct": -1.3,
-          "trend": "Stable",
+          "demand_count": 11,
+          "supply_count": 15,
+          "pressure_ratio": 0.75,
+          "predicted_change_pct": -1.8,
+          "trend": "Falling",
           "tier_pressure_alert": null
         }
       }
@@ -3878,14 +3788,14 @@
       "tier": "Tier S",
       "subTier": "High",
       "rankInTier": 3,
-      "value": 124000,
-      "lcValue": 531.44,
-      "demand": "High",
+      "value": 123500,
+      "lcValue": 529.29,
+      "demand": "Medium",
       "trend": "Falling",
       "category": "misc",
       "image": "images/item_13.png",
       "wikiUrl": "https://grand-piece-online.fandom.com/wiki/Prestige_Fruit_Bag",
-      "demandScore": 5.5,
+      "demandScore": 5.4,
       "official_rank": 14,
       "demand_count": 55,
       "supply_count": 83,
@@ -3910,10 +3820,10 @@
           "tier_pressure_alert": null
         },
         "7d": {
-          "demand_count": 449,
-          "supply_count": 747,
-          "pressure_ratio": 0.6,
-          "predicted_change_pct": -2.8,
+          "demand_count": 397,
+          "supply_count": 671,
+          "pressure_ratio": 0.59,
+          "predicted_change_pct": -2.9,
           "trend": "Falling",
           "tier_pressure_alert": null
         }
@@ -3927,14 +3837,14 @@
       "tier": "Very Unstable",
       "subTier": "Standard",
       "rankInTier": 2,
-      "value": 113073,
-      "lcValue": 484.61,
+      "value": 112621,
+      "lcValue": 482.67,
       "demand": "Low",
       "trend": "Stable",
       "category": "accessories",
       "image": "images/item_196.png",
       "wikiUrl": "https://grand-piece-online.fandom.com/wiki/Crews",
-      "demandScore": 2.4,
+      "demandScore": 2.3,
       "official_rank": 15,
       "demand_count": 1,
       "supply_count": 1,
@@ -3959,10 +3869,10 @@
           "tier_pressure_alert": null
         },
         "7d": {
-          "demand_count": 10,
-          "supply_count": 23,
-          "pressure_ratio": 0.46,
-          "predicted_change_pct": -3.8,
+          "demand_count": 9,
+          "supply_count": 18,
+          "pressure_ratio": 0.53,
+          "predicted_change_pct": -3.3,
           "trend": "Falling",
           "tier_pressure_alert": null
         }
@@ -3976,14 +3886,14 @@
       "tier": "Tier S",
       "subTier": "High",
       "rankInTier": 4,
-      "value": 112073,
-      "lcValue": 480.32,
+      "value": 111621,
+      "lcValue": 478.38,
       "demand": "Medium",
       "trend": "Falling",
       "category": "misc",
       "image": "images/item_14.png",
       "wikiUrl": "https://grand-piece-online.fandom.com/wiki/Chromatic_All_Seeing_Eye",
-      "demandScore": 5.0,
+      "demandScore": 4.9,
       "official_rank": 16,
       "demand_count": 23,
       "supply_count": 52,
@@ -4008,10 +3918,10 @@
           "tier_pressure_alert": null
         },
         "7d": {
-          "demand_count": 243,
-          "supply_count": 392,
-          "pressure_ratio": 0.62,
-          "predicted_change_pct": -2.7,
+          "demand_count": 206,
+          "supply_count": 353,
+          "pressure_ratio": 0.58,
+          "predicted_change_pct": -2.9,
           "trend": "Falling",
           "tier_pressure_alert": null
         }
@@ -4074,14 +3984,14 @@
       "tier": "Tier S",
       "subTier": "High",
       "rankInTier": 5,
-      "value": 100667,
-      "lcValue": 431.44,
+      "value": 100264,
+      "lcValue": 429.71,
       "demand": "High",
       "trend": "Stable",
       "category": "weapons",
       "image": "images/item_16.png",
       "wikiUrl": "https://grand-piece-online.fandom.com/wiki/Santa%27s_Candy_Cane",
-      "demandScore": 6.2,
+      "demandScore": 6.1,
       "official_rank": 18,
       "demand_count": 170,
       "supply_count": 163,
@@ -4106,9 +4016,9 @@
           "tier_pressure_alert": null
         },
         "7d": {
-          "demand_count": 1054,
-          "supply_count": 1145,
-          "pressure_ratio": 0.92,
+          "demand_count": 925,
+          "supply_count": 1015,
+          "pressure_ratio": 0.91,
           "predicted_change_pct": -0.6,
           "trend": "Stable",
           "tier_pressure_alert": null
@@ -4221,8 +4131,8 @@
       "tier": "Tier S",
       "subTier": "High",
       "rankInTier": 6,
-      "value": 75300,
-      "lcValue": 322.72,
+      "value": 75601,
+      "lcValue": 324.01,
       "demand": "Medium",
       "trend": "Falling",
       "category": "weapons",
@@ -4253,10 +4163,10 @@
           "tier_pressure_alert": null
         },
         "7d": {
-          "demand_count": 57,
-          "supply_count": 264,
-          "pressure_ratio": 0.22,
-          "predicted_change_pct": -5.5,
+          "demand_count": 55,
+          "supply_count": 240,
+          "pressure_ratio": 0.23,
+          "predicted_change_pct": -5.4,
           "trend": "Falling",
           "tier_pressure_alert": null
         }
@@ -4319,8 +4229,8 @@
       "tier": "Tier S",
       "subTier": "Mid",
       "rankInTier": 7,
-      "value": 62750,
-      "lcValue": 268.93,
+      "value": 63001,
+      "lcValue": 270.01,
       "demand": "High",
       "trend": "Stable",
       "category": "accessories",
@@ -4351,10 +4261,10 @@
           "tier_pressure_alert": null
         },
         "7d": {
-          "demand_count": 895,
-          "supply_count": 822,
-          "pressure_ratio": 1.09,
-          "predicted_change_pct": 0.6,
+          "demand_count": 806,
+          "supply_count": 728,
+          "pressure_ratio": 1.11,
+          "predicted_change_pct": 0.8,
           "trend": "Stable",
           "tier_pressure_alert": null
         }
@@ -4368,14 +4278,14 @@
       "tier": "Tier S",
       "subTier": "Mid",
       "rankInTier": 8,
-      "value": 58566,
-      "lcValue": 251.0,
-      "demand": "High",
+      "value": 58800,
+      "lcValue": 252.0,
+      "demand": "Medium",
       "trend": "Falling",
       "category": "misc",
       "image": "images/item_18.png",
       "wikiUrl": "https://grand-piece-online.fandom.com/wiki/All_Seeing_Shamrock",
-      "demandScore": 5.5,
+      "demandScore": 5.4,
       "official_rank": 24,
       "demand_count": 68,
       "supply_count": 122,
@@ -4400,8 +4310,8 @@
           "tier_pressure_alert": null
         },
         "7d": {
-          "demand_count": 429,
-          "supply_count": 869,
+          "demand_count": 382,
+          "supply_count": 782,
           "pressure_ratio": 0.49,
           "predicted_change_pct": -3.6,
           "trend": "Falling",
@@ -4417,14 +4327,14 @@
       "tier": "Very Unstable",
       "subTier": "Standard",
       "rankInTier": 7,
-      "value": 54780,
-      "lcValue": 234.77,
+      "value": 54581,
+      "lcValue": 233.92,
       "demand": "Medium",
       "trend": "Falling",
       "category": "accessories",
       "image": "images/item_201.png",
       "wikiUrl": "https://grand-piece-online.fandom.com/wiki/Crews",
-      "demandScore": 4.0,
+      "demandScore": 3.9,
       "official_rank": 25,
       "demand_count": 6,
       "supply_count": 12,
@@ -4449,10 +4359,10 @@
           "tier_pressure_alert": null
         },
         "7d": {
-          "demand_count": 66,
-          "supply_count": 65,
-          "pressure_ratio": 1.02,
-          "predicted_change_pct": 0.1,
+          "demand_count": 58,
+          "supply_count": 59,
+          "pressure_ratio": 0.98,
+          "predicted_change_pct": -0.1,
           "trend": "Stable",
           "tier_pressure_alert": null
         }
@@ -4466,8 +4376,8 @@
       "tier": "Tier S",
       "subTier": "Mid",
       "rankInTier": 9,
-      "value": 54384,
-      "lcValue": 233.08,
+      "value": 54417,
+      "lcValue": 233.22,
       "demand": "Low",
       "trend": "Falling",
       "category": "accessories",
@@ -4498,10 +4408,10 @@
           "tier_pressure_alert": null
         },
         "7d": {
-          "demand_count": 21,
-          "supply_count": 131,
-          "pressure_ratio": 0.17,
-          "predicted_change_pct": -5.8,
+          "demand_count": 20,
+          "supply_count": 106,
+          "pressure_ratio": 0.2,
+          "predicted_change_pct": -5.6,
           "trend": "Falling",
           "tier_pressure_alert": null
         }
@@ -4515,14 +4425,14 @@
       "tier": "Tier S",
       "subTier": "Mid",
       "rankInTier": 10,
-      "value": 50200,
-      "lcValue": 215.15,
+      "value": 50401,
+      "lcValue": 216.01,
       "demand": "Low",
       "trend": "Falling",
       "category": "weapons",
       "image": "images/item_20.png",
       "wikiUrl": "https://grand-piece-online.fandom.com/wiki/Jester's_Outfit",
-      "demandScore": 3.1,
+      "demandScore": 3.0,
       "official_rank": 27,
       "demand_count": 3,
       "supply_count": 15,
@@ -4547,8 +4457,8 @@
           "tier_pressure_alert": null
         },
         "7d": {
-          "demand_count": 24,
-          "supply_count": 88,
+          "demand_count": 21,
+          "supply_count": 77,
           "pressure_ratio": 0.28,
           "predicted_change_pct": -5.0,
           "trend": "Falling",
@@ -4564,14 +4474,14 @@
       "tier": "Tier S",
       "subTier": "Mid",
       "rankInTier": 11,
-      "value": 45650,
-      "lcValue": 195.65,
+      "value": 45467,
+      "lcValue": 194.86,
       "demand": "Medium",
       "trend": "Falling",
       "category": "outfits",
       "image": "images/item_21.png",
       "wikiUrl": "https://grand-piece-online.fandom.com/wiki/Jester's_Outfit",
-      "demandScore": 5.4,
+      "demandScore": 5.3,
       "official_rank": 28,
       "demand_count": 60,
       "supply_count": 131,
@@ -4596,10 +4506,10 @@
           "tier_pressure_alert": null
         },
         "7d": {
-          "demand_count": 391,
-          "supply_count": 848,
-          "pressure_ratio": 0.46,
-          "predicted_change_pct": -3.8,
+          "demand_count": 354,
+          "supply_count": 759,
+          "pressure_ratio": 0.47,
+          "predicted_change_pct": -3.7,
           "trend": "Falling",
           "tier_pressure_alert": null
         }
@@ -4662,8 +4572,8 @@
       "tier": "Tier S",
       "subTier": "Low",
       "rankInTier": 12,
-      "value": 37350,
-      "lcValue": 160.07,
+      "value": 37201,
+      "lcValue": 159.44,
       "demand": "Very High",
       "trend": "Rising",
       "category": "misc",
@@ -4694,10 +4604,10 @@
           "tier_pressure_alert": null
         },
         "7d": {
-          "demand_count": 5788,
-          "supply_count": 5701,
-          "pressure_ratio": 1.02,
-          "predicted_change_pct": 0.1,
+          "demand_count": 5454,
+          "supply_count": 5052,
+          "pressure_ratio": 1.08,
+          "predicted_change_pct": 0.6,
           "trend": "Stable",
           "tier_pressure_alert": null
         }
@@ -4711,8 +4621,8 @@
       "tier": "Tier S",
       "subTier": "Low",
       "rankInTier": 13,
-      "value": 35559,
-      "lcValue": 152.4,
+      "value": 35701,
+      "lcValue": 153.01,
       "demand": "Medium",
       "trend": "Falling",
       "category": "accessories",
@@ -4743,8 +4653,8 @@
           "tier_pressure_alert": null
         },
         "7d": {
-          "demand_count": 194,
-          "supply_count": 604,
+          "demand_count": 178,
+          "supply_count": 550,
           "pressure_ratio": 0.32,
           "predicted_change_pct": -4.8,
           "trend": "Falling",
@@ -4760,8 +4670,8 @@
       "tier": "Tier S",
       "subTier": "Low",
       "rankInTier": 14,
-      "value": 33466,
-      "lcValue": 143.43,
+      "value": 33600,
+      "lcValue": 144.0,
       "demand": "Medium",
       "trend": "Falling",
       "category": "accessories",
@@ -4792,9 +4702,9 @@
           "tier_pressure_alert": null
         },
         "7d": {
-          "demand_count": 40,
-          "supply_count": 161,
-          "pressure_ratio": 0.25,
+          "demand_count": 37,
+          "supply_count": 143,
+          "pressure_ratio": 0.26,
           "predicted_change_pct": -5.2,
           "trend": "Falling",
           "tier_pressure_alert": null
@@ -4858,14 +4768,14 @@
       "tier": "Tier S",
       "subTier": "Low",
       "rankInTier": 15,
-      "value": 31375,
-      "lcValue": 134.47,
+      "value": 31500,
+      "lcValue": 135.0,
       "demand": "Medium",
       "trend": "Falling",
       "category": "misc",
       "image": "images/item_24.png",
       "wikiUrl": "https://grand-piece-online.fandom.com/wiki/All_Seeing_Egg",
-      "demandScore": 5.1,
+      "demandScore": 5.0,
       "official_rank": 34,
       "demand_count": 33,
       "supply_count": 196,
@@ -4890,8 +4800,8 @@
           "tier_pressure_alert": null
         },
         "7d": {
-          "demand_count": 255,
-          "supply_count": 1291,
+          "demand_count": 227,
+          "supply_count": 1162,
           "pressure_ratio": 0.2,
           "predicted_change_pct": -5.6,
           "trend": "Falling",
@@ -4956,8 +4866,8 @@
       "tier": "Tier S",
       "subTier": "Low",
       "rankInTier": 17,
-      "value": 26975,
-      "lcValue": 115.61,
+      "value": 26867,
+      "lcValue": 115.15,
       "demand": "High",
       "trend": "Falling",
       "category": "misc",
@@ -4988,8 +4898,8 @@
           "tier_pressure_alert": null
         },
         "7d": {
-          "demand_count": 453,
-          "supply_count": 1889,
+          "demand_count": 411,
+          "supply_count": 1728,
           "pressure_ratio": 0.24,
           "predicted_change_pct": -5.3,
           "trend": "Falling",
@@ -5005,14 +4915,14 @@
       "tier": "Tier S",
       "subTier": "Low",
       "rankInTier": 18,
-      "value": 24900,
-      "lcValue": 106.72,
+      "value": 24800,
+      "lcValue": 106.29,
       "demand": "Medium",
       "trend": "Falling",
       "category": "misc",
       "image": "images/item_28.png",
       "wikiUrl": "https://grand-piece-online.fandom.com/wiki/All_Seeing_Holly",
-      "demandScore": 5.3,
+      "demandScore": 5.2,
       "official_rank": 37,
       "demand_count": 44,
       "supply_count": 323,
@@ -5037,8 +4947,8 @@
           "tier_pressure_alert": null
         },
         "7d": {
-          "demand_count": 351,
-          "supply_count": 2308,
+          "demand_count": 312,
+          "supply_count": 2070,
           "pressure_ratio": 0.15,
           "predicted_change_pct": -6.0,
           "trend": "Falling",
@@ -5054,14 +4964,14 @@
       "tier": "Tier A+",
       "subTier": "High",
       "rankInTier": 1,
-      "value": 21580,
-      "lcValue": 92.49,
+      "value": 21494,
+      "lcValue": 92.12,
       "demand": "Medium",
       "trend": "Falling",
       "category": "misc",
       "image": "images/item_29.png",
       "wikiUrl": "https://grand-piece-online.fandom.com/wiki/Cupid%27s_All_Seeing_Eye",
-      "demandScore": 5.1,
+      "demandScore": 5.0,
       "official_rank": 38,
       "demand_count": 26,
       "supply_count": 101,
@@ -5086,10 +4996,10 @@
           "tier_pressure_alert": null
         },
         "7d": {
-          "demand_count": 258,
-          "supply_count": 829,
-          "pressure_ratio": 0.31,
-          "predicted_change_pct": -4.8,
+          "demand_count": 225,
+          "supply_count": 746,
+          "pressure_ratio": 0.3,
+          "predicted_change_pct": -4.9,
           "trend": "Falling",
           "tier_pressure_alert": null
         }
@@ -5103,14 +5013,14 @@
       "tier": "Tier A+",
       "subTier": "High",
       "rankInTier": 2,
-      "value": 20086,
-      "lcValue": 86.08,
+      "value": 20006,
+      "lcValue": 85.74,
       "demand": "High",
       "trend": "Falling",
       "category": "accessories",
       "image": "images/item_30.png",
       "wikiUrl": "https://grand-piece-online.fandom.com/wiki/Soul_King%27s_Scarf",
-      "demandScore": 5.7,
+      "demandScore": 5.6,
       "official_rank": 39,
       "demand_count": 71,
       "supply_count": 113,
@@ -5135,8 +5045,8 @@
           "tier_pressure_alert": null
         },
         "7d": {
-          "demand_count": 537,
-          "supply_count": 763,
+          "demand_count": 472,
+          "supply_count": 675,
           "pressure_ratio": 0.7,
           "predicted_change_pct": -2.1,
           "trend": "Falling",
@@ -5152,8 +5062,8 @@
       "tier": "Very Unstable",
       "subTier": "Standard",
       "rankInTier": 10,
-      "value": 19936,
-      "lcValue": 85.44,
+      "value": 19856,
+      "lcValue": 85.1,
       "demand": "Very Low",
       "trend": "Stable",
       "category": "outfits",
@@ -5201,14 +5111,14 @@
       "tier": "Tier A+",
       "subTier": "High",
       "rankInTier": 3,
-      "value": 18592,
-      "lcValue": 79.68,
-      "demand": "Very High",
-      "trend": "Overpaid",
+      "value": 18518,
+      "lcValue": 79.36,
+      "demand": "High",
+      "trend": "Rising",
       "category": "misc",
       "image": "images/item_31.png",
       "wikiUrl": "https://grand-piece-online.fandom.com/wiki/All_Seeing_Eye",
-      "demandScore": 7.5,
+      "demandScore": 7.4,
       "official_rank": 41,
       "demand_count": 577,
       "supply_count": 281,
@@ -5221,7 +5131,7 @@
           "supply_count": 281,
           "pressure_ratio": 2.05,
           "predicted_change_pct": 4.2,
-          "trend": "Overpaid",
+          "trend": "Rising",
           "tier_pressure_alert": null
         },
         "24h": {
@@ -5229,15 +5139,15 @@
           "supply_count": 744,
           "pressure_ratio": 1.84,
           "predicted_change_pct": 4.6,
-          "trend": "Overpaid",
+          "trend": "Rising",
           "tier_pressure_alert": null
         },
         "7d": {
-          "demand_count": 3843,
-          "supply_count": 2045,
-          "pressure_ratio": 1.88,
-          "predicted_change_pct": 6.2,
-          "trend": "Overpaid",
+          "demand_count": 3494,
+          "supply_count": 1836,
+          "pressure_ratio": 1.9,
+          "predicted_change_pct": 6.3,
+          "trend": "Rising",
           "tier_pressure_alert": null
         }
       }
@@ -5250,8 +5160,8 @@
       "tier": "Tier A+",
       "subTier": "High",
       "rankInTier": 4,
-      "value": 17236,
-      "lcValue": 73.87,
+      "value": 17305,
+      "lcValue": 74.17,
       "demand": "Medium",
       "trend": "Falling",
       "category": "accessories",
@@ -5282,11 +5192,11 @@
           "tier_pressure_alert": null
         },
         "7d": {
-          "demand_count": 359,
-          "supply_count": 450,
-          "pressure_ratio": 0.8,
-          "predicted_change_pct": -1.4,
-          "trend": "Stable",
+          "demand_count": 324,
+          "supply_count": 427,
+          "pressure_ratio": 0.76,
+          "predicted_change_pct": -1.7,
+          "trend": "Falling",
           "tier_pressure_alert": null
         }
       }
@@ -5348,14 +5258,14 @@
       "tier": "Tier A+",
       "subTier": "Mid",
       "rankInTier": 6,
-      "value": 13376,
-      "lcValue": 57.33,
+      "value": 13412,
+      "lcValue": 57.48,
       "demand": "High",
       "trend": "Stable",
       "category": "accessories",
       "image": "images/item_34.png",
       "wikiUrl": "https://grand-piece-online.fandom.com/wiki/Bounty_System",
-      "demandScore": 5.6,
+      "demandScore": 5.5,
       "official_rank": 44,
       "demand_count": 63,
       "supply_count": 57,
@@ -5380,8 +5290,8 @@
           "tier_pressure_alert": null
         },
         "7d": {
-          "demand_count": 501,
-          "supply_count": 498,
+          "demand_count": 453,
+          "supply_count": 448,
           "pressure_ratio": 1.01,
           "predicted_change_pct": 0.1,
           "trend": "Stable",
@@ -5397,14 +5307,14 @@
       "tier": "Tier A+",
       "subTier": "Mid",
       "rankInTier": 7,
-      "value": 12662,
-      "lcValue": 54.27,
+      "value": 12656,
+      "lcValue": 54.24,
       "demand": "High",
       "trend": "Stable",
       "category": "weapons",
       "image": "images/item_35.png",
       "wikiUrl": "https://grand-piece-online.fandom.com/wiki/Bounty_System",
-      "demandScore": 6.4,
+      "demandScore": 6.3,
       "official_rank": 45,
       "demand_count": 148,
       "supply_count": 138,
@@ -5429,8 +5339,8 @@
           "tier_pressure_alert": null
         },
         "7d": {
-          "demand_count": 1172,
-          "supply_count": 1017,
+          "demand_count": 1063,
+          "supply_count": 924,
           "pressure_ratio": 1.15,
           "predicted_change_pct": 1.0,
           "trend": "Stable",
@@ -5495,14 +5405,14 @@
       "tier": "Tier A+",
       "subTier": "Mid",
       "rankInTier": 9,
-      "value": 11288,
-      "lcValue": 48.38,
+      "value": 11243,
+      "lcValue": 48.18,
       "demand": "High",
       "trend": "Falling",
       "category": "weapons",
       "image": "images/item_37.png",
       "wikiUrl": "https://grand-piece-online.fandom.com/wiki/Devil_Fruits",
-      "demandScore": 6.3,
+      "demandScore": 6.2,
       "official_rank": 47,
       "demand_count": 168,
       "supply_count": 345,
@@ -5527,8 +5437,8 @@
           "tier_pressure_alert": null
         },
         "7d": {
-          "demand_count": 1192,
-          "supply_count": 2800,
+          "demand_count": 1080,
+          "supply_count": 2508,
           "pressure_ratio": 0.43,
           "predicted_change_pct": -4.0,
           "trend": "Falling",
@@ -5544,8 +5454,8 @@
       "tier": "Tier A+",
       "subTier": "Mid",
       "rankInTier": 10,
-      "value": 10624,
-      "lcValue": 45.53,
+      "value": 10582,
+      "lcValue": 45.35,
       "demand": "High",
       "trend": "Falling",
       "category": "fruits",
@@ -5576,8 +5486,8 @@
           "tier_pressure_alert": null
         },
         "7d": {
-          "demand_count": 1586,
-          "supply_count": 2821,
+          "demand_count": 1454,
+          "supply_count": 2606,
           "pressure_ratio": 0.56,
           "predicted_change_pct": -3.1,
           "trend": "Falling",
@@ -5593,8 +5503,8 @@
       "tier": "Tier A+",
       "subTier": "Mid",
       "rankInTier": 11,
-      "value": 9960,
-      "lcValue": 42.69,
+      "value": 9920,
+      "lcValue": 42.51,
       "demand": "Medium",
       "trend": "Falling",
       "category": "weapons",
@@ -5625,10 +5535,10 @@
           "tier_pressure_alert": null
         },
         "7d": {
-          "demand_count": 316,
-          "supply_count": 683,
-          "pressure_ratio": 0.46,
-          "predicted_change_pct": -3.8,
+          "demand_count": 295,
+          "supply_count": 617,
+          "pressure_ratio": 0.48,
+          "predicted_change_pct": -3.6,
           "trend": "Falling",
           "tier_pressure_alert": null
         }
@@ -5642,14 +5552,14 @@
       "tier": "Tier A+",
       "subTier": "Mid",
       "rankInTier": 12,
-      "value": 9370,
-      "lcValue": 40.16,
+      "value": 9407,
+      "lcValue": 40.32,
       "demand": "Medium",
       "trend": "Rising",
       "category": "weapons",
       "image": "images/item_42.png",
       "wikiUrl": "https://grand-piece-online.fandom.com/wiki/Snowcap_Scepter",
-      "demandScore": 4.1,
+      "demandScore": 3.9,
       "official_rank": 50,
       "demand_count": 6,
       "supply_count": 2,
@@ -5683,10 +5593,10 @@
           }
         },
         "7d": {
-          "demand_count": 49,
-          "supply_count": 19,
-          "pressure_ratio": 2.5,
-          "predicted_change_pct": 10.5,
+          "demand_count": 41,
+          "supply_count": 17,
+          "pressure_ratio": 2.33,
+          "predicted_change_pct": 9.3,
           "trend": "Rising",
           "tier_pressure_alert": {
             "en": "High chance of tier promotion (trading on par with Soul Cleaver)",
@@ -5703,14 +5613,14 @@
       "tier": "Tier A+",
       "subTier": "Mid",
       "rankInTier": 13,
-      "value": 8632,
-      "lcValue": 36.99,
+      "value": 8597,
+      "lcValue": 36.84,
       "demand": "Medium",
       "trend": "Rising",
       "category": "accessories",
       "image": "images/item_43.png",
       "wikiUrl": "https://grand-piece-online.fandom.com/wiki/Blessed_Cupid_Queen%27s_Scarf",
-      "demandScore": 4.1,
+      "demandScore": 4.0,
       "official_rank": 51,
       "demand_count": 9,
       "supply_count": 2,
@@ -5735,10 +5645,10 @@
           "tier_pressure_alert": null
         },
         "7d": {
-          "demand_count": 61,
-          "supply_count": 39,
-          "pressure_ratio": 1.55,
-          "predicted_change_pct": 3.9,
+          "demand_count": 56,
+          "supply_count": 36,
+          "pressure_ratio": 1.54,
+          "predicted_change_pct": 3.8,
           "trend": "Rising",
           "tier_pressure_alert": null
         }
@@ -5801,8 +5711,8 @@
       "tier": "Tier A+",
       "subTier": "Low",
       "rankInTier": 14,
-      "value": 6225,
-      "lcValue": 26.68,
+      "value": 6200,
+      "lcValue": 26.57,
       "demand": "Medium",
       "trend": "Falling",
       "category": "weapons",
@@ -5833,8 +5743,8 @@
           "tier_pressure_alert": null
         },
         "7d": {
-          "demand_count": 361,
-          "supply_count": 2099,
+          "demand_count": 330,
+          "supply_count": 1923,
           "pressure_ratio": 0.17,
           "predicted_change_pct": -5.8,
           "trend": "Falling",
@@ -5850,14 +5760,14 @@
       "tier": "Tier A+",
       "subTier": "Low",
       "rankInTier": 15,
-      "value": 5893,
-      "lcValue": 25.26,
+      "value": 5869,
+      "lcValue": 25.15,
       "demand": "High",
       "trend": "Stable",
       "category": "weapons",
       "image": "images/item_45.png",
       "wikiUrl": "https://grand-piece-online.fandom.com/wiki/Thunder_Club",
-      "demandScore": 6.2,
+      "demandScore": 6.1,
       "official_rank": 54,
       "demand_count": 170,
       "supply_count": 198,
@@ -5882,8 +5792,8 @@
           "tier_pressure_alert": null
         },
         "7d": {
-          "demand_count": 1039,
-          "supply_count": 1286,
+          "demand_count": 951,
+          "supply_count": 1181,
           "pressure_ratio": 0.81,
           "predicted_change_pct": -1.3,
           "trend": "Stable",
@@ -5899,14 +5809,14 @@
       "tier": "Tier A+",
       "subTier": "Low",
       "rankInTier": 16,
-      "value": 5561,
-      "lcValue": 23.83,
+      "value": 5539,
+      "lcValue": 23.74,
       "demand": "Medium",
       "trend": "Falling",
       "category": "weapons",
       "image": "images/item_46.png",
       "wikiUrl": "https://grand-piece-online.fandom.com/wiki/Inverted_Spear_Of_Heaven",
-      "demandScore": 4.9,
+      "demandScore": 4.8,
       "official_rank": 55,
       "demand_count": 21,
       "supply_count": 56,
@@ -5931,10 +5841,10 @@
           "tier_pressure_alert": null
         },
         "7d": {
-          "demand_count": 216,
-          "supply_count": 383,
-          "pressure_ratio": 0.57,
-          "predicted_change_pct": -3.0,
+          "demand_count": 184,
+          "supply_count": 347,
+          "pressure_ratio": 0.53,
+          "predicted_change_pct": -3.3,
           "trend": "Falling",
           "tier_pressure_alert": null
         }
@@ -5948,14 +5858,14 @@
       "tier": "Tier A+",
       "subTier": "Low",
       "rankInTier": 17,
-      "value": 5229,
-      "lcValue": 22.41,
+      "value": 5208,
+      "lcValue": 22.32,
       "demand": "Low",
       "trend": "Falling",
       "category": "weapons",
       "image": "images/item_48.png",
       "wikiUrl": "https://grand-piece-online.fandom.com/wiki/Blessed_Cupid's_Bow",
-      "demandScore": 3.2,
+      "demandScore": 2.9,
       "official_rank": 56,
       "demand_count": 3,
       "supply_count": 9,
@@ -5980,10 +5890,10 @@
           "tier_pressure_alert": null
         },
         "7d": {
-          "demand_count": 25,
-          "supply_count": 59,
-          "pressure_ratio": 0.43,
-          "predicted_change_pct": -4.0,
+          "demand_count": 18,
+          "supply_count": 54,
+          "pressure_ratio": 0.35,
+          "predicted_change_pct": -4.5,
           "trend": "Falling",
           "tier_pressure_alert": null
         }
@@ -5997,8 +5907,8 @@
       "tier": "Tier A+",
       "subTier": "Low",
       "rankInTier": 18,
-      "value": 4897,
-      "lcValue": 20.99,
+      "value": 4877,
+      "lcValue": 20.9,
       "demand": "High",
       "trend": "Falling",
       "category": "accessories",
@@ -6029,8 +5939,8 @@
           "tier_pressure_alert": null
         },
         "7d": {
-          "demand_count": 767,
-          "supply_count": 2554,
+          "demand_count": 694,
+          "supply_count": 2290,
           "pressure_ratio": 0.3,
           "predicted_change_pct": -4.9,
           "trend": "Falling",
@@ -6046,8 +5956,8 @@
       "tier": "Tier A",
       "subTier": "High",
       "rankInTier": 1,
-      "value": 4648,
-      "lcValue": 19.92,
+      "value": 4629,
+      "lcValue": 19.84,
       "demand": "High",
       "trend": "Falling",
       "category": "misc",
@@ -6078,8 +5988,8 @@
           "tier_pressure_alert": null
         },
         "7d": {
-          "demand_count": 1241,
-          "supply_count": 4454,
+          "demand_count": 1129,
+          "supply_count": 4025,
           "pressure_ratio": 0.28,
           "predicted_change_pct": -5.0,
           "trend": "Falling",
@@ -6095,8 +6005,8 @@
       "tier": "Tier A",
       "subTier": "High",
       "rankInTier": 2,
-      "value": 4482,
-      "lcValue": 19.21,
+      "value": 4480,
+      "lcValue": 19.2,
       "demand": "Low",
       "trend": "Falling",
       "category": "outfits",
@@ -6128,9 +6038,9 @@
         },
         "7d": {
           "demand_count": 19,
-          "supply_count": 67,
-          "pressure_ratio": 0.29,
-          "predicted_change_pct": -5.0,
+          "supply_count": 62,
+          "pressure_ratio": 0.32,
+          "predicted_change_pct": -4.8,
           "trend": "Falling",
           "tier_pressure_alert": null
         }
@@ -6144,14 +6054,14 @@
       "tier": "Tier A",
       "subTier": "High",
       "rankInTier": 3,
-      "value": 4285,
-      "lcValue": 18.36,
+      "value": 4270,
+      "lcValue": 18.3,
       "demand": "Medium",
       "trend": "Stable",
       "category": "outfits",
       "image": "images/item_50.png",
       "wikiUrl": "https://grand-piece-online.fandom.com/wiki/Coyote_Outfit",
-      "demandScore": 4.7,
+      "demandScore": 4.6,
       "official_rank": 60,
       "demand_count": 18,
       "supply_count": 20,
@@ -6176,10 +6086,10 @@
           "tier_pressure_alert": null
         },
         "7d": {
-          "demand_count": 156,
-          "supply_count": 179,
-          "pressure_ratio": 0.87,
-          "predicted_change_pct": -0.9,
+          "demand_count": 142,
+          "supply_count": 159,
+          "pressure_ratio": 0.89,
+          "predicted_change_pct": -0.8,
           "trend": "Stable",
           "tier_pressure_alert": null
         }
@@ -6193,14 +6103,14 @@
       "tier": "Tier A",
       "subTier": "High",
       "rankInTier": 4,
-      "value": 4101,
-      "lcValue": 17.58,
+      "value": 4085,
+      "lcValue": 17.51,
       "demand": "Medium",
       "trend": "Falling",
       "category": "outfits",
       "image": "images/item_51.png",
       "wikiUrl": "https://grand-piece-online.fandom.com/wiki/Nightfall_Shroud",
-      "demandScore": 5.4,
+      "demandScore": 5.3,
       "official_rank": 61,
       "demand_count": 45,
       "supply_count": 139,
@@ -6225,10 +6135,10 @@
           "tier_pressure_alert": null
         },
         "7d": {
-          "demand_count": 383,
-          "supply_count": 879,
-          "pressure_ratio": 0.44,
-          "predicted_change_pct": -3.9,
+          "demand_count": 335,
+          "supply_count": 813,
+          "pressure_ratio": 0.41,
+          "predicted_change_pct": -4.1,
           "trend": "Falling",
           "tier_pressure_alert": null
         }
@@ -6242,14 +6152,14 @@
       "tier": "Tier A",
       "subTier": "High",
       "rankInTier": 5,
-      "value": 3917,
-      "lcValue": 16.79,
+      "value": 3901,
+      "lcValue": 16.72,
       "demand": "High",
       "trend": "Falling",
       "category": "accessories",
       "image": "images/item_53.png",
       "wikiUrl": "https://grand-piece-online.fandom.com/wiki/Dark_Blade",
-      "demandScore": 5.8,
+      "demandScore": 5.7,
       "official_rank": 62,
       "demand_count": 81,
       "supply_count": 228,
@@ -6274,8 +6184,8 @@
           "tier_pressure_alert": null
         },
         "7d": {
-          "demand_count": 624,
-          "supply_count": 1217,
+          "demand_count": 572,
+          "supply_count": 1112,
           "pressure_ratio": 0.51,
           "predicted_change_pct": -3.4,
           "trend": "Falling",
@@ -6291,14 +6201,14 @@
       "tier": "Tier A",
       "subTier": "High",
       "rankInTier": 6,
-      "value": 3747,
-      "lcValue": 16.06,
+      "value": 3743,
+      "lcValue": 16.04,
       "demand": "High",
       "trend": "Falling",
       "category": "accessories",
       "image": "images/item_40.png",
       "wikiUrl": "https://grand-piece-online.fandom.com/wiki/Nightfall_Aura",
-      "demandScore": 6.2,
+      "demandScore": 6.1,
       "official_rank": 63,
       "demand_count": 155,
       "supply_count": 350,
@@ -6323,8 +6233,8 @@
           "tier_pressure_alert": null
         },
         "7d": {
-          "demand_count": 1008,
-          "supply_count": 2676,
+          "demand_count": 928,
+          "supply_count": 2428,
           "pressure_ratio": 0.38,
           "predicted_change_pct": -4.3,
           "trend": "Falling",
@@ -6340,14 +6250,14 @@
       "tier": "Tier A",
       "subTier": "High",
       "rankInTier": 7,
-      "value": 3581,
-      "lcValue": 15.35,
+      "value": 3595,
+      "lcValue": 15.41,
       "demand": "Medium",
       "trend": "Falling",
       "category": "weapons",
       "image": "images/item_52.png",
       "wikiUrl": "https://grand-piece-online.fandom.com/wiki/Hollow%27s_World_Ender",
-      "demandScore": 5.3,
+      "demandScore": 5.2,
       "official_rank": 64,
       "demand_count": 60,
       "supply_count": 175,
@@ -6372,10 +6282,10 @@
           "tier_pressure_alert": null
         },
         "7d": {
-          "demand_count": 338,
-          "supply_count": 1303,
-          "pressure_ratio": 0.26,
-          "predicted_change_pct": -5.2,
+          "demand_count": 292,
+          "supply_count": 1201,
+          "pressure_ratio": 0.24,
+          "predicted_change_pct": -5.3,
           "trend": "Falling",
           "tier_pressure_alert": null
         }
@@ -6389,8 +6299,8 @@
       "tier": "Tier A",
       "subTier": "High",
       "rankInTier": 8,
-      "value": 3392,
-      "lcValue": 14.54,
+      "value": 3399,
+      "lcValue": 14.57,
       "demand": "High",
       "trend": "Falling",
       "category": "accessories",
@@ -6421,10 +6331,10 @@
           "tier_pressure_alert": null
         },
         "7d": {
-          "demand_count": 654,
-          "supply_count": 891,
-          "pressure_ratio": 0.73,
-          "predicted_change_pct": -1.9,
+          "demand_count": 599,
+          "supply_count": 812,
+          "pressure_ratio": 0.74,
+          "predicted_change_pct": -1.8,
           "trend": "Falling",
           "tier_pressure_alert": null
         }
@@ -6438,8 +6348,8 @@
       "tier": "Tier A",
       "subTier": "High",
       "rankInTier": 9,
-      "value": 3187,
-      "lcValue": 13.66,
+      "value": 3174,
+      "lcValue": 13.6,
       "demand": "High",
       "trend": "Falling",
       "category": "weapons",
@@ -6470,9 +6380,9 @@
           "tier_pressure_alert": null
         },
         "7d": {
-          "demand_count": 1551,
-          "supply_count": 5515,
-          "pressure_ratio": 0.28,
+          "demand_count": 1432,
+          "supply_count": 5001,
+          "pressure_ratio": 0.29,
           "predicted_change_pct": -5.0,
           "trend": "Falling",
           "tier_pressure_alert": null
@@ -6487,8 +6397,8 @@
       "tier": "Tier A",
       "subTier": "High",
       "rankInTier": 10,
-      "value": 3005,
-      "lcValue": 12.88,
+      "value": 2993,
+      "lcValue": 12.83,
       "demand": "Low",
       "trend": "Rising",
       "category": "accessories",
@@ -6519,10 +6429,10 @@
           "tier_pressure_alert": null
         },
         "7d": {
-          "demand_count": 10,
-          "supply_count": 12,
-          "pressure_ratio": 0.85,
-          "predicted_change_pct": -1.1,
+          "demand_count": 9,
+          "supply_count": 10,
+          "pressure_ratio": 0.91,
+          "predicted_change_pct": -0.6,
           "trend": "Stable",
           "tier_pressure_alert": null
         }
@@ -6536,14 +6446,14 @@
       "tier": "Tier A",
       "subTier": "High",
       "rankInTier": 11,
-      "value": 2844,
-      "lcValue": 12.19,
+      "value": 2855,
+      "lcValue": 12.24,
       "demand": "Medium",
       "trend": "Falling",
       "category": "misc",
       "image": "images/item_55.png",
       "wikiUrl": "https://grand-piece-online.fandom.com/wiki/Time-Rift_Capsule",
-      "demandScore": 3.9,
+      "demandScore": 3.8,
       "official_rank": 68,
       "demand_count": 7,
       "supply_count": 107,
@@ -6568,10 +6478,10 @@
           "tier_pressure_alert": null
         },
         "7d": {
-          "demand_count": 61,
-          "supply_count": 649,
-          "pressure_ratio": 0.1,
-          "predicted_change_pct": -6.3,
+          "demand_count": 54,
+          "supply_count": 609,
+          "pressure_ratio": 0.09,
+          "predicted_change_pct": -6.4,
           "trend": "Falling",
           "tier_pressure_alert": null
         }
@@ -6585,14 +6495,14 @@
       "tier": "Tier A",
       "subTier": "High",
       "rankInTier": 12,
-      "value": 2661,
-      "lcValue": 11.4,
-      "demand": "High",
+      "value": 2672,
+      "lcValue": 11.45,
+      "demand": "Medium",
       "trend": "Stable",
       "category": "weapons",
       "image": "images/item_64.png",
       "wikiUrl": "https://grand-piece-online.fandom.com/wiki/Devil_Fruits",
-      "demandScore": 5.5,
+      "demandScore": 5.4,
       "official_rank": 69,
       "demand_count": 57,
       "supply_count": 57,
@@ -6617,10 +6527,10 @@
           "tier_pressure_alert": null
         },
         "7d": {
-          "demand_count": 425,
-          "supply_count": 435,
-          "pressure_ratio": 0.98,
-          "predicted_change_pct": -0.1,
+          "demand_count": 383,
+          "supply_count": 381,
+          "pressure_ratio": 1.01,
+          "predicted_change_pct": 0.1,
           "trend": "Stable",
           "tier_pressure_alert": null
         }
@@ -6683,14 +6593,14 @@
       "tier": "Tier A",
       "subTier": "High",
       "rankInTier": 14,
-      "value": 2276,
-      "lcValue": 9.75,
+      "value": 2269,
+      "lcValue": 9.72,
       "demand": "High",
       "trend": "Falling",
       "category": "weapons",
       "image": "images/item_56.png",
       "wikiUrl": "https://grand-piece-online.fandom.com/wiki/Sickle_of_Sorrow",
-      "demandScore": 5.6,
+      "demandScore": 5.5,
       "official_rank": 71,
       "demand_count": 73,
       "supply_count": 218,
@@ -6715,9 +6625,9 @@
           "tier_pressure_alert": null
         },
         "7d": {
-          "demand_count": 505,
-          "supply_count": 1418,
-          "pressure_ratio": 0.36,
+          "demand_count": 457,
+          "supply_count": 1312,
+          "pressure_ratio": 0.35,
           "predicted_change_pct": -4.5,
           "trend": "Falling",
           "tier_pressure_alert": null
@@ -6732,14 +6642,14 @@
       "tier": "Tier A",
       "subTier": "High",
       "rankInTier": 15,
-      "value": 2108,
-      "lcValue": 9.03,
+      "value": 2116,
+      "lcValue": 9.07,
       "demand": "Very High",
       "trend": "Falling",
       "category": "chests",
       "image": "images/item_58.png",
       "wikiUrl": "https://grand-piece-online.fandom.com/wiki/Mythical_Fruit_Chest",
-      "demandScore": 8.3,
+      "demandScore": 8.2,
       "official_rank": 72,
       "demand_count": 1862,
       "supply_count": 2944,
@@ -6764,8 +6674,8 @@
           "tier_pressure_alert": null
         },
         "7d": {
-          "demand_count": 13847,
-          "supply_count": 20086,
+          "demand_count": 12424,
+          "supply_count": 17990,
           "pressure_ratio": 0.69,
           "predicted_change_pct": -2.2,
           "trend": "Falling",
@@ -6830,14 +6740,14 @@
       "tier": "Tier A",
       "subTier": "Mid",
       "rankInTier": 19,
-      "value": 1992,
-      "lcValue": 8.54,
+      "value": 1984,
+      "lcValue": 8.5,
       "demand": "High",
       "trend": "Falling",
       "category": "weapons",
       "image": "images/item_62.png",
       "wikiUrl": "https://grand-piece-online.fandom.com/wiki/Kikoku",
-      "demandScore": 5.8,
+      "demandScore": 5.7,
       "official_rank": 74,
       "demand_count": 78,
       "supply_count": 359,
@@ -6862,8 +6772,8 @@
           "tier_pressure_alert": null
         },
         "7d": {
-          "demand_count": 613,
-          "supply_count": 2915,
+          "demand_count": 551,
+          "supply_count": 2687,
           "pressure_ratio": 0.21,
           "predicted_change_pct": -5.5,
           "trend": "Falling",
@@ -6879,14 +6789,14 @@
       "tier": "Tier A",
       "subTier": "High",
       "rankInTier": 16,
-      "value": 1925,
-      "lcValue": 8.25,
+      "value": 1933,
+      "lcValue": 8.28,
       "demand": "High",
       "trend": "Falling",
       "category": "accessories",
       "image": "images/item_59.png",
       "wikiUrl": "https://grand-piece-online.fandom.com/wiki/Traveling_Merchant",
-      "demandScore": 5.7,
+      "demandScore": 5.6,
       "official_rank": 75,
       "demand_count": 63,
       "supply_count": 159,
@@ -6911,8 +6821,8 @@
           "tier_pressure_alert": null
         },
         "7d": {
-          "demand_count": 571,
-          "supply_count": 1187,
+          "demand_count": 515,
+          "supply_count": 1067,
           "pressure_ratio": 0.48,
           "predicted_change_pct": -3.6,
           "trend": "Falling",
@@ -6928,8 +6838,8 @@
       "tier": "New Items",
       "subTier": "Standard",
       "rankInTier": 2,
-      "value": 1868,
-      "lcValue": 8.01,
+      "value": 1861,
+      "lcValue": 7.98,
       "demand": "High",
       "trend": "Stable",
       "category": "chests",
@@ -6960,10 +6870,10 @@
           "tier_pressure_alert": null
         },
         "7d": {
-          "demand_count": 2834,
-          "supply_count": 2950,
-          "pressure_ratio": 0.96,
-          "predicted_change_pct": -0.3,
+          "demand_count": 2738,
+          "supply_count": 2522,
+          "pressure_ratio": 1.09,
+          "predicted_change_pct": 0.6,
           "trend": "Stable",
           "tier_pressure_alert": null
         }
@@ -6977,8 +6887,8 @@
       "tier": "Tier A",
       "subTier": "Mid",
       "rankInTier": 20,
-      "value": 1842,
-      "lcValue": 7.89,
+      "value": 1835,
+      "lcValue": 7.86,
       "demand": "Medium",
       "trend": "Falling",
       "category": "fruits",
@@ -7009,8 +6919,8 @@
           "tier_pressure_alert": null
         },
         "7d": {
-          "demand_count": 360,
-          "supply_count": 2546,
+          "demand_count": 326,
+          "supply_count": 2317,
           "pressure_ratio": 0.14,
           "predicted_change_pct": -6.0,
           "trend": "Falling",
@@ -7026,8 +6936,8 @@
       "tier": "Tier A",
       "subTier": "High",
       "rankInTier": 17,
-      "value": 1740,
-      "lcValue": 7.46,
+      "value": 1747,
+      "lcValue": 7.49,
       "demand": "Medium",
       "trend": "Falling",
       "category": "weapons",
@@ -7058,8 +6968,8 @@
           "tier_pressure_alert": null
         },
         "7d": {
-          "demand_count": 285,
-          "supply_count": 399,
+          "demand_count": 260,
+          "supply_count": 366,
           "pressure_ratio": 0.71,
           "predicted_change_pct": -2.0,
           "trend": "Falling",
@@ -7124,14 +7034,14 @@
       "tier": "Tier A",
       "subTier": "Low",
       "rankInTier": 21,
-      "value": 1328,
-      "lcValue": 5.69,
+      "value": 1323,
+      "lcValue": 5.67,
       "demand": "Medium",
       "trend": "Falling",
       "category": "boats",
       "image": "images/item_65.png",
       "wikiUrl": "https://grand-piece-online.fandom.com/wiki/Hover_Pod",
-      "demandScore": 5.1,
+      "demandScore": 5.0,
       "official_rank": 80,
       "demand_count": 33,
       "supply_count": 196,
@@ -7156,8 +7066,8 @@
           "tier_pressure_alert": null
         },
         "7d": {
-          "demand_count": 259,
-          "supply_count": 1413,
+          "demand_count": 232,
+          "supply_count": 1282,
           "pressure_ratio": 0.18,
           "predicted_change_pct": -5.7,
           "trend": "Falling",
@@ -7173,14 +7083,14 @@
       "tier": "Tier A",
       "subTier": "Low",
       "rankInTier": 22,
-      "value": 1255,
-      "lcValue": 5.38,
+      "value": 1260,
+      "lcValue": 5.4,
       "demand": "Medium",
       "trend": "Falling",
       "category": "accessories",
       "image": "images/item_67.png",
       "wikiUrl": "https://grand-piece-online.fandom.com/wiki/Exalted_Cupid_Queen%27s_Wings",
-      "demandScore": 4.4,
+      "demandScore": 4.3,
       "official_rank": 81,
       "demand_count": 12,
       "supply_count": 17,
@@ -7205,10 +7115,10 @@
           "tier_pressure_alert": null
         },
         "7d": {
-          "demand_count": 108,
-          "supply_count": 160,
-          "pressure_ratio": 0.68,
-          "predicted_change_pct": -2.2,
+          "demand_count": 101,
+          "supply_count": 151,
+          "pressure_ratio": 0.67,
+          "predicted_change_pct": -2.3,
           "trend": "Falling",
           "tier_pressure_alert": null
         }
@@ -7222,14 +7132,14 @@
       "tier": "Tier A-",
       "subTier": "High",
       "rankInTier": 1,
-      "value": 1172,
-      "lcValue": 5.02,
+      "value": 1177,
+      "lcValue": 5.04,
       "demand": "Medium",
       "trend": "Falling",
       "category": "weapons",
       "image": "images/item_69.png",
       "wikiUrl": "https://grand-piece-online.fandom.com/wiki/Inferno_Rocket_Blade",
-      "demandScore": 4.1,
+      "demandScore": 4.0,
       "official_rank": 82,
       "demand_count": 9,
       "supply_count": 23,
@@ -7254,10 +7164,10 @@
           "tier_pressure_alert": null
         },
         "7d": {
-          "demand_count": 77,
-          "supply_count": 197,
-          "pressure_ratio": 0.39,
-          "predicted_change_pct": -4.3,
+          "demand_count": 71,
+          "supply_count": 173,
+          "pressure_ratio": 0.41,
+          "predicted_change_pct": -4.1,
           "trend": "Falling",
           "tier_pressure_alert": null
         }
@@ -7271,14 +7181,14 @@
       "tier": "Tier A-",
       "subTier": "High",
       "rankInTier": 2,
-      "value": 1104,
-      "lcValue": 4.73,
+      "value": 1100,
+      "lcValue": 4.71,
       "demand": "Medium",
       "trend": "Falling",
       "category": "weapons",
       "image": "images/item_70.png",
       "wikiUrl": "https://grand-piece-online.fandom.com/wiki/Firework_Lancer",
-      "demandScore": 4.1,
+      "demandScore": 4.0,
       "official_rank": 83,
       "demand_count": 11,
       "supply_count": 38,
@@ -7303,10 +7213,10 @@
           "tier_pressure_alert": null
         },
         "7d": {
-          "demand_count": 77,
-          "supply_count": 218,
-          "pressure_ratio": 0.36,
-          "predicted_change_pct": -4.5,
+          "demand_count": 72,
+          "supply_count": 198,
+          "pressure_ratio": 0.37,
+          "predicted_change_pct": -4.4,
           "trend": "Falling",
           "tier_pressure_alert": null
         }
@@ -7320,14 +7230,14 @@
       "tier": "Tier A-",
       "subTier": "High",
       "rankInTier": 3,
-      "value": 1054,
-      "lcValue": 4.52,
+      "value": 1058,
+      "lcValue": 4.53,
       "demand": "Medium",
       "trend": "Stable",
       "category": "accessories",
       "image": "images/item_71.png",
       "wikiUrl": "https://grand-piece-online.fandom.com/wiki/Head_of_Ba'al",
-      "demandScore": 4.1,
+      "demandScore": 4.0,
       "official_rank": 84,
       "demand_count": 17,
       "supply_count": 19,
@@ -7352,10 +7262,10 @@
           "tier_pressure_alert": null
         },
         "7d": {
-          "demand_count": 77,
-          "supply_count": 114,
-          "pressure_ratio": 0.68,
-          "predicted_change_pct": -2.2,
+          "demand_count": 65,
+          "supply_count": 102,
+          "pressure_ratio": 0.64,
+          "predicted_change_pct": -2.5,
           "trend": "Falling",
           "tier_pressure_alert": null
         }
@@ -7369,8 +7279,8 @@
       "tier": "Tier A-",
       "subTier": "Mid",
       "rankInTier": 4,
-      "value": 872,
-      "lcValue": 3.74,
+      "value": 869,
+      "lcValue": 3.72,
       "demand": "High",
       "trend": "Falling",
       "category": "fruits",
@@ -7401,10 +7311,10 @@
           "tier_pressure_alert": null
         },
         "7d": {
-          "demand_count": 1044,
-          "supply_count": 1674,
-          "pressure_ratio": 0.62,
-          "predicted_change_pct": -2.7,
+          "demand_count": 971,
+          "supply_count": 1508,
+          "pressure_ratio": 0.64,
+          "predicted_change_pct": -2.5,
           "trend": "Falling",
           "tier_pressure_alert": null
         }
@@ -7418,8 +7328,8 @@
       "tier": "Tier A-",
       "subTier": "Mid",
       "rankInTier": 5,
-      "value": 835,
-      "lcValue": 3.58,
+      "value": 832,
+      "lcValue": 3.57,
       "demand": "High",
       "trend": "Falling",
       "category": "fruits",
@@ -7450,10 +7360,10 @@
           "tier_pressure_alert": null
         },
         "7d": {
-          "demand_count": 1171,
-          "supply_count": 1563,
-          "pressure_ratio": 0.75,
-          "predicted_change_pct": -1.8,
+          "demand_count": 1094,
+          "supply_count": 1419,
+          "pressure_ratio": 0.77,
+          "predicted_change_pct": -1.6,
           "trend": "Falling",
           "tier_pressure_alert": null
         }
@@ -7467,8 +7377,8 @@
       "tier": "Tier A-",
       "subTier": "Mid",
       "rankInTier": 6,
-      "value": 797,
-      "lcValue": 3.42,
+      "value": 794,
+      "lcValue": 3.4,
       "demand": "Extremely High",
       "trend": "Stable",
       "category": "misc",
@@ -7499,10 +7409,10 @@
           "tier_pressure_alert": null
         },
         "7d": {
-          "demand_count": 114119,
-          "supply_count": 142780,
-          "pressure_ratio": 0.8,
-          "predicted_change_pct": -1.4,
+          "demand_count": 109406,
+          "supply_count": 126806,
+          "pressure_ratio": 0.86,
+          "predicted_change_pct": -1.0,
           "trend": "Stable",
           "tier_pressure_alert": null
         }
@@ -7516,8 +7426,8 @@
       "tier": "Tier A-",
       "subTier": "Mid",
       "rankInTier": 7,
-      "value": 760,
-      "lcValue": 3.26,
+      "value": 757,
+      "lcValue": 3.24,
       "demand": "Medium",
       "trend": "Falling",
       "category": "weapons",
@@ -7548,8 +7458,8 @@
           "tier_pressure_alert": null
         },
         "7d": {
-          "demand_count": 402,
-          "supply_count": 758,
+          "demand_count": 365,
+          "supply_count": 691,
           "pressure_ratio": 0.53,
           "predicted_change_pct": -3.3,
           "trend": "Falling",
@@ -7565,14 +7475,14 @@
       "tier": "Tier A-",
       "subTier": "Mid",
       "rankInTier": 8,
-      "value": 722,
-      "lcValue": 3.09,
+      "value": 719,
+      "lcValue": 3.08,
       "demand": "Medium",
       "trend": "Falling",
       "category": "fruits",
       "image": "images/item_75.png",
       "wikiUrl": "https://grand-piece-online.fandom.com/wiki/Devil_Fruits",
-      "demandScore": 5.2,
+      "demandScore": 5.1,
       "official_rank": 89,
       "demand_count": 30,
       "supply_count": 319,
@@ -7597,8 +7507,8 @@
           "tier_pressure_alert": null
         },
         "7d": {
-          "demand_count": 300,
-          "supply_count": 2319,
+          "demand_count": 280,
+          "supply_count": 2106,
           "pressure_ratio": 0.13,
           "predicted_change_pct": -6.1,
           "trend": "Falling",
@@ -7614,8 +7524,8 @@
       "tier": "Tier A-",
       "subTier": "Mid",
       "rankInTier": 9,
-      "value": 691,
-      "lcValue": 2.96,
+      "value": 694,
+      "lcValue": 2.97,
       "demand": "Medium",
       "trend": "Falling",
       "category": "outfits",
@@ -7646,8 +7556,8 @@
           "tier_pressure_alert": null
         },
         "7d": {
-          "demand_count": 71,
-          "supply_count": 252,
+          "demand_count": 65,
+          "supply_count": 233,
           "pressure_ratio": 0.28,
           "predicted_change_pct": -5.0,
           "trend": "Falling",
@@ -7663,8 +7573,8 @@
       "tier": "Tier A-",
       "subTier": "Low",
       "rankInTier": 10,
-      "value": 647,
-      "lcValue": 2.77,
+      "value": 644,
+      "lcValue": 2.76,
       "demand": "Medium",
       "trend": "Falling",
       "category": "accessories",
@@ -7695,10 +7605,10 @@
           "tier_pressure_alert": null
         },
         "7d": {
-          "demand_count": 149,
-          "supply_count": 233,
-          "pressure_ratio": 0.64,
-          "predicted_change_pct": -2.5,
+          "demand_count": 142,
+          "supply_count": 216,
+          "pressure_ratio": 0.66,
+          "predicted_change_pct": -2.4,
           "trend": "Falling",
           "tier_pressure_alert": null
         }
@@ -7744,10 +7654,10 @@
           "tier_pressure_alert": null
         },
         "7d": {
-          "demand_count": 15,
-          "supply_count": 51,
-          "pressure_ratio": 0.31,
-          "predicted_change_pct": -4.8,
+          "demand_count": 14,
+          "supply_count": 45,
+          "pressure_ratio": 0.33,
+          "predicted_change_pct": -4.7,
           "trend": "Falling",
           "tier_pressure_alert": null
         }
@@ -7761,14 +7671,14 @@
       "tier": "Tier A-",
       "subTier": "Low",
       "rankInTier": 12,
-      "value": 622,
+      "value": 624,
       "lcValue": 2.67,
       "demand": "Low",
       "trend": "Rising",
       "category": "weapons",
       "image": "images/item_81.png",
       "wikiUrl": "https://grand-piece-online.fandom.com/wiki/Festival_Shield",
-      "demandScore": 3.4,
+      "demandScore": 3.2,
       "official_rank": 93,
       "demand_count": 1,
       "supply_count": 0,
@@ -7802,9 +7712,9 @@
           }
         },
         "7d": {
-          "demand_count": 15,
+          "demand_count": 12,
           "supply_count": 2,
-          "pressure_ratio": 5.33,
+          "pressure_ratio": 4.33,
           "predicted_change_pct": 12.0,
           "trend": "Rising",
           "tier_pressure_alert": {
@@ -7822,7 +7732,7 @@
       "tier": "Tier A-",
       "subTier": "Low",
       "rankInTier": 13,
-      "value": 603,
+      "value": 601,
       "lcValue": 2.58,
       "demand": "Medium",
       "trend": "Falling",
@@ -7854,10 +7764,10 @@
           "tier_pressure_alert": null
         },
         "7d": {
-          "demand_count": 200,
-          "supply_count": 146,
-          "pressure_ratio": 1.37,
-          "predicted_change_pct": 2.6,
+          "demand_count": 182,
+          "supply_count": 128,
+          "pressure_ratio": 1.42,
+          "predicted_change_pct": 2.9,
           "trend": "Rising",
           "tier_pressure_alert": null
         }
@@ -7871,14 +7781,14 @@
       "tier": "Tier A-",
       "subTier": "Low",
       "rankInTier": 14,
-      "value": 592,
-      "lcValue": 2.54,
+      "value": 594,
+      "lcValue": 2.55,
       "demand": "Medium",
       "trend": "Rising",
       "category": "accessories",
       "image": "images/item_210.png",
       "wikiUrl": "https://grand-piece-online.fandom.com/wiki/Coffin_Boat",
-      "demandScore": 4.6,
+      "demandScore": 4.5,
       "official_rank": 95,
       "demand_count": 17,
       "supply_count": 13,
@@ -7906,10 +7816,10 @@
           }
         },
         "7d": {
-          "demand_count": 116,
-          "supply_count": 87,
-          "pressure_ratio": 1.33,
-          "predicted_change_pct": 2.3,
+          "demand_count": 104,
+          "supply_count": 79,
+          "pressure_ratio": 1.31,
+          "predicted_change_pct": 2.2,
           "trend": "Rising",
           "tier_pressure_alert": {
             "en": "High chance of tier promotion (trading on par with Elo’s Sledgehammer)",
@@ -7926,14 +7836,14 @@
       "tier": "Tier A-",
       "subTier": "Low",
       "rankInTier": 15,
-      "value": 577,
-      "lcValue": 2.47,
+      "value": 579,
+      "lcValue": 2.48,
       "demand": "Low",
       "trend": "Falling",
       "category": "accessories",
       "image": "images/item_83.png",
       "wikiUrl": "https://grand-piece-online.fandom.com/wiki/Devil_Fruits",
-      "demandScore": 3.3,
+      "demandScore": 3.2,
       "official_rank": 96,
       "demand_count": 2,
       "supply_count": 14,
@@ -7958,8 +7868,8 @@
           "tier_pressure_alert": null
         },
         "7d": {
-          "demand_count": 29,
-          "supply_count": 84,
+          "demand_count": 26,
+          "supply_count": 76,
           "pressure_ratio": 0.35,
           "predicted_change_pct": -4.5,
           "trend": "Falling",
@@ -7982,7 +7892,7 @@
       "category": "fruits",
       "image": "images/item_84.png",
       "wikiUrl": "https://grand-piece-online.fandom.com/wiki/Devil_Fruits",
-      "demandScore": 6.4,
+      "demandScore": 6.3,
       "official_rank": 97,
       "demand_count": 157,
       "supply_count": 122,
@@ -8007,10 +7917,10 @@
           "tier_pressure_alert": null
         },
         "7d": {
-          "demand_count": 1206,
-          "supply_count": 1079,
-          "pressure_ratio": 1.12,
-          "predicted_change_pct": 0.8,
+          "demand_count": 1117,
+          "supply_count": 990,
+          "pressure_ratio": 1.13,
+          "predicted_change_pct": 0.9,
           "trend": "Stable",
           "tier_pressure_alert": null
         }
@@ -8024,14 +7934,14 @@
       "tier": "Tier A-",
       "subTier": "Low",
       "rankInTier": 17,
-      "value": 543,
-      "lcValue": 2.33,
+      "value": 541,
+      "lcValue": 2.32,
       "demand": "Medium",
       "trend": "Falling",
       "category": "accessories",
       "image": "images/item_85.png",
       "wikiUrl": "https://grand-piece-online.fandom.com/wiki/Devil_Fruits",
-      "demandScore": 4.2,
+      "demandScore": 4.1,
       "official_rank": 98,
       "demand_count": 12,
       "supply_count": 41,
@@ -8056,10 +7966,10 @@
           "tier_pressure_alert": null
         },
         "7d": {
-          "demand_count": 89,
-          "supply_count": 305,
-          "pressure_ratio": 0.29,
-          "predicted_change_pct": -5.0,
+          "demand_count": 82,
+          "supply_count": 273,
+          "pressure_ratio": 0.3,
+          "predicted_change_pct": -4.9,
           "trend": "Falling",
           "tier_pressure_alert": null
         }
@@ -8073,14 +7983,14 @@
       "tier": "Tier A-",
       "subTier": "Low",
       "rankInTier": 18,
-      "value": 532,
-      "lcValue": 2.28,
+      "value": 534,
+      "lcValue": 2.29,
       "demand": "Medium",
       "trend": "Falling",
       "category": "weapons",
       "image": "images/item_205.png",
       "wikiUrl": "https://grand-piece-online.fandom.com/wiki/Festival_Lancer",
-      "demandScore": 3.9,
+      "demandScore": 3.7,
       "official_rank": 99,
       "demand_count": 3,
       "supply_count": 19,
@@ -8105,10 +8015,10 @@
           "tier_pressure_alert": null
         },
         "7d": {
-          "demand_count": 63,
-          "supply_count": 167,
-          "pressure_ratio": 0.38,
-          "predicted_change_pct": -4.3,
+          "demand_count": 50,
+          "supply_count": 157,
+          "pressure_ratio": 0.32,
+          "predicted_change_pct": -4.8,
           "trend": "Falling",
           "tier_pressure_alert": null
         }
@@ -8122,14 +8032,14 @@
       "tier": "Tier A-",
       "subTier": "Low",
       "rankInTier": 19,
-      "value": 515,
-      "lcValue": 2.21,
+      "value": 514,
+      "lcValue": 2.2,
       "demand": "High",
       "trend": "Falling",
       "category": "fruits",
       "image": "images/item_86.png",
       "wikiUrl": "https://grand-piece-online.fandom.com/wiki/Pika_Pika_no_Mi",
-      "demandScore": 6.8,
+      "demandScore": 6.7,
       "official_rank": 100,
       "demand_count": 272,
       "supply_count": 1178,
@@ -8154,8 +8064,8 @@
           "tier_pressure_alert": null
         },
         "7d": {
-          "demand_count": 2139,
-          "supply_count": 7275,
+          "demand_count": 1983,
+          "supply_count": 6781,
           "pressure_ratio": 0.29,
           "predicted_change_pct": -5.0,
           "trend": "Falling",
@@ -8171,7 +8081,7 @@
       "tier": "Tier A-",
       "subTier": "Low",
       "rankInTier": 20,
-      "value": 501,
+      "value": 502,
       "lcValue": 2.15,
       "demand": "Medium",
       "trend": "Rising",
@@ -8209,10 +8119,10 @@
           "tier_pressure_alert": null
         },
         "7d": {
-          "demand_count": 184,
-          "supply_count": 135,
-          "pressure_ratio": 1.36,
-          "predicted_change_pct": 2.5,
+          "demand_count": 165,
+          "supply_count": 120,
+          "pressure_ratio": 1.37,
+          "predicted_change_pct": 2.6,
           "trend": "Rising",
           "tier_pressure_alert": {
             "en": "High chance of tier promotion (trading on par with Pika)",
@@ -8229,14 +8139,14 @@
       "tier": "Tier A-",
       "subTier": "Low",
       "rankInTier": 21,
-      "value": 483,
-      "lcValue": 2.07,
+      "value": 481,
+      "lcValue": 2.06,
       "demand": "Low",
       "trend": "Falling",
       "category": "accessories",
       "image": "images/item_89.png",
       "wikiUrl": "https://grand-piece-online.fandom.com/wiki/Anniversary_Lantern",
-      "demandScore": 1.8,
+      "demandScore": 1.5,
       "official_rank": 102,
       "demand_count": 0,
       "supply_count": 4,
@@ -8261,10 +8171,10 @@
           "tier_pressure_alert": null
         },
         "7d": {
-          "demand_count": 5,
-          "supply_count": 24,
-          "pressure_ratio": 0.24,
-          "predicted_change_pct": -5.3,
+          "demand_count": 4,
+          "supply_count": 22,
+          "pressure_ratio": 0.22,
+          "predicted_change_pct": -5.5,
           "trend": "Falling",
           "tier_pressure_alert": null
         }
@@ -8278,8 +8188,8 @@
       "tier": "Tier A-",
       "subTier": "Low",
       "rankInTier": 22,
-      "value": 472,
-      "lcValue": 2.02,
+      "value": 474,
+      "lcValue": 2.03,
       "demand": "High",
       "trend": "Falling",
       "category": "fruits",
@@ -8310,10 +8220,10 @@
           "tier_pressure_alert": null
         },
         "7d": {
-          "demand_count": 563,
-          "supply_count": 1144,
-          "pressure_ratio": 0.49,
-          "predicted_change_pct": -3.6,
+          "demand_count": 523,
+          "supply_count": 1049,
+          "pressure_ratio": 0.5,
+          "predicted_change_pct": -3.5,
           "trend": "Falling",
           "tier_pressure_alert": null
         }
@@ -8409,9 +8319,9 @@
         },
         "7d": {
           "demand_count": 0,
-          "supply_count": 13,
-          "pressure_ratio": 0.07,
-          "predicted_change_pct": -6.5,
+          "supply_count": 10,
+          "pressure_ratio": 0.09,
+          "predicted_change_pct": -6.4,
           "trend": "Falling",
           "tier_pressure_alert": null
         }
@@ -8474,8 +8384,8 @@
       "tier": "Tier B+",
       "subTier": "High",
       "rankInTier": 1,
-      "value": 385,
-      "lcValue": 1.65,
+      "value": 387,
+      "lcValue": 1.66,
       "demand": "Low",
       "trend": "Falling",
       "category": "accessories",
@@ -8506,10 +8416,10 @@
           "tier_pressure_alert": null
         },
         "7d": {
-          "demand_count": 31,
-          "supply_count": 67,
-          "pressure_ratio": 0.47,
-          "predicted_change_pct": -3.7,
+          "demand_count": 30,
+          "supply_count": 60,
+          "pressure_ratio": 0.51,
+          "predicted_change_pct": -3.4,
           "trend": "Falling",
           "tier_pressure_alert": null
         }
@@ -8523,14 +8433,14 @@
       "tier": "Tier B+",
       "subTier": "High",
       "rankInTier": 2,
-      "value": 375,
+      "value": 376,
       "lcValue": 1.61,
       "demand": "Low",
       "trend": "Falling",
       "category": "outfits",
       "image": "images/item_110.png",
       "wikiUrl": "https://grand-piece-online.fandom.com/wiki/Firework_Dagger",
-      "demandScore": 2.1,
+      "demandScore": 1.8,
       "official_rank": 108,
       "demand_count": 0,
       "supply_count": 2,
@@ -8555,10 +8465,10 @@
           "tier_pressure_alert": null
         },
         "7d": {
-          "demand_count": 7,
-          "supply_count": 16,
-          "pressure_ratio": 0.47,
-          "predicted_change_pct": -3.7,
+          "demand_count": 5,
+          "supply_count": 11,
+          "pressure_ratio": 0.5,
+          "predicted_change_pct": -3.5,
           "trend": "Falling",
           "tier_pressure_alert": null
         }
@@ -8621,14 +8531,14 @@
       "tier": "Tier B+",
       "subTier": "High",
       "rankInTier": 4,
-      "value": 357,
+      "value": 358,
       "lcValue": 1.53,
       "demand": "Medium",
       "trend": "Rising",
       "category": "weapons",
       "image": "images/item_95.png",
       "wikiUrl": "https://grand-piece-online.fandom.com/wiki/Hollow's_Fang",
-      "demandScore": 4.1,
+      "demandScore": 4.0,
       "official_rank": 110,
       "demand_count": 13,
       "supply_count": 6,
@@ -8659,10 +8569,10 @@
           "tier_pressure_alert": null
         },
         "7d": {
-          "demand_count": 74,
-          "supply_count": 66,
-          "pressure_ratio": 1.12,
-          "predicted_change_pct": 0.8,
+          "demand_count": 64,
+          "supply_count": 59,
+          "pressure_ratio": 1.08,
+          "predicted_change_pct": 0.6,
           "trend": "Stable",
           "tier_pressure_alert": null
         }
@@ -8676,8 +8586,8 @@
       "tier": "Tier B+",
       "subTier": "High",
       "rankInTier": 5,
-      "value": 348,
-      "lcValue": 1.49,
+      "value": 349,
+      "lcValue": 1.5,
       "demand": "Low",
       "trend": "Falling",
       "category": "weapons",
@@ -8709,9 +8619,9 @@
         },
         "7d": {
           "demand_count": 16,
-          "supply_count": 72,
-          "pressure_ratio": 0.23,
-          "predicted_change_pct": -5.4,
+          "supply_count": 68,
+          "pressure_ratio": 0.25,
+          "predicted_change_pct": -5.2,
           "trend": "Falling",
           "tier_pressure_alert": null
         }
@@ -8725,14 +8635,14 @@
       "tier": "Tier B+",
       "subTier": "High",
       "rankInTier": 6,
-      "value": 339,
-      "lcValue": 1.45,
-      "demand": "Medium",
+      "value": 340,
+      "lcValue": 1.46,
+      "demand": "Low",
       "trend": "Stable",
       "category": "weapons",
       "image": "images/item_97.png",
       "wikiUrl": "https://grand-piece-online.fandom.com/wiki/Demon_Jester's_Scythe",
-      "demandScore": 3.5,
+      "demandScore": 3.4,
       "official_rank": 112,
       "demand_count": 6,
       "supply_count": 7,
@@ -8757,10 +8667,10 @@
           "tier_pressure_alert": null
         },
         "7d": {
-          "demand_count": 38,
-          "supply_count": 72,
-          "pressure_ratio": 0.53,
-          "predicted_change_pct": -3.3,
+          "demand_count": 33,
+          "supply_count": 61,
+          "pressure_ratio": 0.55,
+          "predicted_change_pct": -3.1,
           "trend": "Falling",
           "tier_pressure_alert": null
         }
@@ -8774,7 +8684,7 @@
       "tier": "Tier B+",
       "subTier": "High",
       "rankInTier": 7,
-      "value": 329,
+      "value": 330,
       "lcValue": 1.41,
       "demand": "Low",
       "trend": "Falling",
@@ -8806,10 +8716,10 @@
           "tier_pressure_alert": null
         },
         "7d": {
-          "demand_count": 24,
-          "supply_count": 27,
-          "pressure_ratio": 0.89,
-          "predicted_change_pct": -0.8,
+          "demand_count": 21,
+          "supply_count": 20,
+          "pressure_ratio": 1.05,
+          "predicted_change_pct": 0.4,
           "trend": "Stable",
           "tier_pressure_alert": null
         }
@@ -8823,14 +8733,14 @@
       "tier": "Tier B+",
       "subTier": "High",
       "rankInTier": 8,
-      "value": 320,
-      "lcValue": 1.37,
+      "value": 321,
+      "lcValue": 1.38,
       "demand": "Medium",
       "trend": "Falling",
       "category": "accessories",
       "image": "images/item_99.png",
       "wikiUrl": "https://grand-piece-online.fandom.com/wiki/True_Ba'al's_Guard",
-      "demandScore": 3.8,
+      "demandScore": 3.7,
       "official_rank": 114,
       "demand_count": 7,
       "supply_count": 19,
@@ -8855,10 +8765,10 @@
           "tier_pressure_alert": null
         },
         "7d": {
-          "demand_count": 54,
-          "supply_count": 191,
-          "pressure_ratio": 0.29,
-          "predicted_change_pct": -5.0,
+          "demand_count": 47,
+          "supply_count": 174,
+          "pressure_ratio": 0.27,
+          "predicted_change_pct": -5.1,
           "trend": "Falling",
           "tier_pressure_alert": null
         }
@@ -8872,8 +8782,8 @@
       "tier": "Tier B+",
       "subTier": "High",
       "rankInTier": 9,
-      "value": 311,
-      "lcValue": 1.33,
+      "value": 312,
+      "lcValue": 1.34,
       "demand": "Medium",
       "trend": "Falling",
       "category": "accessories",
@@ -8904,10 +8814,10 @@
           "tier_pressure_alert": null
         },
         "7d": {
-          "demand_count": 133,
-          "supply_count": 793,
-          "pressure_ratio": 0.17,
-          "predicted_change_pct": -5.8,
+          "demand_count": 121,
+          "supply_count": 627,
+          "pressure_ratio": 0.19,
+          "predicted_change_pct": -5.7,
           "trend": "Falling",
           "tier_pressure_alert": null
         }
@@ -8921,14 +8831,14 @@
       "tier": "Tier B+",
       "subTier": "High",
       "rankInTier": 10,
-      "value": 300,
-      "lcValue": 1.29,
+      "value": 299,
+      "lcValue": 1.28,
       "demand": "Medium",
       "trend": "Rising",
       "category": "accessories",
       "image": "images/item_101.png",
       "wikiUrl": "https://grand-piece-online.fandom.com/wiki/Ope_Ope_no_Mi",
-      "demandScore": 5.3,
+      "demandScore": 5.2,
       "official_rank": 116,
       "demand_count": 44,
       "supply_count": 20,
@@ -8953,10 +8863,10 @@
           "tier_pressure_alert": null
         },
         "7d": {
-          "demand_count": 290,
-          "supply_count": 229,
-          "pressure_ratio": 1.27,
-          "predicted_change_pct": 1.9,
+          "demand_count": 269,
+          "supply_count": 208,
+          "pressure_ratio": 1.29,
+          "predicted_change_pct": 2.0,
           "trend": "Rising",
           "tier_pressure_alert": null
         }
@@ -8970,7 +8880,7 @@
       "tier": "Tier B+",
       "subTier": "High",
       "rankInTier": 11,
-      "value": 293,
+      "value": 294,
       "lcValue": 1.26,
       "demand": "Medium",
       "trend": "Falling",
@@ -9002,10 +8912,10 @@
           "tier_pressure_alert": null
         },
         "7d": {
-          "demand_count": 167,
-          "supply_count": 1022,
-          "pressure_ratio": 0.16,
-          "predicted_change_pct": -5.9,
+          "demand_count": 153,
+          "supply_count": 925,
+          "pressure_ratio": 0.17,
+          "predicted_change_pct": -5.8,
           "trend": "Falling",
           "tier_pressure_alert": null
         }
@@ -9019,14 +8929,14 @@
       "tier": "Tier B+",
       "subTier": "High",
       "rankInTier": 12,
-      "value": 284,
+      "value": 285,
       "lcValue": 1.22,
       "demand": "Medium",
       "trend": "Falling",
       "category": "boats",
       "image": "images/item_211.png",
       "wikiUrl": "https://grand-piece-online.fandom.com/wiki/Coffin_Boat",
-      "demandScore": 4.3,
+      "demandScore": 4.2,
       "official_rank": 118,
       "demand_count": 12,
       "supply_count": 39,
@@ -9051,10 +8961,10 @@
           "tier_pressure_alert": null
         },
         "7d": {
-          "demand_count": 104,
-          "supply_count": 229,
-          "pressure_ratio": 0.46,
-          "predicted_change_pct": -3.8,
+          "demand_count": 87,
+          "supply_count": 212,
+          "pressure_ratio": 0.41,
+          "predicted_change_pct": -4.1,
           "trend": "Falling",
           "tier_pressure_alert": null
         }
@@ -9068,14 +8978,14 @@
       "tier": "Tier B+",
       "subTier": "High",
       "rankInTier": 13,
-      "value": 272,
-      "lcValue": 1.17,
-      "demand": "Medium",
+      "value": 271,
+      "lcValue": 1.16,
+      "demand": "Low",
       "trend": "Falling",
       "category": "boats",
       "image": "images/item_212.png",
       "wikiUrl": "https://grand-piece-online.fandom.com/wiki/Striker",
-      "demandScore": 3.5,
+      "demandScore": 3.3,
       "official_rank": 119,
       "demand_count": 2,
       "supply_count": 29,
@@ -9100,10 +9010,10 @@
           "tier_pressure_alert": null
         },
         "7d": {
-          "demand_count": 39,
-          "supply_count": 172,
-          "pressure_ratio": 0.23,
-          "predicted_change_pct": -5.4,
+          "demand_count": 28,
+          "supply_count": 155,
+          "pressure_ratio": 0.19,
+          "predicted_change_pct": -5.7,
           "trend": "Falling",
           "tier_pressure_alert": null
         }
@@ -9117,14 +9027,14 @@
       "tier": "Tier B+",
       "subTier": "High",
       "rankInTier": 14,
-      "value": 263,
-      "lcValue": 1.13,
+      "value": 262,
+      "lcValue": 1.12,
       "demand": "Low",
       "trend": "Falling",
       "category": "boats",
       "image": "images/item_213.png",
       "wikiUrl": "https://grand-piece-online.fandom.com/wiki/Hoverboard",
-      "demandScore": 3.2,
+      "demandScore": 2.9,
       "official_rank": 120,
       "demand_count": 1,
       "supply_count": 39,
@@ -9149,10 +9059,10 @@
           "tier_pressure_alert": null
         },
         "7d": {
-          "demand_count": 27,
-          "supply_count": 301,
-          "pressure_ratio": 0.09,
-          "predicted_change_pct": -6.4,
+          "demand_count": 18,
+          "supply_count": 259,
+          "pressure_ratio": 0.07,
+          "predicted_change_pct": -6.5,
           "trend": "Falling",
           "tier_pressure_alert": null
         }
@@ -9166,8 +9076,8 @@
       "tier": "Tier B+",
       "subTier": "High",
       "rankInTier": 15,
-      "value": 254,
-      "lcValue": 1.09,
+      "value": 253,
+      "lcValue": 1.08,
       "demand": "Very High",
       "trend": "Falling",
       "category": "chests",
@@ -9198,9 +9108,9 @@
           "tier_pressure_alert": null
         },
         "7d": {
-          "demand_count": 7845,
-          "supply_count": 20150,
-          "pressure_ratio": 0.39,
+          "demand_count": 7075,
+          "supply_count": 18557,
+          "pressure_ratio": 0.38,
           "predicted_change_pct": -4.3,
           "trend": "Falling",
           "tier_pressure_alert": null
@@ -9264,14 +9174,14 @@
       "tier": "Tier B+",
       "subTier": "High",
       "rankInTier": 17,
-      "value": 238,
+      "value": 239,
       "lcValue": 1.02,
       "demand": "Medium",
       "trend": "Falling",
       "category": "weapons",
       "image": "images/item_103.png",
       "wikiUrl": "https://grand-piece-online.fandom.com/wiki/Traveling_Merchant",
-      "demandScore": 3.8,
+      "demandScore": 3.7,
       "official_rank": 123,
       "demand_count": 5,
       "supply_count": 27,
@@ -9296,10 +9206,10 @@
           "tier_pressure_alert": null
         },
         "7d": {
-          "demand_count": 52,
-          "supply_count": 142,
-          "pressure_ratio": 0.37,
-          "predicted_change_pct": -4.4,
+          "demand_count": 49,
+          "supply_count": 129,
+          "pressure_ratio": 0.38,
+          "predicted_change_pct": -4.3,
           "trend": "Falling",
           "tier_pressure_alert": null
         }
@@ -9320,16 +9230,13 @@
       "category": "accessories",
       "image": "images/item_104.png",
       "wikiUrl": "https://grand-piece-online.fandom.com/wiki/Dragon_Emperor%27s_Cape",
-      "demandScore": 5.3,
+      "demandScore": 5.2,
       "official_rank": 124,
       "demand_count": 31,
       "supply_count": 9,
       "pressure_ratio": 3.2,
       "predicted_change_pct": 8.8,
-      "tier_pressure_alert": {
-        "en": "High chance of tier promotion (trading on par with Cupid’s Chakram)",
-        "ru": "Высокий шанс повышения (торгуется на уровне Чакрам Купидона)"
-      },
+      "tier_pressure_alert": null,
       "timeframes": {
         "1h": {
           "demand_count": 31,
@@ -9337,10 +9244,7 @@
           "pressure_ratio": 3.2,
           "predicted_change_pct": 8.8,
           "trend": "Rising",
-          "tier_pressure_alert": {
-            "en": "High chance of tier promotion (trading on par with Cupid’s Chakram)",
-            "ru": "Высокий шанс повышения (торгуется на уровне Чакрам Купидона)"
-          }
+          "tier_pressure_alert": null
         },
         "24h": {
           "demand_count": 80,
@@ -9348,21 +9252,15 @@
           "pressure_ratio": 2.79,
           "predicted_change_pct": 9.8,
           "trend": "Rising",
-          "tier_pressure_alert": {
-            "en": "High chance of tier promotion (trading on par with Cupid’s Chakram)",
-            "ru": "Высокий шанс повышения (торгуется на уровне Чакрам Купидона)"
-          }
+          "tier_pressure_alert": null
         },
         "7d": {
-          "demand_count": 224,
-          "supply_count": 87,
-          "pressure_ratio": 2.56,
-          "predicted_change_pct": 10.9,
+          "demand_count": 207,
+          "supply_count": 79,
+          "pressure_ratio": 2.6,
+          "predicted_change_pct": 11.2,
           "trend": "Rising",
-          "tier_pressure_alert": {
-            "en": "High chance of tier promotion (trading on par with Cupid’s Chakram)",
-            "ru": "Высокий шанс повышения (торгуется на уровне Чакрам Купидона)"
-          }
+          "tier_pressure_alert": null
         }
       }
     },
@@ -9374,14 +9272,14 @@
       "tier": "Tier B+",
       "subTier": "High",
       "rankInTier": 19,
-      "value": 219,
+      "value": 220,
       "lcValue": 0.94,
       "demand": "Medium",
       "trend": "Rising",
       "category": "accessories",
       "image": "images/item_105.png",
       "wikiUrl": "https://grand-piece-online.fandom.com/wiki/Ace",
-      "demandScore": 4.0,
+      "demandScore": 3.8,
       "official_rank": 125,
       "demand_count": 8,
       "supply_count": 3,
@@ -9412,10 +9310,10 @@
           "tier_pressure_alert": null
         },
         "7d": {
-          "demand_count": 68,
-          "supply_count": 101,
-          "pressure_ratio": 0.68,
-          "predicted_change_pct": -2.2,
+          "demand_count": 51,
+          "supply_count": 96,
+          "pressure_ratio": 0.54,
+          "predicted_change_pct": -3.2,
           "trend": "Falling",
           "tier_pressure_alert": null
         }
@@ -9429,7 +9327,7 @@
       "tier": "Tier B+",
       "subTier": "High",
       "rankInTier": 20,
-      "value": 210,
+      "value": 211,
       "lcValue": 0.9,
       "demand": "Medium",
       "trend": "Falling",
@@ -9461,8 +9359,8 @@
           "tier_pressure_alert": null
         },
         "7d": {
-          "demand_count": 153,
-          "supply_count": 1597,
+          "demand_count": 144,
+          "supply_count": 1437,
           "pressure_ratio": 0.1,
           "predicted_change_pct": -6.3,
           "trend": "Falling",
@@ -9478,14 +9376,14 @@
       "tier": "Tier B+",
       "subTier": "High",
       "rankInTier": 21,
-      "value": 200,
-      "lcValue": 0.86,
+      "value": 199,
+      "lcValue": 0.85,
       "demand": "Medium",
       "trend": "Falling",
       "category": "fruits",
       "image": "images/item_100.png",
       "wikiUrl": "https://grand-piece-online.fandom.com/wiki/Ope_Ope_no_Mi",
-      "demandScore": 4.8,
+      "demandScore": 4.7,
       "official_rank": 127,
       "demand_count": 26,
       "supply_count": 227,
@@ -9510,8 +9408,8 @@
           "tier_pressure_alert": null
         },
         "7d": {
-          "demand_count": 178,
-          "supply_count": 1660,
+          "demand_count": 165,
+          "supply_count": 1514,
           "pressure_ratio": 0.11,
           "predicted_change_pct": -6.2,
           "trend": "Falling",
@@ -9527,14 +9425,14 @@
       "tier": "Tier B+",
       "subTier": "High",
       "rankInTier": 22,
-      "value": 192,
-      "lcValue": 0.82,
+      "value": 193,
+      "lcValue": 0.83,
       "demand": "Low",
       "trend": "Falling",
       "category": "outfits",
       "image": "images/item_108.png",
       "wikiUrl": "https://grand-piece-online.fandom.com/wiki/Devil_Fruits",
-      "demandScore": 3.4,
+      "demandScore": 3.3,
       "official_rank": 128,
       "demand_count": 3,
       "supply_count": 21,
@@ -9559,10 +9457,10 @@
           "tier_pressure_alert": null
         },
         "7d": {
-          "demand_count": 35,
-          "supply_count": 202,
-          "pressure_ratio": 0.18,
-          "predicted_change_pct": -5.7,
+          "demand_count": 30,
+          "supply_count": 182,
+          "pressure_ratio": 0.17,
+          "predicted_change_pct": -5.8,
           "trend": "Falling",
           "tier_pressure_alert": null
         }
@@ -9674,7 +9572,7 @@
       "tier": "Tier B+",
       "subTier": "Mid",
       "rankInTier": 25,
-      "value": 162,
+      "value": 161,
       "lcValue": 0.69,
       "demand": "Low",
       "trend": "Falling",
@@ -9706,8 +9604,8 @@
           "tier_pressure_alert": null
         },
         "7d": {
-          "demand_count": 14,
-          "supply_count": 213,
+          "demand_count": 13,
+          "supply_count": 188,
           "pressure_ratio": 0.07,
           "predicted_change_pct": -6.5,
           "trend": "Falling",
@@ -9723,14 +9621,14 @@
       "tier": "Tier B+",
       "subTier": "Mid",
       "rankInTier": 26,
-      "value": 157,
+      "value": 156,
       "lcValue": 0.67,
       "demand": "Low",
       "trend": "Stable",
       "category": "weapons",
       "image": "images/item_113.png",
       "wikiUrl": "https://grand-piece-online.fandom.com/wiki/Mochi_Trident",
-      "demandScore": 3.0,
+      "demandScore": 2.9,
       "official_rank": 132,
       "demand_count": 5,
       "supply_count": 4,
@@ -9755,10 +9653,10 @@
           "tier_pressure_alert": null
         },
         "7d": {
-          "demand_count": 20,
-          "supply_count": 25,
-          "pressure_ratio": 0.81,
-          "predicted_change_pct": -1.3,
+          "demand_count": 18,
+          "supply_count": 22,
+          "pressure_ratio": 0.83,
+          "predicted_change_pct": -1.2,
           "trend": "Stable",
           "tier_pressure_alert": null
         }
@@ -9772,14 +9670,14 @@
       "tier": "Tier B+",
       "subTier": "Mid",
       "rankInTier": 27,
-      "value": 152,
+      "value": 151,
       "lcValue": 0.65,
       "demand": "Medium",
       "trend": "Rising",
       "category": "accessories",
       "image": "images/item_114.png",
       "wikiUrl": "https://grand-piece-online.fandom.com/wiki/Jester's_Hat",
-      "demandScore": 5.0,
+      "demandScore": 4.9,
       "official_rank": 133,
       "demand_count": 16,
       "supply_count": 6,
@@ -9813,9 +9711,9 @@
           }
         },
         "7d": {
-          "demand_count": 151,
-          "supply_count": 47,
-          "pressure_ratio": 3.17,
+          "demand_count": 141,
+          "supply_count": 44,
+          "pressure_ratio": 3.16,
           "predicted_change_pct": 12.0,
           "trend": "Rising",
           "tier_pressure_alert": {
@@ -9833,7 +9731,7 @@
       "tier": "Tier B+",
       "subTier": "Mid",
       "rankInTier": 28,
-      "value": 147,
+      "value": 146,
       "lcValue": 0.63,
       "demand": "Very Low",
       "trend": "Stable",
@@ -9882,8 +9780,8 @@
       "tier": "Tier B+",
       "subTier": "Mid",
       "rankInTier": 29,
-      "value": 142,
-      "lcValue": 0.61,
+      "value": 141,
+      "lcValue": 0.6,
       "demand": "Very Low",
       "trend": "Stable",
       "category": "weapons",
@@ -9931,14 +9829,14 @@
       "tier": "Tier B+",
       "subTier": "Low",
       "rankInTier": 30,
-      "value": 137,
-      "lcValue": 0.59,
+      "value": 136,
+      "lcValue": 0.58,
       "demand": "Medium",
       "trend": "Falling",
       "category": "fruits",
       "image": "images/item_117.png",
       "wikiUrl": "https://grand-piece-online.fandom.com/wiki/Gura_Gura_no_Mi",
-      "demandScore": 4.3,
+      "demandScore": 4.2,
       "official_rank": 136,
       "demand_count": 13,
       "supply_count": 69,
@@ -9963,10 +9861,10 @@
           "tier_pressure_alert": null
         },
         "7d": {
-          "demand_count": 103,
-          "supply_count": 498,
-          "pressure_ratio": 0.21,
-          "predicted_change_pct": -5.5,
+          "demand_count": 88,
+          "supply_count": 467,
+          "pressure_ratio": 0.19,
+          "predicted_change_pct": -5.7,
           "trend": "Falling",
           "tier_pressure_alert": null
         }
@@ -9980,8 +9878,8 @@
       "tier": "Tier B+",
       "subTier": "Low",
       "rankInTier": 31,
-      "value": 132,
-      "lcValue": 0.57,
+      "value": 131,
+      "lcValue": 0.56,
       "demand": "Low",
       "trend": "Rising",
       "category": "accessories",
@@ -10038,7 +9936,7 @@
       "tier": "Tier B+",
       "subTier": "Low",
       "rankInTier": 32,
-      "value": 127,
+      "value": 126,
       "lcValue": 0.54,
       "demand": "Low",
       "trend": "Falling",
@@ -10087,7 +9985,7 @@
       "tier": "Tier B+",
       "subTier": "Low",
       "rankInTier": 33,
-      "value": 122,
+      "value": 121,
       "lcValue": 0.52,
       "demand": "Medium",
       "trend": "Rising",
@@ -10128,10 +10026,10 @@
           }
         },
         "7d": {
-          "demand_count": 151,
-          "supply_count": 63,
-          "pressure_ratio": 2.38,
-          "predicted_change_pct": 9.7,
+          "demand_count": 135,
+          "supply_count": 53,
+          "pressure_ratio": 2.52,
+          "predicted_change_pct": 10.6,
           "trend": "Rising",
           "tier_pressure_alert": {
             "en": "High chance of tier promotion (trading on par with Big Mama’s Cape)",
@@ -10148,14 +10046,14 @@
       "tier": "Tier B+",
       "subTier": "Low",
       "rankInTier": 34,
-      "value": 117,
+      "value": 116,
       "lcValue": 0.5,
-      "demand": "Medium",
+      "demand": "Low",
       "trend": "Falling",
       "category": "misc",
       "image": "images/item_121.png",
       "wikiUrl": "https://grand-piece-online.fandom.com/wiki/Magu_Magu_no_Mi",
-      "demandScore": 3.6,
+      "demandScore": 3.4,
       "official_rank": 140,
       "demand_count": 7,
       "supply_count": 27,
@@ -10180,10 +10078,10 @@
           "tier_pressure_alert": null
         },
         "7d": {
-          "demand_count": 42,
-          "supply_count": 176,
-          "pressure_ratio": 0.24,
-          "predicted_change_pct": -5.3,
+          "demand_count": 33,
+          "supply_count": 150,
+          "pressure_ratio": 0.23,
+          "predicted_change_pct": -5.4,
           "trend": "Falling",
           "tier_pressure_alert": null
         }
@@ -10197,14 +10095,14 @@
       "tier": "Tier B+",
       "subTier": "Low",
       "rankInTier": 35,
-      "value": 112,
+      "value": 111,
       "lcValue": 0.48,
       "demand": "Medium",
       "trend": "Falling",
       "category": "fruits",
       "image": "images/item_122.png",
       "wikiUrl": "https://grand-piece-online.fandom.com/wiki/Magu_Magu_no_Mi",
-      "demandScore": 5.0,
+      "demandScore": 4.9,
       "official_rank": 141,
       "demand_count": 35,
       "supply_count": 295,
@@ -10229,10 +10127,10 @@
           "tier_pressure_alert": null
         },
         "7d": {
-          "demand_count": 226,
-          "supply_count": 1715,
-          "pressure_ratio": 0.13,
-          "predicted_change_pct": -6.1,
+          "demand_count": 214,
+          "supply_count": 1474,
+          "pressure_ratio": 0.15,
+          "predicted_change_pct": -6.0,
           "trend": "Falling",
           "tier_pressure_alert": null
         }
@@ -10246,14 +10144,14 @@
       "tier": "Tier B+",
       "subTier": "Low",
       "rankInTier": 36,
-      "value": 107,
-      "lcValue": 0.46,
+      "value": 106,
+      "lcValue": 0.45,
       "demand": "Low",
       "trend": "Falling",
       "category": "misc",
       "image": "images/item_136.png",
       "wikiUrl": "https://grand-piece-online.fandom.com/wiki/Sea_Serpent's_Core",
-      "demandScore": 3.0,
+      "demandScore": 3.1,
       "official_rank": 142,
       "demand_count": 6,
       "supply_count": 34,
@@ -10279,9 +10177,9 @@
         },
         "7d": {
           "demand_count": 22,
-          "supply_count": 81,
-          "pressure_ratio": 0.28,
-          "predicted_change_pct": -5.0,
+          "supply_count": 73,
+          "pressure_ratio": 0.31,
+          "predicted_change_pct": -4.8,
           "trend": "Falling",
           "tier_pressure_alert": null
         }
@@ -10295,14 +10193,14 @@
       "tier": "Tier B+",
       "subTier": "Low",
       "rankInTier": 37,
-      "value": 102,
-      "lcValue": 0.44,
+      "value": 101,
+      "lcValue": 0.43,
       "demand": "Low",
       "trend": "Falling",
       "category": "fruits",
       "image": "images/item_123.png",
       "wikiUrl": "https://grand-piece-online.fandom.com/wiki/Magu_Magu_no_Mi",
-      "demandScore": 3.3,
+      "demandScore": 3.2,
       "official_rank": 143,
       "demand_count": 2,
       "supply_count": 87,
@@ -10327,8 +10225,8 @@
           "tier_pressure_alert": null
         },
         "7d": {
-          "demand_count": 30,
-          "supply_count": 639,
+          "demand_count": 26,
+          "supply_count": 586,
           "pressure_ratio": 0.05,
           "predicted_change_pct": -6.6,
           "trend": "Falling",
@@ -10344,14 +10242,14 @@
       "tier": "Tier B+",
       "subTier": "Low",
       "rankInTier": 38,
-      "value": 97.0,
-      "lcValue": 0.42,
+      "value": 96.4,
+      "lcValue": 0.41,
       "demand": "Low",
       "trend": "Rising",
       "category": "accessories",
       "image": "images/item_124.png",
       "wikiUrl": "https://grand-piece-online.fandom.com/wiki/Devil_Fruits",
-      "demandScore": 2.4,
+      "demandScore": 2.5,
       "official_rank": 144,
       "demand_count": 4,
       "supply_count": 3,
@@ -10393,14 +10291,14 @@
       "tier": "Tier B+",
       "subTier": "Low",
       "rankInTier": 39,
-      "value": 96.5,
+      "value": 95.9,
       "lcValue": 0.41,
       "demand": "Low",
       "trend": "Falling",
       "category": "outfits",
       "image": "images/item_125.png",
       "wikiUrl": "https://grand-piece-online.fandom.com/wiki/Roger's_Outfit",
-      "demandScore": 2.3,
+      "demandScore": 2.2,
       "official_rank": 145,
       "demand_count": 0,
       "supply_count": 7,
@@ -10425,8 +10323,8 @@
           "tier_pressure_alert": null
         },
         "7d": {
-          "demand_count": 9,
-          "supply_count": 59,
+          "demand_count": 8,
+          "supply_count": 52,
           "pressure_ratio": 0.17,
           "predicted_change_pct": -5.8,
           "trend": "Falling",
@@ -10442,7 +10340,7 @@
       "tier": "Tier B+",
       "subTier": "Low",
       "rankInTier": 40,
-      "value": 96.0,
+      "value": 95.4,
       "lcValue": 0.41,
       "demand": "Low",
       "trend": "Falling",
@@ -10474,10 +10372,10 @@
           "tier_pressure_alert": null
         },
         "7d": {
-          "demand_count": 21,
-          "supply_count": 23,
-          "pressure_ratio": 0.92,
-          "predicted_change_pct": -0.6,
+          "demand_count": 19,
+          "supply_count": 19,
+          "pressure_ratio": 1.0,
+          "predicted_change_pct": 0.0,
           "trend": "Stable",
           "tier_pressure_alert": null
         }
@@ -10491,14 +10389,14 @@
       "tier": "Tier B+",
       "subTier": "Low",
       "rankInTier": 41,
-      "value": 95.5,
+      "value": 94.9,
       "lcValue": 0.41,
       "demand": "Medium",
       "trend": "Falling",
       "category": "fruits",
       "image": "images/item_127.png",
       "wikiUrl": "https://grand-piece-online.fandom.com/wiki/Mera_Mera_no_Mi",
-      "demandScore": 4.2,
+      "demandScore": 4.1,
       "official_rank": 147,
       "demand_count": 15,
       "supply_count": 87,
@@ -10523,8 +10421,8 @@
           "tier_pressure_alert": null
         },
         "7d": {
-          "demand_count": 88,
-          "supply_count": 644,
+          "demand_count": 82,
+          "supply_count": 613,
           "pressure_ratio": 0.14,
           "predicted_change_pct": -6.0,
           "trend": "Falling",
@@ -10540,14 +10438,14 @@
       "tier": "Tier B+",
       "subTier": "Low",
       "rankInTier": 42,
-      "value": 95.0,
-      "lcValue": 0.41,
+      "value": 94.4,
+      "lcValue": 0.4,
       "demand": "Medium",
       "trend": "Falling",
       "category": "fruits",
       "image": "images/item_128.png",
       "wikiUrl": "https://grand-piece-online.fandom.com/wiki/Devil_Fruits",
-      "demandScore": 4.8,
+      "demandScore": 4.7,
       "official_rank": 148,
       "demand_count": 21,
       "supply_count": 33,
@@ -10572,10 +10470,10 @@
           "tier_pressure_alert": null
         },
         "7d": {
-          "demand_count": 177,
-          "supply_count": 254,
-          "pressure_ratio": 0.7,
-          "predicted_change_pct": -2.1,
+          "demand_count": 163,
+          "supply_count": 228,
+          "pressure_ratio": 0.72,
+          "predicted_change_pct": -2.0,
           "trend": "Falling",
           "tier_pressure_alert": null
         }
@@ -10589,7 +10487,7 @@
       "tier": "Tier B+",
       "subTier": "Low",
       "rankInTier": 43,
-      "value": 94.0,
+      "value": 93.9,
       "lcValue": 0.4,
       "demand": "Very Low",
       "trend": "Stable",
@@ -10687,7 +10585,7 @@
       "tier": "Tier B+",
       "subTier": "Low",
       "rankInTier": 45,
-      "value": 87.9,
+      "value": 87.8,
       "lcValue": 0.38,
       "demand": "Very Low",
       "trend": "Falling",
@@ -10720,9 +10618,9 @@
         },
         "7d": {
           "demand_count": 0,
-          "supply_count": 9,
-          "pressure_ratio": 0.1,
-          "predicted_change_pct": -6.3,
+          "supply_count": 8,
+          "pressure_ratio": 0.11,
+          "predicted_change_pct": -6.2,
           "trend": "Falling",
           "tier_pressure_alert": null
         }
@@ -10785,14 +10683,14 @@
       "tier": "Tier B+",
       "subTier": "Low",
       "rankInTier": 47,
-      "value": 81.3,
+      "value": 81.6,
       "lcValue": 0.35,
       "demand": "Medium",
       "trend": "Falling",
       "category": "fruits",
       "image": "images/item_134.png",
       "wikiUrl": "https://grand-piece-online.fandom.com/wiki/Goro_Goro_no_Mi",
-      "demandScore": 4.6,
+      "demandScore": 4.5,
       "official_rank": 153,
       "demand_count": 21,
       "supply_count": 68,
@@ -10817,10 +10715,10 @@
           "tier_pressure_alert": null
         },
         "7d": {
-          "demand_count": 143,
-          "supply_count": 430,
-          "pressure_ratio": 0.33,
-          "predicted_change_pct": -4.7,
+          "demand_count": 131,
+          "supply_count": 409,
+          "pressure_ratio": 0.32,
+          "predicted_change_pct": -4.8,
           "trend": "Falling",
           "tier_pressure_alert": null
         }
@@ -10834,7 +10732,7 @@
       "tier": "Tier B+",
       "subTier": "Low",
       "rankInTier": 48,
-      "value": 78.3,
+      "value": 78.6,
       "lcValue": 0.34,
       "demand": "Medium",
       "trend": "Falling",
@@ -10867,9 +10765,9 @@
         },
         "7d": {
           "demand_count": 68,
-          "supply_count": 426,
-          "pressure_ratio": 0.16,
-          "predicted_change_pct": -5.9,
+          "supply_count": 393,
+          "pressure_ratio": 0.18,
+          "predicted_change_pct": -5.7,
           "trend": "Falling",
           "tier_pressure_alert": null
         }
@@ -11030,14 +10928,14 @@
       "tier": "Tier B",
       "subTier": "High",
       "rankInTier": 4,
-      "value": 55.2,
+      "value": 55.4,
       "lcValue": 0.24,
       "demand": "Low",
       "trend": "Falling",
       "category": "weapons",
       "image": "images/item_140.png",
       "wikiUrl": "https://grand-piece-online.fandom.com/wiki/Cupid's_Bow",
-      "demandScore": 2.3,
+      "demandScore": 2.0,
       "official_rank": 158,
       "demand_count": 0,
       "supply_count": 5,
@@ -11062,10 +10960,10 @@
           "tier_pressure_alert": null
         },
         "7d": {
-          "demand_count": 9,
-          "supply_count": 18,
-          "pressure_ratio": 0.53,
-          "predicted_change_pct": -3.3,
+          "demand_count": 6,
+          "supply_count": 14,
+          "pressure_ratio": 0.47,
+          "predicted_change_pct": -3.7,
           "trend": "Falling",
           "tier_pressure_alert": null
         }
@@ -11111,9 +11009,9 @@
           "tier_pressure_alert": null
         },
         "7d": {
-          "demand_count": 86,
-          "supply_count": 81,
-          "pressure_ratio": 1.06,
+          "demand_count": 79,
+          "supply_count": 75,
+          "pressure_ratio": 1.05,
           "predicted_change_pct": 0.4,
           "trend": "Stable",
           "tier_pressure_alert": null
@@ -11128,7 +11026,7 @@
       "tier": "Tier B",
       "subTier": "Mid",
       "rankInTier": 6,
-      "value": 44.2,
+      "value": 44.4,
       "lcValue": 0.19,
       "demand": "Low",
       "trend": "Stable",
@@ -11160,11 +11058,11 @@
           "tier_pressure_alert": null
         },
         "7d": {
-          "demand_count": 22,
-          "supply_count": 29,
-          "pressure_ratio": 0.77,
-          "predicted_change_pct": -1.6,
-          "trend": "Falling",
+          "demand_count": 21,
+          "supply_count": 23,
+          "pressure_ratio": 0.92,
+          "predicted_change_pct": -0.6,
+          "trend": "Stable",
           "tier_pressure_alert": null
         }
       }
@@ -11184,7 +11082,7 @@
       "category": "weapons",
       "image": "images/item_143.png",
       "wikiUrl": "https://grand-piece-online.fandom.com/wiki/Hie_Hie_no_Mi",
-      "demandScore": 2.5,
+      "demandScore": 2.3,
       "official_rank": 161,
       "demand_count": 0,
       "supply_count": 0,
@@ -11209,10 +11107,10 @@
           "tier_pressure_alert": null
         },
         "7d": {
-          "demand_count": 11,
-          "supply_count": 22,
-          "pressure_ratio": 0.52,
-          "predicted_change_pct": -3.4,
+          "demand_count": 9,
+          "supply_count": 21,
+          "pressure_ratio": 0.45,
+          "predicted_change_pct": -3.9,
           "trend": "Falling",
           "tier_pressure_alert": null
         }
@@ -11226,7 +11124,7 @@
       "tier": "Tier B",
       "subTier": "Mid",
       "rankInTier": 8,
-      "value": 40.2,
+      "value": 40.4,
       "lcValue": 0.17,
       "demand": "Medium",
       "trend": "Falling",
@@ -11258,8 +11156,8 @@
           "tier_pressure_alert": null
         },
         "7d": {
-          "demand_count": 153,
-          "supply_count": 344,
+          "demand_count": 140,
+          "supply_count": 312,
           "pressure_ratio": 0.45,
           "predicted_change_pct": -3.9,
           "trend": "Falling",
@@ -11275,14 +11173,14 @@
       "tier": "Tier B",
       "subTier": "Mid",
       "rankInTier": 9,
-      "value": 38.2,
+      "value": 38.4,
       "lcValue": 0.16,
       "demand": "Medium",
       "trend": "Falling",
       "category": "fruits",
       "image": "images/item_145.png",
       "wikiUrl": "https://grand-piece-online.fandom.com/wiki/Hie_Hie_no_Mi",
-      "demandScore": 4.6,
+      "demandScore": 4.5,
       "official_rank": 163,
       "demand_count": 18,
       "supply_count": 28,
@@ -11307,8 +11205,8 @@
           "tier_pressure_alert": null
         },
         "7d": {
-          "demand_count": 145,
-          "supply_count": 224,
+          "demand_count": 130,
+          "supply_count": 201,
           "pressure_ratio": 0.65,
           "predicted_change_pct": -2.4,
           "trend": "Falling",
@@ -11324,14 +11222,14 @@
       "tier": "Tier B",
       "subTier": "Mid",
       "rankInTier": 10,
-      "value": 35.9,
+      "value": 35.8,
       "lcValue": 0.15,
       "demand": "Medium",
       "trend": "Falling",
       "category": "fruits",
       "image": "images/item_146.png",
       "wikiUrl": "https://grand-piece-online.fandom.com/wiki/Devil_Fruits",
-      "demandScore": 4.5,
+      "demandScore": 4.4,
       "official_rank": 164,
       "demand_count": 21,
       "supply_count": 34,
@@ -11356,10 +11254,10 @@
           "tier_pressure_alert": null
         },
         "7d": {
-          "demand_count": 124,
-          "supply_count": 225,
-          "pressure_ratio": 0.55,
-          "predicted_change_pct": -3.1,
+          "demand_count": 109,
+          "supply_count": 206,
+          "pressure_ratio": 0.53,
+          "predicted_change_pct": -3.3,
           "trend": "Falling",
           "tier_pressure_alert": null
         }
@@ -11520,14 +11418,14 @@
       "tier": "Tier B",
       "subTier": "Low",
       "rankInTier": 14,
-      "value": 30.1,
+      "value": 30.2,
       "lcValue": 0.13,
       "demand": "Low",
       "trend": "Falling",
       "category": "weapons",
       "image": "images/item_149.png",
       "wikiUrl": "https://grand-piece-online.fandom.com/wiki/Iceborn_Katana",
-      "demandScore": 2.4,
+      "demandScore": 2.3,
       "official_rank": 168,
       "demand_count": 0,
       "supply_count": 7,
@@ -11552,10 +11450,10 @@
           "tier_pressure_alert": null
         },
         "7d": {
-          "demand_count": 10,
-          "supply_count": 36,
-          "pressure_ratio": 0.3,
-          "predicted_change_pct": -4.9,
+          "demand_count": 9,
+          "supply_count": 33,
+          "pressure_ratio": 0.29,
+          "predicted_change_pct": -5.0,
           "trend": "Falling",
           "tier_pressure_alert": null
         }
@@ -11569,8 +11467,8 @@
       "tier": "Tier B",
       "subTier": "Low",
       "rankInTier": 15,
-      "value": 29.1,
-      "lcValue": 0.12,
+      "value": 29.2,
+      "lcValue": 0.13,
       "demand": "Low",
       "trend": "Rising",
       "category": "accessories",
@@ -11610,12 +11508,15 @@
           }
         },
         "7d": {
-          "demand_count": 23,
-          "supply_count": 20,
-          "pressure_ratio": 1.14,
-          "predicted_change_pct": 1.0,
-          "trend": "Stable",
-          "tier_pressure_alert": null
+          "demand_count": 21,
+          "supply_count": 15,
+          "pressure_ratio": 1.38,
+          "predicted_change_pct": 2.7,
+          "trend": "Rising",
+          "tier_pressure_alert": {
+            "en": "High chance of tier promotion (trading on par with Iceborn Katana)",
+            "ru": "Высокий шанс повышения (торгуется на уровне Ледяная Катана (IBK))"
+          }
         }
       }
     },
@@ -11660,8 +11561,8 @@
         },
         "7d": {
           "demand_count": 0,
-          "supply_count": 18,
-          "pressure_ratio": 0.05,
+          "supply_count": 15,
+          "pressure_ratio": 0.06,
           "predicted_change_pct": -6.6,
           "trend": "Falling",
           "tier_pressure_alert": null
@@ -11781,7 +11682,7 @@
       "category": "accessories",
       "image": "images/item_153.png",
       "wikiUrl": "https://grand-piece-online.fandom.com/wiki/Megalodon_Helmet",
-      "demandScore": 3.7,
+      "demandScore": 4.0,
       "official_rank": 173,
       "demand_count": 2,
       "supply_count": 0,
@@ -11816,8 +11717,8 @@
         },
         "7d": {
           "demand_count": 21,
-          "supply_count": 2,
-          "pressure_ratio": 7.33,
+          "supply_count": 0,
+          "pressure_ratio": 22.0,
           "predicted_change_pct": 12.0,
           "trend": "Rising",
           "tier_pressure_alert": {
@@ -11842,7 +11743,7 @@
       "category": "fruits",
       "image": "images/item_155.png",
       "wikiUrl": "https://grand-piece-online.fandom.com/wiki/Moku_Moku_no_Mi",
-      "demandScore": 3.2,
+      "demandScore": 3.0,
       "official_rank": 174,
       "demand_count": 2,
       "supply_count": 42,
@@ -11867,10 +11768,10 @@
           "tier_pressure_alert": null
         },
         "7d": {
-          "demand_count": 26,
-          "supply_count": 203,
-          "pressure_ratio": 0.13,
-          "predicted_change_pct": -6.1,
+          "demand_count": 22,
+          "supply_count": 188,
+          "pressure_ratio": 0.12,
+          "predicted_change_pct": -6.2,
           "trend": "Falling",
           "tier_pressure_alert": null
         }
@@ -11884,7 +11785,7 @@
       "tier": "Tier B-",
       "subTier": "High",
       "rankInTier": 3,
-      "value": 23.1,
+      "value": 23.2,
       "lcValue": 0.1,
       "demand": "Low",
       "trend": "Falling",
@@ -11916,9 +11817,9 @@
           "tier_pressure_alert": null
         },
         "7d": {
-          "demand_count": 22,
-          "supply_count": 208,
-          "pressure_ratio": 0.11,
+          "demand_count": 21,
+          "supply_count": 187,
+          "pressure_ratio": 0.12,
           "predicted_change_pct": -6.2,
           "trend": "Falling",
           "tier_pressure_alert": null
@@ -11933,14 +11834,14 @@
       "tier": "Tier B-",
       "subTier": "High",
       "rankInTier": 4,
-      "value": 22.6,
+      "value": 22.7,
       "lcValue": 0.1,
       "demand": "Medium",
       "trend": "Falling",
       "category": "fruits",
       "image": "images/item_157.png",
       "wikiUrl": "https://grand-piece-online.fandom.com/wiki/Nikyu_Nikyu_no_Mi",
-      "demandScore": 3.6,
+      "demandScore": 3.5,
       "official_rank": 176,
       "demand_count": 4,
       "supply_count": 29,
@@ -11965,8 +11866,8 @@
           "tier_pressure_alert": null
         },
         "7d": {
-          "demand_count": 42,
-          "supply_count": 227,
+          "demand_count": 39,
+          "supply_count": 211,
           "pressure_ratio": 0.19,
           "predicted_change_pct": -5.7,
           "trend": "Falling",
@@ -11982,7 +11883,7 @@
       "tier": "Tier B-",
       "subTier": "High",
       "rankInTier": 5,
-      "value": 21.9,
+      "value": 21.8,
       "lcValue": 0.09,
       "demand": "Medium",
       "trend": "Falling",
@@ -12014,8 +11915,8 @@
           "tier_pressure_alert": null
         },
         "7d": {
-          "demand_count": 39,
-          "supply_count": 222,
+          "demand_count": 36,
+          "supply_count": 207,
           "pressure_ratio": 0.18,
           "predicted_change_pct": -5.7,
           "trend": "Falling",
@@ -12031,14 +11932,14 @@
       "tier": "Tier B-",
       "subTier": "High",
       "rankInTier": 6,
-      "value": 21.1,
+      "value": 21.2,
       "lcValue": 0.09,
-      "demand": "Medium",
+      "demand": "Low",
       "trend": "Falling",
       "category": "fruits",
       "image": "images/item_159.png",
       "wikiUrl": "https://grand-piece-online.fandom.com/wiki/Yuki_Yuki_no_Mi",
-      "demandScore": 3.6,
+      "demandScore": 3.4,
       "official_rank": 178,
       "demand_count": 8,
       "supply_count": 35,
@@ -12063,10 +11964,10 @@
           "tier_pressure_alert": null
         },
         "7d": {
-          "demand_count": 41,
-          "supply_count": 215,
-          "pressure_ratio": 0.19,
-          "predicted_change_pct": -5.7,
+          "demand_count": 34,
+          "supply_count": 199,
+          "pressure_ratio": 0.17,
+          "predicted_change_pct": -5.8,
           "trend": "Falling",
           "tier_pressure_alert": null
         }
@@ -12229,12 +12130,12 @@
       "rankInTier": 10,
       "value": 18.0,
       "lcValue": 0.08,
-      "demand": "Medium",
+      "demand": "Low",
       "trend": "Falling",
       "category": "outfits",
       "image": "images/item_163.png",
       "wikiUrl": "https://grand-piece-online.fandom.com/wiki/Titan_of_Justice%C2%B4s_Outfit",
-      "demandScore": 3.6,
+      "demandScore": 3.4,
       "official_rank": 182,
       "demand_count": 7,
       "supply_count": 16,
@@ -12259,10 +12160,10 @@
           "tier_pressure_alert": null
         },
         "7d": {
-          "demand_count": 42,
-          "supply_count": 74,
-          "pressure_ratio": 0.57,
-          "predicted_change_pct": -3.0,
+          "demand_count": 35,
+          "supply_count": 70,
+          "pressure_ratio": 0.51,
+          "predicted_change_pct": -3.4,
           "trend": "Falling",
           "tier_pressure_alert": null
         }
@@ -12423,14 +12324,14 @@
       "tier": "Tier B-",
       "subTier": "Low",
       "rankInTier": 14,
-      "value": 13.1,
+      "value": 13.2,
       "lcValue": 0.06,
       "demand": "Very High",
       "trend": "Falling",
       "category": "misc",
       "image": "images/item_168.png",
       "wikiUrl": "https://grand-piece-online.fandom.com/wiki/Traveling_Merchant",
-      "demandScore": 8.2,
+      "demandScore": 8.1,
       "official_rank": 186,
       "demand_count": 2138,
       "supply_count": 10155,
@@ -12455,10 +12356,10 @@
           "tier_pressure_alert": null
         },
         "7d": {
-          "demand_count": 11824,
-          "supply_count": 55995,
-          "pressure_ratio": 0.21,
-          "predicted_change_pct": -5.5,
+          "demand_count": 10679,
+          "supply_count": 52802,
+          "pressure_ratio": 0.2,
+          "predicted_change_pct": -5.6,
           "trend": "Falling",
           "tier_pressure_alert": null
         }
@@ -12472,14 +12373,14 @@
       "tier": "Tier B-",
       "subTier": "Low",
       "rankInTier": 15,
-      "value": 12.6,
+      "value": 12.7,
       "lcValue": 0.05,
       "demand": "Low",
       "trend": "Stable",
       "category": "weapons",
       "image": "images/item_169.png",
       "wikiUrl": "https://grand-piece-online.fandom.com/wiki/Traveling_Merchant",
-      "demandScore": 2.5,
+      "demandScore": 2.2,
       "official_rank": 187,
       "demand_count": 2,
       "supply_count": 2,
@@ -12504,10 +12405,10 @@
           "tier_pressure_alert": null
         },
         "7d": {
-          "demand_count": 9,
+          "demand_count": 7,
           "supply_count": 8,
-          "pressure_ratio": 1.11,
-          "predicted_change_pct": 0.8,
+          "pressure_ratio": 0.89,
+          "predicted_change_pct": -0.8,
           "trend": "Stable",
           "tier_pressure_alert": null
         }
@@ -12701,9 +12602,9 @@
         },
         "7d": {
           "demand_count": 2,
-          "supply_count": 12,
-          "pressure_ratio": 0.23,
-          "predicted_change_pct": -5.4,
+          "supply_count": 11,
+          "pressure_ratio": 0.25,
+          "predicted_change_pct": -5.2,
           "trend": "Falling",
           "tier_pressure_alert": null
         }
@@ -12724,7 +12625,7 @@
       "category": "outfits",
       "image": "images/item_174.png",
       "wikiUrl": "https://grand-piece-online.fandom.com/wiki/Sunken_Armor",
-      "demandScore": 0.0,
+      "demandScore": 0.1,
       "official_rank": 192,
       "demand_count": 0,
       "supply_count": 1,
@@ -12750,9 +12651,9 @@
         },
         "7d": {
           "demand_count": 1,
-          "supply_count": 6,
-          "pressure_ratio": 0.29,
-          "predicted_change_pct": -5.0,
+          "supply_count": 4,
+          "pressure_ratio": 0.4,
+          "predicted_change_pct": -4.2,
           "trend": "Falling",
           "tier_pressure_alert": null
         }
@@ -13011,14 +12912,14 @@
       "tier": "Tier C",
       "subTier": "High",
       "rankInTier": 2,
-      "value": 8.79,
+      "value": 8.78,
       "lcValue": 0.04,
       "demand": "Low",
       "trend": "Falling",
       "category": "accessories",
       "image": "images/item_180.png",
       "wikiUrl": "https://grand-piece-online.fandom.com/wiki/Tomoe_Drums",
-      "demandScore": 2.3,
+      "demandScore": 2.2,
       "official_rank": 198,
       "demand_count": 0,
       "supply_count": 4,
@@ -13043,10 +12944,10 @@
           "tier_pressure_alert": null
         },
         "7d": {
-          "demand_count": 9,
+          "demand_count": 8,
           "supply_count": 23,
-          "pressure_ratio": 0.42,
-          "predicted_change_pct": -4.1,
+          "pressure_ratio": 0.38,
+          "predicted_change_pct": -4.3,
           "trend": "Falling",
           "tier_pressure_alert": null
         }
@@ -13109,14 +13010,14 @@
       "tier": "Tier C",
       "subTier": "High",
       "rankInTier": 4,
-      "value": 7.93,
+      "value": 7.96,
       "lcValue": 0.03,
       "demand": "Low",
       "trend": "Falling",
       "category": "outfits",
       "image": "images/item_182.png",
       "wikiUrl": "https://grand-piece-online.fandom.com/wiki/Hawk_Eye's_Outfit",
-      "demandScore": 1.7,
+      "demandScore": 1.5,
       "official_rank": 200,
       "demand_count": 3,
       "supply_count": 8,
@@ -13141,9 +13042,9 @@
           "tier_pressure_alert": null
         },
         "7d": {
-          "demand_count": 5,
-          "supply_count": 28,
-          "pressure_ratio": 0.21,
+          "demand_count": 4,
+          "supply_count": 22,
+          "pressure_ratio": 0.22,
           "predicted_change_pct": -5.5,
           "trend": "Falling",
           "tier_pressure_alert": null
@@ -13165,7 +13066,7 @@
       "category": "accessories",
       "image": "images/item_183.png",
       "wikiUrl": "https://grand-piece-online.fandom.com/wiki/Donmingo%27s_Shades",
-      "demandScore": 2.4,
+      "demandScore": 2.5,
       "official_rank": 201,
       "demand_count": 0,
       "supply_count": 0,
@@ -13735,8 +13636,8 @@
           "tier_pressure_alert": null
         },
         "7d": {
-          "demand_count": 169,
-          "supply_count": 185,
+          "demand_count": 155,
+          "supply_count": 171,
           "pressure_ratio": 0.91,
           "predicted_change_pct": -0.6,
           "trend": "Stable",
@@ -13785,9 +13686,9 @@
         },
         "7d": {
           "demand_count": 0,
-          "supply_count": 23,
-          "pressure_ratio": 0.04,
-          "predicted_change_pct": -6.7,
+          "supply_count": 21,
+          "pressure_ratio": 0.05,
+          "predicted_change_pct": -6.6,
           "trend": "Falling",
           "tier_pressure_alert": null
         }
